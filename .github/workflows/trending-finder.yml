@@ -22,7 +22,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests yt-dlp
+          pip install requests
+          pip install -U yt-dlp
 
       - name: Check Telegram for /start or button press
         env:
