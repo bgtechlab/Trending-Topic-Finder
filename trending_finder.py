@@ -35,17 +35,17 @@ CHANNELS = {
     "sg-news-automation": {
         "label": "SG News (Sarkari Result)",
         "keywords": ["sarkari result 2026", "government job news", "sarkari naukri"],
-        "competitors": [],  # yahan competitor channel URLs daal sakte hain
+        "competitors": [https://www.youtube.com/@SGNews18],  # yahan competitor channel URLs daal sakte hain
     },
     "tech-review-bot": {
         "label": "TechGlow India",
         "keywords": ["new phone launch 2026", "gadget review india", "smartphone unboxing"],
-        "competitors": [],
+        "competitors": [https://www.youtube.com/@BGCraters],
     },
     "bg-auto-job-bot": {
         "label": "BG GrowUp Job Bot",
         "keywords": ["job result today", "exam result 2026", "recruitment news"],
-        "competitors": [],
+        "competitors": [https://www.youtube.com/@GrowUp1307],
     },
     "history-facts-bot": {
         "label": "Hindi History Facts",
@@ -55,7 +55,7 @@ CHANNELS = {
     "reels-bot": {
         "label": "BG Reels Bot",
         "keywords": ["trending reel product", "viral gadget shorts", "amazon finds shorts"],
-        "competitors": [],
+        "competitors": [https://www.youtube.com/@BGCraters],
     },
 }
 
