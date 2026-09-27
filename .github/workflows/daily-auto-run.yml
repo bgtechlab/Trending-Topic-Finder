@@ -2,8 +2,8 @@ name: Daily Auto Trending Run
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # roz subah ~8:30 AM IST (3:00 UTC) apne aap chalega
-  workflow_dispatch: {}
+    - cron: "30 0 * * *"   # roz subah 6:00 AM IST (00:30 UTC) — sirf ek baar
+  workflow_dispatch: {}      # jab chaho khud "Run workflow" dabakar bhi chala sakte ho
 
 permissions:
   contents: write
