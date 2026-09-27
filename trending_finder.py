@@ -33,19 +33,19 @@ from datetime import datetime, timedelta, timezone
 
 CHANNELS = {
     "sg-news-automation": {
-        "label": "SG News (Sarkari Result)",
-        "keywords": ["sarkari result 2026", "government job news", "sarkari naukri"],
-        "competitors": [],  # yahan competitor channel URLs daal sakte hain
+        "label": "SG News24 (Cricket & Sports)",
+        "keywords": ["cricket news today", "cricket match highlights", "IPL news 2026", "sports news hindi"],
+        "competitors": ["https://www.youtube.com/@SGNews18"],
     },
     "tech-review-bot": {
-        "label": "TechGlow India",
-        "keywords": ["new phone launch 2026", "gadget review india", "smartphone unboxing"],
-        "competitors": [],
+        "label": "BG Craters (Product Review)",
+        "keywords": ["new phone launch 2026", "gadget review india", "amazon product review", "smartphone unboxing"],
+        "competitors": ["https://www.youtube.com/@BGCraters"],
     },
     "bg-auto-job-bot": {
-        "label": "BG GrowUp Job Bot",
-        "keywords": ["job result today", "exam result 2026", "recruitment news"],
-        "competitors": [],
+        "label": "BK GrowUp (Sarkari Naukri)",
+        "keywords": ["railway vacancy 2026", "ssc cgl update", "banking job notification", "upsc exam update", "gk gs current affairs"],
+        "competitors": ["https://www.youtube.com/@GrowUp1307"],
     },
     "history-facts-bot": {
         "label": "Hindi History Facts",
