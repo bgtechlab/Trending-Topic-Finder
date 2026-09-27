@@ -11,8 +11,7 @@
 - Competitor channels ke naye videos par alert
 - Purani uploaded videos ke views track karke batata hai kaunsi category
   best chal rahi hai
-- Do tareeke se chal sakta hai: (1) roz apne aap subah, (2) Telegram par
-  "/start" bhejte hi turant
+- Ek hi tareeke se chalega: roz subah automatic 6:00 AM IST par list Telegram par aa jayegi
 
 ## Setup Steps
 
@@ -38,10 +37,14 @@
    daal do, jaise:
    `"competitors": ["https://www.youtube.com/@SomeCompetitorChannel"]`
 
-6. Bas — commit + push karte hi dono workflows apne aap active ho jayenge:
-   - `daily-auto-run.yml` — roz subah automatic list
-   - `trending-finder.yml` — har 5 min check karega Telegram par "/start"
-     ya button-press hua ki nahi
+6. Bas — commit + push karte hi workflow apne aap active ho jayega:
+   - `daily-auto-run.yml` — roz subah THEEK 6:00 AM IST par automatic list Telegram par aayegi
+
+## Repo cleanup (agar pehle wala version already push kiya hai)
+Agar aapne pehle `trending-finder.yml` workflow file aur `telegram_listener.py`
+already apne repo mein daal diya hai, to unhe repo se **delete** kar dein —
+warna wo har 5 minute chalte rahenge. Sirf `daily-auto-run.yml` aur
+`trending_finder.py` rakhne hain.
 
 ## Manual test
 GitHub repo ke "Actions" tab mein jaake "Daily Auto Trending Run" workflow
