@@ -76,23 +76,25 @@ TELEGRAM_API = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}"
 
 def fetch_youtube_trending(keyword, limit=10):
     """yt-dlp ke through YouTube search results nikalna — koi API key nahi.
-    GitHub Actions ke runner IP ko YouTube kabhi-kabhi 'bot' samajh kar
-    block kar deta hai, isliye android player client force karte hain
-    jo is issue ko usually bypass kar deta hai."""
+    IMPORTANT: --flat-playlist use karte hain taaki yt-dlp har video ka
+    poora page na khole (jo 'Sign in to confirm you're not a bot' wala
+    error trigger karta hai GitHub Actions ke cloud IP par). Flat mode
+    sirf search-result list nikalta hai, view_count/upload_date nahi
+    milta — isliye position-based score fallback use karte hain."""
     try:
         cmd = [
             "yt-dlp",
             f"ytsearch{limit}:{keyword}",
+            "--flat-playlist",
             "--dump-json",
             "--no-warnings",
             "--skip-download",
-            "--extractor-args", "youtube:player_client=android",
         ]
         result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
         if result.returncode != 0:
             print(f"[youtube] non-zero exit for '{keyword}': {result.stderr.strip()[:500]}")
         videos = []
-        for line in result.stdout.strip().split("\n"):
+        for rank, line in enumerate(result.stdout.strip().split("\n")):
             if not line:
                 continue
             try:
@@ -101,7 +103,8 @@ def fetch_youtube_trending(keyword, limit=10):
                     "title": data.get("title", ""),
                     "url": f"https://www.youtube.com/watch?v={data.get('id')}",
                     "views": data.get("view_count") or 0,
-                    "upload_date": data.get("upload_date"),  # YYYYMMDD
+                    "upload_date": data.get("upload_date"),
+                    "rank": rank,
                     "source": "youtube",
                 })
             except json.JSONDecodeError:
@@ -114,24 +117,34 @@ def fetch_youtube_trending(keyword, limit=10):
 
 
 def fetch_reddit_trending(keyword, limit=10):
-    """Reddit ka public search JSON endpoint — auth ki zaroorat nahi."""
+    """Reddit ka RSS/Atom search feed — JSON endpoint (.json) datacenter
+    IPs (GitHub Actions) ko aksar block kar deta hai, RSS zyada reliable
+    rehta hai."""
     try:
-        url = f"https://www.reddit.com/search.json?q={keyword}&sort=hot&limit={limit}"
-        headers = {"User-Agent": "trending-finder-bot/1.0"}
+        import xml.etree.ElementTree as ET
+        url = f"https://www.reddit.com/search.rss?q={keyword}&sort=hot&limit={limit}"
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
         resp = requests.get(url, headers=headers, timeout=15)
+        if resp.status_code != 200:
+            print(f"[reddit] '{keyword}' -> status {resp.status_code}, body: {resp.text[:200]}")
+            return []
+        root = ET.fromstring(resp.content)
+        ns = {"atom": "http://www.w3.org/2005/Atom"}
         posts = []
-        for child in resp.json().get("data", {}).get("children", []):
-            d = child.get("data", {})
+        for rank, entry in enumerate(root.findall("atom:entry", ns)):
+            title_el = entry.find("atom:title", ns)
+            link_el = entry.find("atom:link", ns)
+            updated_el = entry.find("atom:updated", ns)
+            title = title_el.text if title_el is not None else ""
+            link = link_el.get("href") if link_el is not None else ""
+            upload_date = None
+            if updated_el is not None and updated_el.text:
+                upload_date = updated_el.text[:10].replace("-", "")
             posts.append({
-                "title": d.get("title", ""),
-                "url": "https://reddit.com" + d.get("permalink", ""),
-                "views": d.get("ups", 0),
-                "upload_date": datetime.fromtimestamp(
-                    d.get("created_utc", 0), tz=timezone.utc
-                ).strftime("%Y%m%d"),
-                "source": "reddit",
+                "title": title, "url": link, "views": 0,
+                "upload_date": upload_date, "rank": rank, "source": "reddit",
             })
-        print(f"[reddit] '{keyword}' -> {len(posts)} results (status {resp.status_code})")
+        print(f"[reddit] '{keyword}' -> {len(posts)} results")
         return posts
     except Exception as e:
         print(f"[reddit] error for '{keyword}': {e}")
@@ -150,6 +163,9 @@ def fetch_google_trends_related(keyword):
             "?hl=hi-IN&tz=-330&geo=IN"
         )
         resp = requests.get(url, timeout=15)
+        if resp.status_code != 200:
+            print(f"[google_trends] status {resp.status_code}, body: {resp.text[:200]}")
+            return []
         raw = resp.text.replace(")]}',", "", 1)
         data = json.loads(raw)
         trends = []
@@ -233,6 +249,11 @@ def heuristic_score(topic):
         views = eval(views) if isinstance(views, str) else views
     except Exception:
         views = 0
+    if not views:
+        # views na milne par (flat-playlist/RSS) result ki position use karo —
+        # jitna upar result utna zyada relevant maana jaata hai
+        rank = topic.get("rank", 5)
+        views = max(0, 100 - (rank * 10))
     recency_bonus = 1.5 if topic.get("source") == "google_trends" else 1.0
     return views * recency_bonus
 
