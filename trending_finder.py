@@ -34,18 +34,18 @@ from datetime import datetime, timedelta, timezone
 CHANNELS = {
     "sg-news-automation": {
         "label": "SG News (Sarkari Result)",
-        "keywords": ["cricket news today", "sports news hindi", "IPL update 2026", "Rohit Sharma","Virat Kohli"],
-        "competitors": ["https://www.youtube.com/@SGNews18"],  # yahan competitor channel URLs daal sakte hain
+        "keywords": ["sarkari result 2026", "government job news", "sarkari naukri"],
+        "competitors": [],  # yahan competitor channel URLs daal sakte hain
     },
     "tech-review-bot": {
         "label": "TechGlow India",
         "keywords": ["new phone launch 2026", "gadget review india", "smartphone unboxing"],
-        "competitors": ["https://www.youtube.com/@BGCraters"],
+        "competitors": [],
     },
     "bg-auto-job-bot": {
         "label": "BG GrowUp Job Bot",
         "keywords": ["job result today", "exam result 2026", "recruitment news"],
-        "competitors": ["https://www.youtube.com/@GrowUp1307"],
+        "competitors": [],
     },
     "history-facts-bot": {
         "label": "Hindi History Facts",
@@ -55,7 +55,7 @@ CHANNELS = {
     "reels-bot": {
         "label": "BG Reels Bot",
         "keywords": ["trending reel product", "viral gadget shorts", "amazon finds shorts"],
-        "competitors": ["https://www.youtube.com/@BGCraters"],
+        "competitors": [],
     },
 }
 
@@ -75,7 +75,10 @@ TELEGRAM_API = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}"
 # ---------------------------------------------------------------------
 
 def fetch_youtube_trending(keyword, limit=10):
-    """yt-dlp ke through YouTube search results nikalna — koi API key nahi."""
+    """yt-dlp ke through YouTube search results nikalna — koi API key nahi.
+    GitHub Actions ke runner IP ko YouTube kabhi-kabhi 'bot' samajh kar
+    block kar deta hai, isliye android player client force karte hain
+    jo is issue ko usually bypass kar deta hai."""
     try:
         cmd = [
             "yt-dlp",
@@ -83,8 +86,11 @@ def fetch_youtube_trending(keyword, limit=10):
             "--dump-json",
             "--no-warnings",
             "--skip-download",
+            "--extractor-args", "youtube:player_client=android",
         ]
         result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
+        if result.returncode != 0:
+            print(f"[youtube] non-zero exit for '{keyword}': {result.stderr.strip()[:500]}")
         videos = []
         for line in result.stdout.strip().split("\n"):
             if not line:
@@ -100,6 +106,7 @@ def fetch_youtube_trending(keyword, limit=10):
                 })
             except json.JSONDecodeError:
                 continue
+        print(f"[youtube] '{keyword}' -> {len(videos)} results")
         return videos
     except Exception as e:
         print(f"[youtube] error for '{keyword}': {e}")
@@ -124,6 +131,7 @@ def fetch_reddit_trending(keyword, limit=10):
                 ).strftime("%Y%m%d"),
                 "source": "reddit",
             })
+        print(f"[reddit] '{keyword}' -> {len(posts)} results (status {resp.status_code})")
         return posts
     except Exception as e:
         print(f"[reddit] error for '{keyword}': {e}")
@@ -156,6 +164,7 @@ def fetch_google_trends_related(keyword):
                         "upload_date": datetime.now(timezone.utc).strftime("%Y%m%d"),
                         "source": "google_trends",
                     })
+        print(f"[google_trends] '{keyword}' -> {len(trends)} results")
         return trends
     except Exception as e:
         print(f"[google_trends] error: {e}")
