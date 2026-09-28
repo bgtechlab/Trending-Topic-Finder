@@ -2,7 +2,7 @@ name: Daily Auto Trending Run
 
 on:
   schedule:
-    - cron: "30 0 * * *"   # roz subah 6:00 AM IST (00:30 UTC) — sirf ek baar
+    - cron: "10 0 * * *"   # सुबह 5:40 IST, देर होने पर भी लगभग 6 बजे तक आ जाएगा
   workflow_dispatch: {}      # jab chaho khud "Run workflow" dabakar bhi chala sakte ho
 
 permissions:
