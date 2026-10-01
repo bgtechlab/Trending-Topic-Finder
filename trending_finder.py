@@ -246,7 +246,7 @@ def heuristic_score(topic):
     try:
         views = float(str(views).replace("K", "e3").replace("M", "e6")
                        .replace("+", "").replace(",", "") or 0)
-        views = eval(views) if isinstance(views, str) else views
+        views = float(views)
     except Exception:
         views = 0
     if not views:
@@ -404,11 +404,25 @@ def main():
         raw_topics = fetch_all_sources(cfg["keywords"])
         filtered = dedupe_and_filter(raw_topics, used_titles)
         top_topics = rank_topics(filtered, cfg["label"])
+        fetched_at = datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
+        source_counts = {}
+        for item in raw_topics:
+            source = item.get("source") or "unknown"
+            source_counts[source] = source_counts.get(source, 0) + 1
+        for item in top_topics:
+            item["fetched_at"] = fetched_at
+            item["score_type"] = "views_or_search_rank_heuristic"
+            item["source"] = item.get("source") or "unknown"
+
+        # Keep current results separate from long-term duplicate history.
+        history.setdefault(channel_key, {"suggested": [], "uploaded": []})
+        history[channel_key]["latest"] = top_topics
+        history[channel_key]["updated_at"] = fetched_at
+        history[channel_key]["source_counts"] = source_counts
 
         if not top_topics:
-            send_telegram_message(f"⚠️ {cfg['label']}: aaj koi naya trending topic nahi mila.")
+            send_telegram_message(f"⚠️ {cfg['label']}: aaj koi naya trending topic nahi mila. Sources: {source_counts}")
             continue
-
         # Competitor watch
         for comp_url in cfg.get("competitors", []):
             latest = fetch_competitor_latest(comp_url)
@@ -422,7 +436,6 @@ def main():
         send_telegram_message(msg, keyboard)
 
         # Save to history so it's not repeated tomorrow
-        history.setdefault(channel_key, {"suggested": [], "uploaded": []})
         history[channel_key]["suggested"].extend(top_topics)
         # last 200 tak hi rakho, warna file badi ho jayegi
         history[channel_key]["suggested"] = history[channel_key]["suggested"][-200:]
