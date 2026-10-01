@@ -405,9 +405,126 @@
         "rank": 6,
         "source": "youtube",
         "score": 250.192
+      },
+      {
+        "title": "India vs West Indies 2nd ODI Full Highlights 2026 | INDIA VS WINDIES",
+        "url": "https://www.youtube.com/watch?v=vS2G6_hDI7A",
+        "views": 951477,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 951.477,
+        "fetched_at": "2026-10-01T14:01:57Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Pakistan vs Bangladesh Semi Final Full Highlights Asian Games 2026 | PAK VS BAN",
+        "url": "https://www.youtube.com/watch?v=Prh4JR5CqgQ",
+        "views": 434926,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 434.926,
+        "fetched_at": "2026-10-01T14:01:57Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Pakistan Vs Bangladesh Match Full Highlights 1st Semi-Final, Asian Games 2026 | Pak Vs Ban",
+        "url": "https://www.youtube.com/watch?v=tNWdVRE9qSY",
+        "views": 215678,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 215.678,
+        "fetched_at": "2026-10-01T14:01:57Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "India vs Sri Lanka Asian Games Semi Final Full Match Highlights 2026",
+        "url": "https://www.youtube.com/watch?v=DPdO_ge-9-o",
+        "views": 196164,
+        "upload_date": null,
+        "rank": 0,
+        "source": "youtube",
+        "score": 196.164,
+        "fetched_at": "2026-10-01T14:01:57Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "India vs West Indies 2nd ODI Full Highlights 2026 | IND vs WI 2nd ODI Match Full Highlights 2026",
+        "url": "https://www.youtube.com/watch?v=Z4XXwT5__bM",
+        "views": 164452,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 164.452,
+        "fetched_at": "2026-10-01T14:01:57Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "uploaded": []
+    "uploaded": [],
+    "latest": [
+      {
+        "title": "India vs West Indies 2nd ODI Full Highlights 2026 | INDIA VS WINDIES",
+        "url": "https://www.youtube.com/watch?v=vS2G6_hDI7A",
+        "views": 951477,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 951.477,
+        "fetched_at": "2026-10-01T14:01:57Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Pakistan vs Bangladesh Semi Final Full Highlights Asian Games 2026 | PAK VS BAN",
+        "url": "https://www.youtube.com/watch?v=Prh4JR5CqgQ",
+        "views": 434926,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 434.926,
+        "fetched_at": "2026-10-01T14:01:57Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Pakistan Vs Bangladesh Match Full Highlights 1st Semi-Final, Asian Games 2026 | Pak Vs Ban",
+        "url": "https://www.youtube.com/watch?v=tNWdVRE9qSY",
+        "views": 215678,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 215.678,
+        "fetched_at": "2026-10-01T14:01:57Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "India vs Sri Lanka Asian Games Semi Final Full Match Highlights 2026",
+        "url": "https://www.youtube.com/watch?v=DPdO_ge-9-o",
+        "views": 196164,
+        "upload_date": null,
+        "rank": 0,
+        "source": "youtube",
+        "score": 196.164,
+        "fetched_at": "2026-10-01T14:01:57Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "India vs West Indies 2nd ODI Full Highlights 2026 | IND vs WI 2nd ODI Match Full Highlights 2026",
+        "url": "https://www.youtube.com/watch?v=Z4XXwT5__bM",
+        "views": 164452,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 164.452,
+        "fetched_at": "2026-10-01T14:01:57Z",
+        "score_type": "views_or_search_rank_heuristic"
+      }
+    ],
+    "updated_at": "2026-10-01T14:01:57Z",
+    "source_counts": {
+      "youtube": 40,
+      "reddit": 10
+    }
   },
   "tech-review-bot": {
     "suggested": [
@@ -815,9 +932,126 @@
         "rank": 0,
         "source": "youtube",
         "score": 537.409
+      },
+      {
+        "title": "I Tested Amazon Products for Lazy People!",
+        "url": "https://www.youtube.com/watch?v=qk5c98W1CNk",
+        "views": 7346592,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 7346.592,
+        "fetched_at": "2026-10-01T14:02:07Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "NEVER Trust Amazon Reviews!",
+        "url": "https://www.youtube.com/watch?v=SrYkrsBzbOQ",
+        "views": 3927905,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 3927.905,
+        "fetched_at": "2026-10-01T14:02:07Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Tried Viral Meesho Gadgets - Reality Check ✅",
+        "url": "https://www.youtube.com/watch?v=ae3DuzarOtY",
+        "views": 887907,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 887.907,
+        "fetched_at": "2026-10-01T14:02:07Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "wait for these phones.. *Upcoming Phones October 2026*",
+        "url": "https://www.youtube.com/watch?v=AmtV_gz3FSE",
+        "views": 428083,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 428.083,
+        "fetched_at": "2026-10-01T14:02:07Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Please Buy Your Next Phone Now! *Upcoming Smartphones*",
+        "url": "https://www.youtube.com/watch?v=vGudnR6QqXo",
+        "views": 319215,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 319.215,
+        "fetched_at": "2026-10-01T14:02:07Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "uploaded": []
+    "uploaded": [],
+    "latest": [
+      {
+        "title": "I Tested Amazon Products for Lazy People!",
+        "url": "https://www.youtube.com/watch?v=qk5c98W1CNk",
+        "views": 7346592,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 7346.592,
+        "fetched_at": "2026-10-01T14:02:07Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "NEVER Trust Amazon Reviews!",
+        "url": "https://www.youtube.com/watch?v=SrYkrsBzbOQ",
+        "views": 3927905,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 3927.905,
+        "fetched_at": "2026-10-01T14:02:07Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Tried Viral Meesho Gadgets - Reality Check ✅",
+        "url": "https://www.youtube.com/watch?v=ae3DuzarOtY",
+        "views": 887907,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 887.907,
+        "fetched_at": "2026-10-01T14:02:07Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "wait for these phones.. *Upcoming Phones October 2026*",
+        "url": "https://www.youtube.com/watch?v=AmtV_gz3FSE",
+        "views": 428083,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 428.083,
+        "fetched_at": "2026-10-01T14:02:07Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Please Buy Your Next Phone Now! *Upcoming Smartphones*",
+        "url": "https://www.youtube.com/watch?v=vGudnR6QqXo",
+        "views": 319215,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 319.215,
+        "fetched_at": "2026-10-01T14:02:07Z",
+        "score_type": "views_or_search_rank_heuristic"
+      }
+    ],
+    "updated_at": "2026-10-01T14:02:07Z",
+    "source_counts": {
+      "youtube": 40,
+      "reddit": 10
+    }
   },
   "bg-auto-job-bot": {
     "suggested": [
@@ -1225,9 +1459,125 @@
         "rank": 4,
         "source": "youtube",
         "score": 61.442
+      },
+      {
+        "title": "01 October 2026 Current Affairs | Episode 2192 | Kumar Gaurav Sir",
+        "url": "https://www.youtube.com/watch?v=JmuDqrtH7DI",
+        "views": 430149,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 430.149,
+        "fetched_at": "2026-10-01T14:02:17Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC CGL 2026 | ALL SHIFTS MATHS REVIEW OF DAY 1",
+        "url": "https://www.youtube.com/watch?v=zLVVy1FiNgw",
+        "views": 328693,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 328.693,
+        "fetched_at": "2026-10-01T14:02:17Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC CGL 2026 Maths Analysis 🔥1 Oct 1st Shift Analysis Maths Question Level कैसा रहा?Gagan Pratap Sir",
+        "url": "https://www.youtube.com/watch?v=p3fMJ9Em5fE",
+        "views": 202518,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 202.518,
+        "fetched_at": "2026-10-01T14:02:17Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Canara Bank 2026 Notification Out | 3500 Posts | Eligibility, Salary & Full Details | Oliveboard",
+        "url": "https://www.youtube.com/watch?v=_yxpH679UwI",
+        "views": 60510,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 60.51,
+        "fetched_at": "2026-10-01T14:02:17Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Last 10 Months Current Affairs 2026 | 1 October 2026 | SSC CGL Current Affairs MCQ By Ashutosh Sir",
+        "url": "https://www.youtube.com/watch?v=eNtLbFyTFGY",
+        "views": 57802,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 57.802,
+        "fetched_at": "2026-10-01T14:02:17Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "uploaded": []
+    "uploaded": [],
+    "latest": [
+      {
+        "title": "01 October 2026 Current Affairs | Episode 2192 | Kumar Gaurav Sir",
+        "url": "https://www.youtube.com/watch?v=JmuDqrtH7DI",
+        "views": 430149,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 430.149,
+        "fetched_at": "2026-10-01T14:02:17Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC CGL 2026 | ALL SHIFTS MATHS REVIEW OF DAY 1",
+        "url": "https://www.youtube.com/watch?v=zLVVy1FiNgw",
+        "views": 328693,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 328.693,
+        "fetched_at": "2026-10-01T14:02:17Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC CGL 2026 Maths Analysis 🔥1 Oct 1st Shift Analysis Maths Question Level कैसा रहा?Gagan Pratap Sir",
+        "url": "https://www.youtube.com/watch?v=p3fMJ9Em5fE",
+        "views": 202518,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 202.518,
+        "fetched_at": "2026-10-01T14:02:17Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Canara Bank 2026 Notification Out | 3500 Posts | Eligibility, Salary & Full Details | Oliveboard",
+        "url": "https://www.youtube.com/watch?v=_yxpH679UwI",
+        "views": 60510,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 60.51,
+        "fetched_at": "2026-10-01T14:02:17Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Last 10 Months Current Affairs 2026 | 1 October 2026 | SSC CGL Current Affairs MCQ By Ashutosh Sir",
+        "url": "https://www.youtube.com/watch?v=eNtLbFyTFGY",
+        "views": 57802,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 57.802,
+        "fetched_at": "2026-10-01T14:02:17Z",
+        "score_type": "views_or_search_rank_heuristic"
+      }
+    ],
+    "updated_at": "2026-10-01T14:02:17Z",
+    "source_counts": {
+      "youtube": 50
+    }
   },
   "history-facts-bot": {
     "suggested": [
@@ -1626,9 +1976,125 @@
         "rank": 4,
         "source": "youtube",
         "score": 0.06
+      },
+      {
+        "title": "Complete World History for UPSC CSE | Smart Revision through Animation  | OnlyIAS",
+        "url": "https://www.youtube.com/watch?v=qVC1Xd2p5rs",
+        "views": 611182,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 611.182,
+        "fetched_at": "2026-10-01T14:02:25Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Interesting Facts About Crows | Crow History In Urdu Hindi",
+        "url": "https://www.youtube.com/watch?v=FMpaeYLj_J8",
+        "views": 240157,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 240.157,
+        "fetched_at": "2026-10-01T14:02:25Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "World History for UPSC: Learn Through Animation | 8 Hrs Marathon | StudyIQ",
+        "url": "https://www.youtube.com/watch?v=cGilTAY59zU",
+        "views": 106241,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 106.241,
+        "fetched_at": "2026-10-01T14:02:25Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "विश्व इतिहास की अनसुनी कहानियाँ जो आपको नहीं बताई गईं | WOrld History Untold Stories",
+        "url": "https://www.youtube.com/watch?v=1IXRFgfL7xQ",
+        "views": 73677,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 73.677,
+        "fetched_at": "2026-10-01T14:02:25Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Complete WORLD HISTORY in Just 4 Hours 🔥 | UPSC Mains 2026-27 | WORLD HISTORY One Shot #upsc #pw",
+        "url": "https://www.youtube.com/watch?v=9OA-lbjK5xM",
+        "views": 34697,
+        "upload_date": null,
+        "rank": 0,
+        "source": "youtube",
+        "score": 34.697,
+        "fetched_at": "2026-10-01T14:02:25Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "uploaded": []
+    "uploaded": [],
+    "latest": [
+      {
+        "title": "Complete World History for UPSC CSE | Smart Revision through Animation  | OnlyIAS",
+        "url": "https://www.youtube.com/watch?v=qVC1Xd2p5rs",
+        "views": 611182,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 611.182,
+        "fetched_at": "2026-10-01T14:02:25Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Interesting Facts About Crows | Crow History In Urdu Hindi",
+        "url": "https://www.youtube.com/watch?v=FMpaeYLj_J8",
+        "views": 240157,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 240.157,
+        "fetched_at": "2026-10-01T14:02:25Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "World History for UPSC: Learn Through Animation | 8 Hrs Marathon | StudyIQ",
+        "url": "https://www.youtube.com/watch?v=cGilTAY59zU",
+        "views": 106241,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 106.241,
+        "fetched_at": "2026-10-01T14:02:25Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "विश्व इतिहास की अनसुनी कहानियाँ जो आपको नहीं बताई गईं | WOrld History Untold Stories",
+        "url": "https://www.youtube.com/watch?v=1IXRFgfL7xQ",
+        "views": 73677,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 73.677,
+        "fetched_at": "2026-10-01T14:02:25Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Complete WORLD HISTORY in Just 4 Hours 🔥 | UPSC Mains 2026-27 | WORLD HISTORY One Shot #upsc #pw",
+        "url": "https://www.youtube.com/watch?v=9OA-lbjK5xM",
+        "views": 34697,
+        "upload_date": null,
+        "rank": 0,
+        "source": "youtube",
+        "score": 34.697,
+        "fetched_at": "2026-10-01T14:02:25Z",
+        "score_type": "views_or_search_rank_heuristic"
+      }
+    ],
+    "updated_at": "2026-10-01T14:02:25Z",
+    "source_counts": {
+      "youtube": 30
+    }
   },
   "reels-bot": {
     "suggested": [
@@ -2027,8 +2493,124 @@
         "rank": 7,
         "source": "youtube",
         "score": 0.03
+      },
+      {
+        "title": "I Tried EVERY 1-Star Kitchen Gadget",
+        "url": "https://www.youtube.com/watch?v=h0HjktaeEpA",
+        "views": 54439187,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 54439.187,
+        "fetched_at": "2026-10-01T14:02:31Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "My Daughter Tries 100 Weird Amazon Products ft/ Brent Rivera",
+        "url": "https://www.youtube.com/watch?v=3VGhDJiQRkA",
+        "views": 40764471,
+        "upload_date": null,
+        "rank": 3,
+        "source": "youtube",
+        "score": 40764.471,
+        "fetched_at": "2026-10-01T14:02:31Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Bought 250 CURSED Amazon Products!",
+        "url": "https://www.youtube.com/watch?v=JXV8EzW0pwU",
+        "views": 15796054,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 15796.054,
+        "fetched_at": "2026-10-01T14:02:31Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "House Cleaning Tiktok 😍 | Smart Home Gadgets | #Home_Cleaning #home_decor  #asmr #usa #canada #us",
+        "url": "https://www.youtube.com/watch?v=5NAcLAUG5YY",
+        "views": 13788388,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 13788.388,
+        "fetched_at": "2026-10-01T14:02:31Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I bought every gadget I saw on Instagram",
+        "url": "https://www.youtube.com/watch?v=HzH-2vPLvqM",
+        "views": 11500255,
+        "upload_date": null,
+        "rank": 0,
+        "source": "youtube",
+        "score": 11500.255,
+        "fetched_at": "2026-10-01T14:02:31Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "uploaded": []
+    "uploaded": [],
+    "latest": [
+      {
+        "title": "I Tried EVERY 1-Star Kitchen Gadget",
+        "url": "https://www.youtube.com/watch?v=h0HjktaeEpA",
+        "views": 54439187,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 54439.187,
+        "fetched_at": "2026-10-01T14:02:31Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "My Daughter Tries 100 Weird Amazon Products ft/ Brent Rivera",
+        "url": "https://www.youtube.com/watch?v=3VGhDJiQRkA",
+        "views": 40764471,
+        "upload_date": null,
+        "rank": 3,
+        "source": "youtube",
+        "score": 40764.471,
+        "fetched_at": "2026-10-01T14:02:31Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Bought 250 CURSED Amazon Products!",
+        "url": "https://www.youtube.com/watch?v=JXV8EzW0pwU",
+        "views": 15796054,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 15796.054,
+        "fetched_at": "2026-10-01T14:02:31Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "House Cleaning Tiktok 😍 | Smart Home Gadgets | #Home_Cleaning #home_decor  #asmr #usa #canada #us",
+        "url": "https://www.youtube.com/watch?v=5NAcLAUG5YY",
+        "views": 13788388,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 13788.388,
+        "fetched_at": "2026-10-01T14:02:31Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I bought every gadget I saw on Instagram",
+        "url": "https://www.youtube.com/watch?v=HzH-2vPLvqM",
+        "views": 11500255,
+        "upload_date": null,
+        "rank": 0,
+        "source": "youtube",
+        "score": 11500.255,
+        "fetched_at": "2026-10-01T14:02:31Z",
+        "score_type": "views_or_search_rank_heuristic"
+      }
+    ],
+    "updated_at": "2026-10-01T14:02:31Z",
+    "source_counts": {
+      "youtube": 30
+    }
   }
 }
