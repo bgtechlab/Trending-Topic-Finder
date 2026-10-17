@@ -1780,67 +1780,122 @@
         "score": 405.899,
         "fetched_at": "2026-10-16T04:24:17Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "HIGHLIGHTS | Proteas vs Australia | 1st Test | Day 4",
+        "url": "https://www.youtube.com/watch?v=iZaj8TQn6BY",
+        "views": 605108,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 605.108,
+        "fetched_at": "2026-10-17T04:17:29Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "🔴VIKRANT GUPTA MATCH REPORT: Thank You West Indies For Exposing Indian Game Plan | Ind vs Wi",
+        "url": "https://www.youtube.com/watch?v=AlDbt-iigP4",
+        "views": 429755,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 429.755,
+        "fetched_at": "2026-10-17T04:17:29Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "WCL 2026 Semi-Final 1 | South Africa Champions vs England Champions | Full Match Highlights #WCL",
+        "url": "https://www.youtube.com/watch?v=2xnXGkbQ27c",
+        "views": 319335,
+        "upload_date": null,
+        "rank": 3,
+        "source": "youtube",
+        "score": 319.335,
+        "fetched_at": "2026-10-17T04:17:29Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "LIVE | Australia Champions vs West Indies Champions | S-F 2 | WCL 2026 | M9O1T",
+        "url": "https://www.youtube.com/watch?v=gTYKiqcAliI",
+        "views": 296218,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 296.218,
+        "fetched_at": "2026-10-17T04:17:29Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Cricket में सबसे बड़ा बल्लेबाज आया, World Record तहलका मचाया | Shai Hope | India West Indies",
+        "url": "https://www.youtube.com/watch?v=eYbfSbK1VOk",
+        "views": 173015,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 173.015,
+        "fetched_at": "2026-10-17T04:17:29Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "India vs West Indies 4th T20 2026 Full Match Highlights | Ind vs WI",
-        "url": "https://www.youtube.com/watch?v=ypf3hWuW5Ac",
-        "views": 1280419,
+        "title": "HIGHLIGHTS | Proteas vs Australia | 1st Test | Day 4",
+        "url": "https://www.youtube.com/watch?v=iZaj8TQn6BY",
+        "views": 605108,
         "upload_date": null,
         "rank": 4,
         "source": "youtube",
-        "score": 1280.419,
-        "fetched_at": "2026-10-16T04:24:17Z",
+        "score": 605.108,
+        "fetched_at": "2026-10-17T04:17:29Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "HIGHLIGHTS | Proteas vs Australia | 1st Test | Day 5",
-        "url": "https://www.youtube.com/watch?v=ujRQHhKXQu8",
-        "views": 684809,
+        "title": "🔴VIKRANT GUPTA MATCH REPORT: Thank You West Indies For Exposing Indian Game Plan | Ind vs Wi",
+        "url": "https://www.youtube.com/watch?v=AlDbt-iigP4",
+        "views": 429755,
         "upload_date": null,
         "rank": 6,
         "source": "youtube",
-        "score": 684.809,
-        "fetched_at": "2026-10-16T04:24:17Z",
+        "score": 429.755,
+        "fetched_at": "2026-10-17T04:17:29Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Full Match Highlights | Bangladesh Champions vs South Africa Champions | Match 17 | WCL 2026 |M9O1T",
-        "url": "https://www.youtube.com/watch?v=JCpM9OYpRMY",
-        "views": 681757,
+        "title": "WCL 2026 Semi-Final 1 | South Africa Champions vs England Champions | Full Match Highlights #WCL",
+        "url": "https://www.youtube.com/watch?v=2xnXGkbQ27c",
+        "views": 319335,
+        "upload_date": null,
+        "rank": 3,
+        "source": "youtube",
+        "score": 319.335,
+        "fetched_at": "2026-10-17T04:17:29Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "LIVE | Australia Champions vs West Indies Champions | S-F 2 | WCL 2026 | M9O1T",
+        "url": "https://www.youtube.com/watch?v=gTYKiqcAliI",
+        "views": 296218,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 296.218,
+        "fetched_at": "2026-10-17T04:17:29Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Cricket में सबसे बड़ा बल्लेबाज आया, World Record तहलका मचाया | Shai Hope | India West Indies",
+        "url": "https://www.youtube.com/watch?v=eYbfSbK1VOk",
+        "views": 173015,
         "upload_date": null,
         "rank": 8,
         "source": "youtube",
-        "score": 681.757,
-        "fetched_at": "2026-10-16T04:24:17Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "IND vs WI 4th T20 Match Full Highlights 2026 | India vs West Indies",
-        "url": "https://www.youtube.com/watch?v=fZDw7I5spxo",
-        "views": 517302,
-        "upload_date": null,
-        "rank": 5,
-        "source": "youtube",
-        "score": 517.302,
-        "fetched_at": "2026-10-16T04:24:17Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "India vs West Indies 4th T20 Full Highlights 2026 | IND VS WI",
-        "url": "https://www.youtube.com/watch?v=RKwou6o2umI",
-        "views": 405899,
-        "upload_date": null,
-        "rank": 0,
-        "source": "youtube",
-        "score": 405.899,
-        "fetched_at": "2026-10-16T04:24:17Z",
+        "score": 173.015,
+        "fetched_at": "2026-10-17T04:17:29Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-10-16T04:24:17Z",
+    "updated_at": "2026-10-17T04:17:29Z",
     "source_counts": {
       "youtube": 40,
       "reddit": 10
@@ -3616,67 +3671,122 @@
         "score": 13.702,
         "fetched_at": "2026-10-16T04:24:28Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "First Phone From Mivi India - Reality Check !",
+        "url": "https://www.youtube.com/watch?v=Xnb0gDWd4vs",
+        "views": 1364448,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 1364.448,
+        "fetched_at": "2026-10-17T04:17:39Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Top 15 Best Upcoming Flagships In 2026-27 ⚡Moto Signature 27, iQOO 16, iPhone 18 & More",
+        "url": "https://www.youtube.com/watch?v=lGBasaGBDIE",
+        "views": 213565,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 213.565,
+        "fetched_at": "2026-10-17T04:17:39Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Xiaomi 18 Pro Max Unboxing: The REAL Pro Max?",
+        "url": "https://www.youtube.com/watch?v=LiQGoDnv2EQ",
+        "views": 120558,
+        "upload_date": null,
+        "rank": 0,
+        "source": "youtube",
+        "score": 120.558,
+        "fetched_at": "2026-10-17T04:17:39Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Tecno Spark 50s 5G : This Budget 5G Phone IMPRESSED Me in 2026 🔥",
+        "url": "https://www.youtube.com/watch?v=h1ZhO3xg864",
+        "views": 83511,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 83.511,
+        "fetched_at": "2026-10-17T04:17:39Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "This Is What a ₹1 Lakh+ Fridge Looks Like !",
+        "url": "https://www.youtube.com/watch?v=zEr-bVwsXqo",
+        "views": 59254,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 59.254,
+        "fetched_at": "2026-10-17T04:17:39Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "iPhone 18 Pro Max: Unboxing and Camera Test! (+TIPS)",
-        "url": "https://www.youtube.com/watch?v=VgMai315qnc",
-        "views": 133372,
+        "title": "First Phone From Mivi India - Reality Check !",
+        "url": "https://www.youtube.com/watch?v=Xnb0gDWd4vs",
+        "views": 1364448,
         "upload_date": null,
-        "rank": 7,
+        "rank": 6,
         "source": "youtube",
-        "score": 133.372,
-        "fetched_at": "2026-10-16T04:24:28Z",
+        "score": 1364.448,
+        "fetched_at": "2026-10-17T04:17:39Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Don't Miss 🔥Top 6 Phone Deals in this SALE 🤯 Amazon & Flipkart",
-        "url": "https://www.youtube.com/watch?v=cpgCBk_ifqw",
-        "views": 77784,
+        "title": "Top 15 Best Upcoming Flagships In 2026-27 ⚡Moto Signature 27, iQOO 16, iPhone 18 & More",
+        "url": "https://www.youtube.com/watch?v=lGBasaGBDIE",
+        "views": 213565,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 213.565,
+        "fetched_at": "2026-10-17T04:17:39Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Xiaomi 18 Pro Max Unboxing: The REAL Pro Max?",
+        "url": "https://www.youtube.com/watch?v=LiQGoDnv2EQ",
+        "views": 120558,
+        "upload_date": null,
+        "rank": 0,
+        "source": "youtube",
+        "score": 120.558,
+        "fetched_at": "2026-10-17T04:17:39Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Tecno Spark 50s 5G : This Budget 5G Phone IMPRESSED Me in 2026 🔥",
+        "url": "https://www.youtube.com/watch?v=h1ZhO3xg864",
+        "views": 83511,
         "upload_date": null,
         "rank": 4,
         "source": "youtube",
-        "score": 77.784,
-        "fetched_at": "2026-10-16T04:24:28Z",
+        "score": 83.511,
+        "fetched_at": "2026-10-17T04:17:39Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "6 Phones You Can Still Buy At Good Price!",
-        "url": "https://www.youtube.com/watch?v=7tPyIXReJvw",
-        "views": 65558,
+        "title": "This Is What a ₹1 Lakh+ Fridge Looks Like !",
+        "url": "https://www.youtube.com/watch?v=zEr-bVwsXqo",
+        "views": 59254,
         "upload_date": null,
-        "rank": 2,
+        "rank": 9,
         "source": "youtube",
-        "score": 65.558,
-        "fetched_at": "2026-10-16T04:24:28Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "20 Amazing New Tech Gadget Available On Amazon India & Online | Gadgets Under Rs199, Rs500, Rs1000",
-        "url": "https://www.youtube.com/watch?v=ysbWUBT0Fqg",
-        "views": 15670,
-        "upload_date": null,
-        "rank": 5,
-        "source": "youtube",
-        "score": 15.67,
-        "fetched_at": "2026-10-16T04:24:28Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "iphone 18 pro max (glacier)❄️🩵 Unboxing 📱 Accessories and set up l aesthetic | mugg.narew",
-        "url": "https://www.youtube.com/watch?v=qWVdCITEBrs",
-        "views": 13702,
-        "upload_date": null,
-        "rank": 3,
-        "source": "youtube",
-        "score": 13.702,
-        "fetched_at": "2026-10-16T04:24:28Z",
+        "score": 59.254,
+        "fetched_at": "2026-10-17T04:17:39Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-10-16T04:24:28Z",
+    "updated_at": "2026-10-17T04:17:39Z",
     "source_counts": {
       "youtube": 40
     }
@@ -5462,67 +5572,122 @@
         "score": 61.279,
         "fetched_at": "2026-10-16T04:24:39Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "16 October 2026 Current Affairs | Episode 2205 | Current Affairs Today | Kumar Gaurav Sir",
+        "url": "https://www.youtube.com/watch?v=7lAhdN6_6Us",
+        "views": 475317,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 475.317,
+        "fetched_at": "2026-10-17T04:17:50Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "RRB NTPC New Vacancy 2026 | RRB NTPC UG 2026 Notification OUT | RRB NTPC 12th Level New Vacancy 2026",
+        "url": "https://www.youtube.com/watch?v=X86UCmMVHgI",
+        "views": 72944,
+        "upload_date": null,
+        "rank": 3,
+        "source": "youtube",
+        "score": 72.944,
+        "fetched_at": "2026-10-17T04:17:50Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "RRB NTPC New Vacancy 2026 l RRB NTPC Graduate and UG Level Notification Out Railway New Vacancy 2026",
+        "url": "https://www.youtube.com/watch?v=HWp3OLj47l8",
+        "views": 60210,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 60.21,
+        "fetched_at": "2026-10-17T04:17:50Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Current Affairs Today | 16 Oct Current Affairs 2026 | Daily Current Affairs by Krati Mam | Testbook",
+        "url": "https://www.youtube.com/watch?v=BbGpO8yEgKg",
+        "views": 51337,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 51.337,
+        "fetched_at": "2026-10-17T04:17:50Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SUPER TET 2026 🎯 | Current Affairs + Static GK | SUPER-30 Questions 🔥 | TGT PGT 2026 | Vikas Sir",
+        "url": "https://www.youtube.com/watch?v=zVsW8ORjd34",
+        "views": 45742,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 45.742,
+        "fetched_at": "2026-10-17T04:17:50Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "RRB NTPC UG Notification 2026 | @officialrwarailwayexams | RRB NTPC New Vacancy 2026",
-        "url": "https://www.youtube.com/watch?v=pLHFGv3SMw4",
-        "views": 488262,
+        "title": "16 October 2026 Current Affairs | Episode 2205 | Current Affairs Today | Kumar Gaurav Sir",
+        "url": "https://www.youtube.com/watch?v=7lAhdN6_6Us",
+        "views": 475317,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 475.317,
+        "fetched_at": "2026-10-17T04:17:50Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "RRB NTPC New Vacancy 2026 | RRB NTPC UG 2026 Notification OUT | RRB NTPC 12th Level New Vacancy 2026",
+        "url": "https://www.youtube.com/watch?v=X86UCmMVHgI",
+        "views": 72944,
+        "upload_date": null,
+        "rank": 3,
+        "source": "youtube",
+        "score": 72.944,
+        "fetched_at": "2026-10-17T04:17:50Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "RRB NTPC New Vacancy 2026 l RRB NTPC Graduate and UG Level Notification Out Railway New Vacancy 2026",
+        "url": "https://www.youtube.com/watch?v=HWp3OLj47l8",
+        "views": 60210,
         "upload_date": null,
         "rank": 2,
         "source": "youtube",
-        "score": 488.262,
-        "fetched_at": "2026-10-16T04:24:39Z",
+        "score": 60.21,
+        "fetched_at": "2026-10-17T04:17:50Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "🚂RRB NTPC UG 2026 Notification | NTPC Undergraduate Notification 🚀 | Full details by Sahil Sir",
-        "url": "https://www.youtube.com/watch?v=aqwoff0LeR8",
-        "views": 106681,
+        "title": "Current Affairs Today | 16 Oct Current Affairs 2026 | Daily Current Affairs by Krati Mam | Testbook",
+        "url": "https://www.youtube.com/watch?v=BbGpO8yEgKg",
+        "views": 51337,
         "upload_date": null,
         "rank": 8,
         "source": "youtube",
-        "score": 106.681,
-        "fetched_at": "2026-10-16T04:24:39Z",
+        "score": 51.337,
+        "fetched_at": "2026-10-17T04:17:50Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "UPSC EPFO APFC 2026 New Recruitment Rules (Gazette of India) | Will APFC Recruitment Stop?",
-        "url": "https://www.youtube.com/watch?v=W05v_Ly-iCU",
-        "views": 68045,
+        "title": "SUPER TET 2026 🎯 | Current Affairs + Static GK | SUPER-30 Questions 🔥 | TGT PGT 2026 | Vikas Sir",
+        "url": "https://www.youtube.com/watch?v=zVsW8ORjd34",
+        "views": 45742,
         "upload_date": null,
-        "rank": 4,
+        "rank": 7,
         "source": "youtube",
-        "score": 68.045,
-        "fetched_at": "2026-10-16T04:24:39Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Last 7 Months Strategy For UPSC CSE 2027 | Mains + Prelims Strategy",
-        "url": "https://www.youtube.com/watch?v=RiSqMi6ZWfY",
-        "views": 62901,
-        "upload_date": null,
-        "rank": 8,
-        "source": "youtube",
-        "score": 62.901,
-        "fetched_at": "2026-10-16T04:24:39Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Railway Board TT/TC नई भर्ती 2026 | 12th pass-1700 पद | rrb tc recruitment 2026 | syllabus, pattern",
-        "url": "https://www.youtube.com/watch?v=NVKnyDxLRpA",
-        "views": 61279,
-        "upload_date": null,
-        "rank": 4,
-        "source": "youtube",
-        "score": 61.279,
-        "fetched_at": "2026-10-16T04:24:39Z",
+        "score": 45.742,
+        "fetched_at": "2026-10-17T04:17:50Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-10-16T04:24:39Z",
+    "updated_at": "2026-10-17T04:17:50Z",
     "source_counts": {
       "youtube": 50
     }
@@ -6573,11 +6738,34 @@
         "score": 59.569,
         "fetched_at": "2026-10-15T04:29:54Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "The Mystery of the 9 Unknown Men | Indian Illuminati",
+        "url": "https://www.youtube.com/watch?v=i_mIg4dk2ko",
+        "views": 1668262,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 1668.262,
+        "fetched_at": "2026-10-17T04:17:58Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
-    "latest": [],
-    "updated_at": "2026-10-16T04:24:48Z",
+    "latest": [
+      {
+        "title": "The Mystery of the 9 Unknown Men | Indian Illuminati",
+        "url": "https://www.youtube.com/watch?v=i_mIg4dk2ko",
+        "views": 1668262,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 1668.262,
+        "fetched_at": "2026-10-17T04:17:58Z",
+        "score_type": "views_or_search_rank_heuristic"
+      }
+    ],
+    "updated_at": "2026-10-17T04:17:58Z",
     "source_counts": {
       "youtube": 30
     }
@@ -7716,69 +7904,125 @@
         "score": 0.1,
         "fetched_at": "2026-10-16T04:24:53Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "OBSESSED! Amazon Must Haves I’m Absolutely Loving Right Now 🤍",
+        "url": "https://www.youtube.com/watch?v=Y0hceUy_y7o",
+        "views": 48766,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 48.766,
+        "fetched_at": "2026-10-17T04:18:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "How to create Faceless Amazon Product Review Shorts ($2500/M)",
+        "url": "https://www.youtube.com/watch?v=okkYXehGvZI",
+        "views": 14477,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 14.477,
+        "fetched_at": "2026-10-17T04:18:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "What's a web development trend that looks great in a demo but creates problems in production?",
+        "url": "https://www.reddit.com/r/webdevelopment/comments/1x7fj1o/whats_a_web_development_trend_that_looks_great_in/",
+        "views": 0,
+        "upload_date": "20261016",
+        "rank": 3,
+        "source": "reddit",
+        "score": 0.07,
+        "fetched_at": "2026-10-17T04:18:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Why is there a growing trend of skincare products without a primary preservative? And these are not ‘clean’ and ‘vegan’ brands.",
+        "url": "https://www.reddit.com/r/cosmeticscience/comments/1x67909/why_is_there_a_growing_trend_of_skincare_products/",
+        "views": 0,
+        "upload_date": "20261015",
+        "rank": 6,
+        "source": "reddit",
+        "score": 0.04,
+        "fetched_at": "2026-10-17T04:18:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Hiring",
+        "url": "https://www.reddit.com/r/bangalorejob/comments/1x78br0/hiring/",
+        "views": 0,
+        "upload_date": "20261016",
+        "rank": 7,
+        "source": "reddit",
+        "score": 0.03,
+        "fetched_at": "2026-10-17T04:18:06Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "I Tested VIRAL TikTok Shop Gadgets - Are They a SCAM?",
-        "url": "https://www.youtube.com/watch?v=j6_ZaszN0YM",
-        "views": 7636674,
+        "title": "OBSESSED! Amazon Must Haves I’m Absolutely Loving Right Now 🤍",
+        "url": "https://www.youtube.com/watch?v=Y0hceUy_y7o",
+        "views": 48766,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 48.766,
+        "fetched_at": "2026-10-17T04:18:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "How to create Faceless Amazon Product Review Shorts ($2500/M)",
+        "url": "https://www.youtube.com/watch?v=okkYXehGvZI",
+        "views": 14477,
         "upload_date": null,
         "rank": 8,
         "source": "youtube",
-        "score": 7636.674,
-        "fetched_at": "2026-10-16T04:24:53Z",
+        "score": 14.477,
+        "fetched_at": "2026-10-17T04:18:06Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "THE BEST GYM SHORTS (Alphalete, Gymshark, Aurola) - My Favourite Shorts For Working Out",
-        "url": "https://www.youtube.com/watch?v=jQYqUAs2vC0",
-        "views": 82153,
-        "upload_date": null,
-        "rank": 5,
-        "source": "youtube",
-        "score": 82.153,
-        "fetched_at": "2026-10-16T04:24:53Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Cool Items! Water drinking gadget#creative #viral #shorts #gadgets",
-        "url": "https://www.youtube.com/watch?v=vVlowkBxGHw",
-        "views": 21698,
-        "upload_date": null,
-        "rank": 5,
-        "source": "youtube",
-        "score": 21.698,
-        "fetched_at": "2026-10-16T04:24:53Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Trying On Women's Short Shorts 👀",
-        "url": "https://www.youtube.com/watch?v=20QS5XM_IgA",
-        "views": 1696,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 1.696,
-        "fetched_at": "2026-10-16T04:24:53Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "FifthQuarter 6-Piece Wedge Pillow Set 💙 | Home Comfort Find #Shorts",
-        "url": "https://www.youtube.com/watch?v=TpaU0VgS0uQ",
+        "title": "What's a web development trend that looks great in a demo but creates problems in production?",
+        "url": "https://www.reddit.com/r/webdevelopment/comments/1x7fj1o/whats_a_web_development_trend_that_looks_great_in/",
         "views": 0,
-        "upload_date": null,
-        "rank": 0,
-        "source": "youtube",
-        "score": 0.1,
-        "fetched_at": "2026-10-16T04:24:53Z",
+        "upload_date": "20261016",
+        "rank": 3,
+        "source": "reddit",
+        "score": 0.07,
+        "fetched_at": "2026-10-17T04:18:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Why is there a growing trend of skincare products without a primary preservative? And these are not ‘clean’ and ‘vegan’ brands.",
+        "url": "https://www.reddit.com/r/cosmeticscience/comments/1x67909/why_is_there_a_growing_trend_of_skincare_products/",
+        "views": 0,
+        "upload_date": "20261015",
+        "rank": 6,
+        "source": "reddit",
+        "score": 0.04,
+        "fetched_at": "2026-10-17T04:18:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Hiring",
+        "url": "https://www.reddit.com/r/bangalorejob/comments/1x78br0/hiring/",
+        "views": 0,
+        "upload_date": "20261016",
+        "rank": 7,
+        "source": "reddit",
+        "score": 0.03,
+        "fetched_at": "2026-10-17T04:18:06Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-10-16T04:24:53Z",
+    "updated_at": "2026-10-17T04:18:06Z",
     "source_counts": {
-      "youtube": 30
+      "youtube": 30,
+      "reddit": 10
     }
   }
 }
