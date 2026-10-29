@@ -2,15 +2,13 @@ name: Daily Auto Trending Run
 
 on:
   schedule:
-    # 5:10 AM IST (23:40 UTC pichhli raat). Jaan-bujhkar jaldi start karte hain,
-    # kyunki GitHub ka schedule aksar 10-40 min late chalta hai.
+    # Start at 5:10 AM IST (23:40 UTC previous day); wait until 5:57 AM IST.
     - cron: "40 23 * * *"
-  workflow_dispatch: {} # manual test ke liye (isme wait nahi hota)
+  workflow_dispatch: {} # Manual test; does not wait until 5:57 AM.
 
 permissions:
   contents: write
 
-# Do run ek saath na chalein
 concurrency:
   group: daily-trending
   cancel-in-progress: false
@@ -27,15 +25,14 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: pip
 
       - name: Install dependencies
         run: |
+          python -m pip install --upgrade pip
           pip install requests
           pip install -U yt-dlp
 
-      # Sirf scheduled run mein: 5:57 AM IST tak ruko, taaki script ~1-3 min
-      # chalke message theek 6:00 AM ke aas-paas bheje.
+      # Scheduled runs wait until 5:57 AM IST so the update arrives around 6 AM.
       - name: Wait until 5:57 AM IST
         if: github.event_name == 'schedule'
         run: |
@@ -63,4 +60,4 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add history.json || true
           git diff --cached --quiet || git commit -m "auto: daily history update [skip ci]"
-          git push || true
+          git push
