@@ -2,51 +2,6 @@
   "sg-news-automation": {
     "suggested": [
       {
-        "title": "Indian Cricket Team New Captain LIVE : भारतीय टीम के नए कप्तान पर बड़ी खबर | | Breaking News | BCCI",
-        "url": "https://www.youtube.com/watch?v=ngy1Bd-czuA",
-        "views": 1257358,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 1257.358
-      },
-      {
-        "title": "BIG BCCI Updates: IPL 2027 Auction Date & New Sponsor Revealed #Aakashvani",
-        "url": "https://www.youtube.com/watch?v=F3HKD0IcRAA",
-        "views": 621951,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 621.951
-      },
-      {
-        "title": "BREAKING NEWS: वर्ल्ड कप के बीच ICC का बड़ा एक्शन | Cricket World Cup | Aaj Tak News",
-        "url": "https://www.youtube.com/watch?v=jB2RMt4lWUg",
-        "views": 450334,
-        "upload_date": null,
-        "rank": 8,
-        "source": "youtube",
-        "score": 450.334
-      },
-      {
-        "title": "ROAST: Pakistan की हालत हुई खराब, Asian Games में भेजी बेकार टीम | Zero Cricket Knowledge",
-        "url": "https://www.youtube.com/watch?v=qSpqRlc2J1I",
-        "views": 397594,
-        "upload_date": null,
-        "rank": 7,
-        "source": "youtube",
-        "score": 397.594
-      },
-      {
-        "title": "Ind vs WI: Virat Kohli Nears 100th Century After Stunning 139? | Shubhankar Mishra",
-        "url": "https://www.youtube.com/watch?v=AM46ElZFEgc",
-        "views": 342860,
-        "upload_date": null,
-        "rank": 0,
-        "source": "youtube",
-        "score": 342.86
-      },
-      {
         "title": "Match Highlights | Final | India (W) v Sri Lanka (W) | DP World Women's Asia Cup 2026",
         "url": "https://www.youtube.com/watch?v=a7-BqsjJYCw",
         "views": 14002808,
@@ -2150,67 +2105,122 @@
         "score": 675.957,
         "fetched_at": "2026-10-27T01:14:42Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Pakistan vs Sri Lanka | Full Match Highlights | Pakistan vs Sri Lanka | ODI Tri-Series 2026 | M9S1A",
+        "url": "https://www.youtube.com/watch?v=XmxLT6HjohM",
+        "views": 1160406,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 1160.406,
+        "fetched_at": "2026-10-29T01:29:35Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "India Vs New Zealand, T20 Highlights : Abhishek Sharma Century | Vaibhav Sooryavanshi | World Record",
+        "url": "https://www.youtube.com/watch?v=yWmgoIrYcUU",
+        "views": 1131985,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 1131.985,
+        "fetched_at": "2026-10-29T01:29:35Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "India vs New Zealand 3rd T20 2026 Full Match Highlights | Ind vs NZ",
+        "url": "https://www.youtube.com/watch?v=4LVtl4wRsX4",
+        "views": 1065139,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 1065.139,
+        "fetched_at": "2026-10-29T01:29:35Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "इतिहास में पहली बार 11 Over में 11 World Record से Team India का हाहाकार! Sooryavanshi, Abhishek",
+        "url": "https://www.youtube.com/watch?v=k_nU_3qBGCQ",
+        "views": 860397,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 860.397,
+        "fetched_at": "2026-10-29T01:29:35Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "2nd Innings Highlights | Pakistan vs England | Match 4 | Pakistan ODI Tri-Series 2026 | PCB | M9S1T",
+        "url": "https://www.youtube.com/watch?v=8yX2Jnsz4-E",
+        "views": 438621,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 438.621,
+        "fetched_at": "2026-10-29T01:29:35Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "India Vs New Zealand 3rd T20 Match Live | IND vs NZ Match Last 2 Over Highlight Score & Commentary",
-        "url": "https://www.youtube.com/watch?v=Bh9OQLA1kVw",
-        "views": 1869023,
+        "title": "Pakistan vs Sri Lanka | Full Match Highlights | Pakistan vs Sri Lanka | ODI Tri-Series 2026 | M9S1A",
+        "url": "https://www.youtube.com/watch?v=XmxLT6HjohM",
+        "views": 1160406,
         "upload_date": null,
-        "rank": 8,
+        "rank": 2,
         "source": "youtube",
-        "score": 1869.023,
-        "fetched_at": "2026-10-27T01:14:42Z",
+        "score": 1160.406,
+        "fetched_at": "2026-10-29T01:29:35Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Match Highlights | Pakistan vs England | Pakistan ODI Tri-Series 2026 | M9S1H",
-        "url": "https://www.youtube.com/watch?v=NllNbtMgVhY",
-        "views": 1573044,
-        "upload_date": null,
-        "rank": 5,
-        "source": "youtube",
-        "score": 1573.044,
-        "fetched_at": "2026-10-27T01:14:42Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Full Match Highlights | Pakistan vs England | Match 4 | Pakistan ODI Tri-Series 2026 | PCB | M9S1T",
-        "url": "https://www.youtube.com/watch?v=HtKDe3LLkM4",
-        "views": 1155997,
+        "title": "India Vs New Zealand, T20 Highlights : Abhishek Sharma Century | Vaibhav Sooryavanshi | World Record",
+        "url": "https://www.youtube.com/watch?v=yWmgoIrYcUU",
+        "views": 1131985,
         "upload_date": null,
         "rank": 1,
         "source": "youtube",
-        "score": 1155.997,
-        "fetched_at": "2026-10-27T01:14:42Z",
+        "score": 1131.985,
+        "fetched_at": "2026-10-29T01:29:35Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "🔴 LIVE: NPL 2026 | Sudurpaschim Royals 🆚 Lumbini Lions | Live Cricket Match Today",
-        "url": "https://www.youtube.com/watch?v=7z3jFEgAOPc",
-        "views": 890653,
+        "title": "India vs New Zealand 3rd T20 2026 Full Match Highlights | Ind vs NZ",
+        "url": "https://www.youtube.com/watch?v=4LVtl4wRsX4",
+        "views": 1065139,
         "upload_date": null,
-        "rank": 9,
+        "rank": 1,
         "source": "youtube",
-        "score": 890.653,
-        "fetched_at": "2026-10-27T01:14:42Z",
+        "score": 1065.139,
+        "fetched_at": "2026-10-29T01:29:35Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Indian Media Celebration Shadab Khan Dismissal Turns Celebration to Shock! 😱 Pak Historic Win v Eng",
-        "url": "https://www.youtube.com/watch?v=3HQl-vMp1DA",
-        "views": 675957,
+        "title": "इतिहास में पहली बार 11 Over में 11 World Record से Team India का हाहाकार! Sooryavanshi, Abhishek",
+        "url": "https://www.youtube.com/watch?v=k_nU_3qBGCQ",
+        "views": 860397,
         "upload_date": null,
         "rank": 4,
         "source": "youtube",
-        "score": 675.957,
-        "fetched_at": "2026-10-27T01:14:42Z",
+        "score": 860.397,
+        "fetched_at": "2026-10-29T01:29:35Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "2nd Innings Highlights | Pakistan vs England | Match 4 | Pakistan ODI Tri-Series 2026 | PCB | M9S1T",
+        "url": "https://www.youtube.com/watch?v=8yX2Jnsz4-E",
+        "views": 438621,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 438.621,
+        "fetched_at": "2026-10-29T01:29:35Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-10-27T01:14:42Z",
+    "updated_at": "2026-10-29T01:29:35Z",
     "source_counts": {
       "youtube": 40,
       "reddit": 10
@@ -2218,51 +2228,6 @@
   },
   "tech-review-bot": {
     "suggested": [
-      {
-        "title": "iPhone 17 Pro Max (silver) unboxing  aesthetic cute iOS26 homescreen setup + case haul 🎀",
-        "url": "https://www.youtube.com/watch?v=0DCPby_QORo",
-        "views": 2274085,
-        "upload_date": null,
-        "rank": 5,
-        "source": "youtube",
-        "score": 2274.085
-      },
-      {
-        "title": "The Shady Truth about Amazon Basics",
-        "url": "https://www.youtube.com/watch?v=l2p3fZyV254",
-        "views": 3571000,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 3571.0
-      },
-      {
-        "title": "New iPhone 18 Pro: Everything announced about the iPhone with the best camera and battery life ever",
-        "url": "https://www.youtube.com/watch?v=GC0GI4MgTyg",
-        "views": 2165449,
-        "upload_date": null,
-        "rank": 5,
-        "source": "youtube",
-        "score": 2165.449
-      },
-      {
-        "title": "iPhone Duo | iPhone 18 Pro Max - Everything NEW!",
-        "url": "https://www.youtube.com/watch?v=-2w8N4oll2I",
-        "views": 2081851,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 2081.851
-      },
-      {
-        "title": "Apple iPhone 18 Pro Unboxing & Review ! *Biggest Price Upgrade*",
-        "url": "https://www.youtube.com/watch?v=TQGnPPdh2S8",
-        "views": 2031453,
-        "upload_date": null,
-        "rank": 7,
-        "source": "youtube",
-        "score": 2031.453
-      },
       {
         "title": "Can You Really Get Paid to do Amazon Reviews?",
         "url": "https://www.youtube.com/watch?v=3YjEdaU1xTc",
@@ -4365,118 +4330,128 @@
         "score": 10237.872,
         "fetched_at": "2026-10-27T01:14:53Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Tested the Weirdest Amazon Items",
+        "url": "https://www.youtube.com/watch?v=ePzkMP3tFZ4",
+        "views": 17892839,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 17892.839,
+        "fetched_at": "2026-10-29T01:29:45Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Testing The BEST & WORST Amazon Items!",
+        "url": "https://www.youtube.com/watch?v=2O9jsGOxA5s",
+        "views": 14570569,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 14570.569,
+        "fetched_at": "2026-10-29T01:29:45Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "The 1-Star Reviews of Amazon",
+        "url": "https://www.youtube.com/watch?v=A9qP3eNOqDo",
+        "views": 8106826,
+        "upload_date": null,
+        "rank": 3,
+        "source": "youtube",
+        "score": 8106.826,
+        "fetched_at": "2026-10-29T01:29:45Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Apple iPhone Duo Unboxing and First Impressions",
+        "url": "https://www.youtube.com/watch?v=gyUqMHDSn2I",
+        "views": 1183379,
+        "upload_date": null,
+        "rank": 0,
+        "source": "youtube",
+        "score": 1183.379,
+        "fetched_at": "2026-10-29T01:29:45Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Top 10+ Best Upcoming Phone Launches ⚡ November 2026",
+        "url": "https://www.youtube.com/watch?v=zGqenP6i5ZQ",
+        "views": 428349,
+        "upload_date": null,
+        "rank": 0,
+        "source": "youtube",
+        "score": 428.349,
+        "fetched_at": "2026-10-29T01:29:45Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "I Bought 100 Banned Amazon Products!",
-        "url": "https://www.youtube.com/watch?v=j8MMjigoXoA",
-        "views": 59223134,
+        "title": "I Tested the Weirdest Amazon Items",
+        "url": "https://www.youtube.com/watch?v=ePzkMP3tFZ4",
+        "views": 17892839,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 17892.839,
+        "fetched_at": "2026-10-29T01:29:45Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Testing The BEST & WORST Amazon Items!",
+        "url": "https://www.youtube.com/watch?v=2O9jsGOxA5s",
+        "views": 14570569,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 14570.569,
+        "fetched_at": "2026-10-29T01:29:45Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "The 1-Star Reviews of Amazon",
+        "url": "https://www.youtube.com/watch?v=A9qP3eNOqDo",
+        "views": 8106826,
         "upload_date": null,
         "rank": 3,
         "source": "youtube",
-        "score": 59223.134,
-        "fetched_at": "2026-10-27T01:14:53Z",
+        "score": 8106.826,
+        "fetched_at": "2026-10-29T01:29:45Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Introducing the new iPhone Duo",
-        "url": "https://www.youtube.com/watch?v=FUfGcZ092b0",
-        "views": 32549072,
+        "title": "Apple iPhone Duo Unboxing and First Impressions",
+        "url": "https://www.youtube.com/watch?v=gyUqMHDSn2I",
+        "views": 1183379,
         "upload_date": null,
-        "rank": 3,
+        "rank": 0,
         "source": "youtube",
-        "score": 32549.072,
-        "fetched_at": "2026-10-27T01:14:53Z",
+        "score": 1183.379,
+        "fetched_at": "2026-10-29T01:29:45Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "I bought the World's RAREST phones!",
-        "url": "https://www.youtube.com/watch?v=wt2WGqJkISk",
-        "views": 18660865,
+        "title": "Top 10+ Best Upcoming Phone Launches ⚡ November 2026",
+        "url": "https://www.youtube.com/watch?v=zGqenP6i5ZQ",
+        "views": 428349,
         "upload_date": null,
-        "rank": 4,
+        "rank": 0,
         "source": "youtube",
-        "score": 18660.865,
-        "fetched_at": "2026-10-27T01:14:53Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "The $200,000 Smartphone Unboxing 💀",
-        "url": "https://www.youtube.com/watch?v=zDG-n8JN_78",
-        "views": 14562058,
-        "upload_date": null,
-        "rank": 1,
-        "source": "youtube",
-        "score": 14562.058,
-        "fetched_at": "2026-10-27T01:14:53Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "I Bought Chat Suggested Amazon Products Again...",
-        "url": "https://www.youtube.com/watch?v=8bdFg1iOWro",
-        "views": 10237872,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 10237.872,
-        "fetched_at": "2026-10-27T01:14:53Z",
+        "score": 428.349,
+        "fetched_at": "2026-10-29T01:29:45Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-10-27T01:14:53Z",
+    "updated_at": "2026-10-29T01:29:45Z",
     "source_counts": {
       "youtube": 40
     }
   },
   "bg-auto-job-bot": {
     "suggested": [
-      {
-        "title": "CGL DATES OUT !!!",
-        "url": "https://www.youtube.com/watch?v=rLiNQN9LzEE",
-        "views": 316440,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 316.44
-      },
-      {
-        "title": "👉 Railway New Vacancy 2026 OUT! 🚨 B.Tech, Diploma & Freshers | Salary ₹1.6 Lakh+ | Railway Jobs 2026",
-        "url": "https://www.youtube.com/watch?v=XNJnjpnKmmw",
-        "views": 128159,
-        "upload_date": null,
-        "rank": 4,
-        "source": "youtube",
-        "score": 128.159
-      },
-      {
-        "title": "RRB NTPC New Vacancy 2026 l Railway New Vacancy 2026 l RRB NTPC 2026 UG & Graduate Document Required",
-        "url": "https://www.youtube.com/watch?v=P-7j5ci3G14",
-        "views": 121966,
-        "upload_date": null,
-        "rank": 1,
-        "source": "youtube",
-        "score": 121.966
-      },
-      {
-        "title": "SSC CGL 2026 Vacancies Out | Department & State-Wise Analysis | Less Than Expected? | Shubham Sir",
-        "url": "https://www.youtube.com/watch?v=KtQBMst8gyQ",
-        "views": 90312,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 90.312
-      },
-      {
-        "title": "SSC CGL GK GS Marathon Class 2026 | SSC CGL Complete GK GS Revision | GK GS Marathon By Jayshree Mam",
-        "url": "https://www.youtube.com/watch?v=xIVyBoFiO8c",
-        "views": 80797,
-        "upload_date": null,
-        "rank": 5,
-        "source": "youtube",
-        "score": 80.797
-      },
       {
         "title": "SSC CGL Exam Date 2026 OUT 🔥 | SSC CGL Strategy 2026 | Abhinay Sharma",
         "url": "https://www.youtube.com/watch?v=myrIz35j8LI",
@@ -6581,70 +6556,124 @@
         "score": 124.506,
         "fetched_at": "2026-10-27T01:15:05Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "RRB NTPC Selection Strategy | RRB NTPC 2026 Preparation Strategy | Complete Roadmap by Ankit Sir",
+        "url": "https://www.youtube.com/watch?v=lgQyxo3Sg3s",
+        "views": 348656,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 348.656,
+        "fetched_at": "2026-10-29T01:29:56Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Station Master Vacancy 2026 | Railway Station Master नया बैच शुरू! किसको मिलेगा FREE 😐| Rakesh Sir",
+        "url": "https://www.youtube.com/watch?v=GFXisEdi39E",
+        "views": 154251,
+        "upload_date": null,
+        "rank": 3,
+        "source": "youtube",
+        "score": 154.251,
+        "fetched_at": "2026-10-29T01:29:56Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "UPSC NOTIFICATION 2026 | Major Changes You Must Know | Dr. Shivin Chaudhary",
+        "url": "https://www.youtube.com/watch?v=BoLiZMl7-X8",
+        "views": 143745,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 143.745,
+        "fetched_at": "2026-10-29T01:29:56Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Current Affairs Today | 27 October 2026 | Daily Current Affairs | Current Affairs by Krati Ma'am",
+        "url": "https://www.youtube.com/watch?v=8tXIH9jPoFc",
+        "views": 63791,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 63.791,
+        "fetched_at": "2026-10-29T01:29:56Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "HDFC Bank Recruitment 2026 | HDFC Job Vacancy 2026 | Bank Recruitment 2026 | New Bank Vacancies 2026",
+        "url": "https://www.youtube.com/watch?v=aEJrm_jNoxI",
+        "views": 57274,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 57.274,
+        "fetched_at": "2026-10-29T01:29:56Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "Railway New Vacancy 2026 | Railway Station Master New Vacancy | @officialrwarailwayexams",
-        "url": "https://www.youtube.com/watch?v=P25EV6eTj3s",
-        "views": 420849,
+        "title": "RRB NTPC Selection Strategy | RRB NTPC 2026 Preparation Strategy | Complete Roadmap by Ankit Sir",
+        "url": "https://www.youtube.com/watch?v=lgQyxo3Sg3s",
+        "views": 348656,
         "upload_date": null,
-        "rank": 0,
+        "rank": 8,
         "source": "youtube",
-        "score": 420.849,
-        "fetched_at": "2026-10-27T01:15:05Z",
+        "score": 348.656,
+        "fetched_at": "2026-10-29T01:29:56Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Current Affairs Maha Marathon 800+ MCQ 2026 By-Jagdev Sir | Current Affairs | Current Affairs 2026 |",
-        "url": "https://www.youtube.com/watch?v=2qu_Hjo6_4Y",
-        "views": 347260,
-        "upload_date": null,
-        "rank": 7,
-        "source": "youtube",
-        "score": 347.26,
-        "fetched_at": "2026-10-27T01:15:05Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "UPSC Prelims 2026 Paper: UPSC प्रीलिम्स परीक्षा के बाद अचानक क्यों मचा है हंगामा?",
-        "url": "https://www.youtube.com/watch?v=aEhXUvE-vZs",
-        "views": 184075,
-        "upload_date": null,
-        "rank": 7,
-        "source": "youtube",
-        "score": 184.075,
-        "fetched_at": "2026-10-27T01:15:05Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "🚂  Station Master 2026 🔥Full Official Notification Out 🔥| Sahil Sir",
-        "url": "https://www.youtube.com/watch?v=yG8Faoh6Gow",
-        "views": 160653,
+        "title": "Station Master Vacancy 2026 | Railway Station Master नया बैच शुरू! किसको मिलेगा FREE 😐| Rakesh Sir",
+        "url": "https://www.youtube.com/watch?v=GFXisEdi39E",
+        "views": 154251,
         "upload_date": null,
         "rank": 3,
         "source": "youtube",
-        "score": 160.653,
-        "fetched_at": "2026-10-27T01:15:05Z",
+        "score": 154.251,
+        "fetched_at": "2026-10-29T01:29:56Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "SSC CGL 2026 | SSC CGL Exam Center, Documents & Score Target | SSC CGL Exam Center Guidelines",
-        "url": "https://www.youtube.com/watch?v=YcoqlQ7KMEg",
-        "views": 124506,
+        "title": "UPSC NOTIFICATION 2026 | Major Changes You Must Know | Dr. Shivin Chaudhary",
+        "url": "https://www.youtube.com/watch?v=BoLiZMl7-X8",
+        "views": 143745,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 143.745,
+        "fetched_at": "2026-10-29T01:29:56Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Current Affairs Today | 27 October 2026 | Daily Current Affairs | Current Affairs by Krati Ma'am",
+        "url": "https://www.youtube.com/watch?v=8tXIH9jPoFc",
+        "views": 63791,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 63.791,
+        "fetched_at": "2026-10-29T01:29:56Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "HDFC Bank Recruitment 2026 | HDFC Job Vacancy 2026 | Bank Recruitment 2026 | New Bank Vacancies 2026",
+        "url": "https://www.youtube.com/watch?v=aEJrm_jNoxI",
+        "views": 57274,
         "upload_date": null,
         "rank": 5,
         "source": "youtube",
-        "score": 124.506,
-        "fetched_at": "2026-10-27T01:15:05Z",
+        "score": 57.274,
+        "fetched_at": "2026-10-29T01:29:56Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-10-27T01:15:05Z",
+    "updated_at": "2026-10-29T01:29:56Z",
     "source_counts": {
-      "youtube": 50,
-      "reddit": 10
+      "youtube": 50
     }
   },
   "history-facts-bot": {
@@ -7924,58 +7953,125 @@
         "score": 39.696,
         "fetched_at": "2026-10-27T01:15:14Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Top 7 Mysterious Things in the World",
+        "url": "https://www.youtube.com/watch?v=JL-g8Fwt_64",
+        "views": 1985472,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 1985.472,
+        "fetched_at": "2026-10-29T01:30:05Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Hindi ako mapakali, should I even take a risk sa someone na may cheating history halos buong fam??",
+        "url": "https://www.reddit.com/r/OffMyChestPH/comments/1xhh6ik/hindi_ako_mapakali_should_i_even_take_a_risk_sa/",
+        "views": 0,
+        "upload_date": "20261028",
+        "rank": 3,
+        "source": "reddit",
+        "score": 0.07,
+        "fetched_at": "2026-10-29T01:30:05Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "What is your favourite fact about history?",
+        "url": "https://www.reddit.com/r/AskReddit/comments/1xgk20d/what_is_your_favourite_fact_about_history/",
+        "views": 0,
+        "upload_date": "20261027",
+        "rank": 4,
+        "source": "reddit",
+        "score": 0.06,
+        "fetched_at": "2026-10-29T01:30:05Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Fun fact: D'Andre Swift is 1 of 20 players in NFL history to have 5+ rushing TDs in each of his first 7 NFL seasons",
+        "url": "https://www.reddit.com/r/CHIBears/comments/1xhst6k/fun_fact_dandre_swift_is_1_of_20_players_in_nfl/",
+        "views": 0,
+        "upload_date": "20261028",
+        "rank": 7,
+        "source": "reddit",
+        "score": 0.03,
+        "fetched_at": "2026-10-29T01:30:05Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "What is a fact about human history or science that sounds like a fake internet rumor, but is actually 100% true?",
+        "url": "https://www.reddit.com/r/AskReddit/comments/1xhgtev/what_is_a_fact_about_human_history_or_science/",
+        "views": 0,
+        "upload_date": "20261028",
+        "rank": 9,
+        "source": "reddit",
+        "score": 0.01,
+        "fetched_at": "2026-10-29T01:30:05Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "भारत के 11 अनसुलझे रहस्य || रहस्यमयी 11 स्थान और घटनाएँ",
-        "url": "https://www.youtube.com/watch?v=KcqZuaMST2M",
-        "views": 744312,
+        "title": "Top 7 Mysterious Things in the World",
+        "url": "https://www.youtube.com/watch?v=JL-g8Fwt_64",
+        "views": 1985472,
         "upload_date": null,
-        "rank": 5,
+        "rank": 8,
         "source": "youtube",
-        "score": 744.312,
-        "fetched_at": "2026-10-27T01:15:14Z",
+        "score": 1985.472,
+        "fetched_at": "2026-10-29T01:30:05Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "महाभारत के 10 ऐसे रहस्य जो आज तक नहीं सुलझ पाया ! | 10 Secrets of Mahabharata",
-        "url": "https://www.youtube.com/watch?v=6-KA_Jvioxs",
-        "views": 172129,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 172.129,
-        "fetched_at": "2026-10-27T01:15:14Z",
+        "title": "Hindi ako mapakali, should I even take a risk sa someone na may cheating history halos buong fam??",
+        "url": "https://www.reddit.com/r/OffMyChestPH/comments/1xhh6ik/hindi_ako_mapakali_should_i_even_take_a_risk_sa/",
+        "views": 0,
+        "upload_date": "20261028",
+        "rank": 3,
+        "source": "reddit",
+        "score": 0.07,
+        "fetched_at": "2026-10-29T01:30:05Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "कतर की शाही दुनिया | लग्जरी लाइफ, अद्भुत इतिहास और अनदेखे रहस्य | Qatar Travel Documentary",
-        "url": "https://www.youtube.com/watch?v=PhEdURVLu9k",
-        "views": 114349,
-        "upload_date": null,
-        "rank": 1,
-        "source": "youtube",
-        "score": 114.349,
-        "fetched_at": "2026-10-27T01:15:14Z",
+        "title": "What is your favourite fact about history?",
+        "url": "https://www.reddit.com/r/AskReddit/comments/1xgk20d/what_is_your_favourite_fact_about_history/",
+        "views": 0,
+        "upload_date": "20261027",
+        "rank": 4,
+        "source": "reddit",
+        "score": 0.06,
+        "fetched_at": "2026-10-29T01:30:05Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "History of India – 5 लाख सालों की कहानी, सिर्फ 36 मिनट में",
-        "url": "https://www.youtube.com/watch?v=2S1KXDPx-HE",
-        "views": 39696,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 39.696,
-        "fetched_at": "2026-10-27T01:15:14Z",
+        "title": "Fun fact: D'Andre Swift is 1 of 20 players in NFL history to have 5+ rushing TDs in each of his first 7 NFL seasons",
+        "url": "https://www.reddit.com/r/CHIBears/comments/1xhst6k/fun_fact_dandre_swift_is_1_of_20_players_in_nfl/",
+        "views": 0,
+        "upload_date": "20261028",
+        "rank": 7,
+        "source": "reddit",
+        "score": 0.03,
+        "fetched_at": "2026-10-29T01:30:05Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "What is a fact about human history or science that sounds like a fake internet rumor, but is actually 100% true?",
+        "url": "https://www.reddit.com/r/AskReddit/comments/1xhgtev/what_is_a_fact_about_human_history_or_science/",
+        "views": 0,
+        "upload_date": "20261028",
+        "rank": 9,
+        "source": "reddit",
+        "score": 0.01,
+        "fetched_at": "2026-10-29T01:30:05Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-10-27T01:15:14Z",
+    "updated_at": "2026-10-29T01:30:05Z",
     "source_counts": {
-      "youtube": 30
+      "youtube": 30,
+      "reddit": 10
     }
   },
   "reels-bot": {
@@ -9464,34 +9560,78 @@
         "score": 10.51,
         "fetched_at": "2026-10-27T01:15:21Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Tried 7 Viral Gadgets from Amazon !",
+        "url": "https://www.youtube.com/watch?v=kOWyYCF6f8M",
+        "views": 428606,
+        "upload_date": null,
+        "rank": 0,
+        "source": "youtube",
+        "score": 428.606,
+        "fetched_at": "2026-10-29T01:30:12Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "How to Make Instagram Reels for Business in 5 Easy Steps",
+        "url": "https://www.youtube.com/watch?v=WfxySzCH-FI",
+        "views": 147996,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 147.996,
+        "fetched_at": "2026-10-29T01:30:12Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Tested The Most VIRAL NFL TikTok Gadgets!",
+        "url": "https://www.youtube.com/watch?v=XRU2oBNRCuM",
+        "views": 142125,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 142.125,
+        "fetched_at": "2026-10-29T01:30:12Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "🌟15 *UNDER $50* Amazon Home Finds You NEED: organization ideas + home gadgets + cleaning motivation",
-        "url": "https://www.youtube.com/watch?v=IPqjdwG44nc",
-        "views": 17820,
+        "title": "I Tried 7 Viral Gadgets from Amazon !",
+        "url": "https://www.youtube.com/watch?v=kOWyYCF6f8M",
+        "views": 428606,
         "upload_date": null,
-        "rank": 2,
+        "rank": 0,
         "source": "youtube",
-        "score": 17.82,
-        "fetched_at": "2026-10-27T01:15:21Z",
+        "score": 428.606,
+        "fetched_at": "2026-10-29T01:30:12Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "12 Coolest Amazon Finds Everyone's Buying Right Now (2026 Prices)",
-        "url": "https://www.youtube.com/watch?v=Ov1HuJ2ldTQ",
-        "views": 10510,
+        "title": "How to Make Instagram Reels for Business in 5 Easy Steps",
+        "url": "https://www.youtube.com/watch?v=WfxySzCH-FI",
+        "views": 147996,
         "upload_date": null,
-        "rank": 3,
+        "rank": 9,
         "source": "youtube",
-        "score": 10.51,
-        "fetched_at": "2026-10-27T01:15:21Z",
+        "score": 147.996,
+        "fetched_at": "2026-10-29T01:30:12Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Tested The Most VIRAL NFL TikTok Gadgets!",
+        "url": "https://www.youtube.com/watch?v=XRU2oBNRCuM",
+        "views": 142125,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 142.125,
+        "fetched_at": "2026-10-29T01:30:12Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-10-27T01:15:21Z",
+    "updated_at": "2026-10-29T01:30:12Z",
     "source_counts": {
       "youtube": 30
     }
