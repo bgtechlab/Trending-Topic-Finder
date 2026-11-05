@@ -2,61 +2,6 @@
   "sg-news-automation": {
     "suggested": [
       {
-        "title": "HIGHLIGHTS｜SUZUKI CUP｜JAPAN vs INDIA | JIO English Commentary",
-        "url": "https://www.youtube.com/watch?v=36D-CS8oNeU",
-        "views": 1064211,
-        "upload_date": null,
-        "rank": 7,
-        "source": "youtube",
-        "score": 1064.211,
-        "fetched_at": "2026-10-03T01:09:58Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "India Vs Sri Lanka 2nd Semi Final Games Full Highlights 2026   IND VS SL Highlights",
-        "url": "https://www.youtube.com/watch?v=cLwyE6XQsIE",
-        "views": 468282,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 468.282,
-        "fetched_at": "2026-10-03T01:09:58Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "India vs West Indies 2nd ODI Full Highlights 2026 | IND vs WI 2nd ODI Full Match Highlights 2026",
-        "url": "https://www.youtube.com/watch?v=hfMOYhZDppA",
-        "views": 148485,
-        "upload_date": null,
-        "rank": 0,
-        "source": "youtube",
-        "score": 148.485,
-        "fetched_at": "2026-10-03T01:09:58Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "IPL 2026 News : Hazlewood, Cummins Kab Aayenge? Date CONFIRM 🤩 | ABD on DHONI 😳 | RR Jersey Review",
-        "url": "https://www.youtube.com/watch?v=sq8IVor1oBE",
-        "views": 133972,
-        "upload_date": null,
-        "rank": 8,
-        "source": "youtube",
-        "score": 133.972,
-        "fetched_at": "2026-10-03T01:09:58Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "End Of Australia Cricket Team ? Downfall | South Africa | Champions | Starc | Cummins | ODI",
-        "url": "https://www.youtube.com/watch?v=NaC5cA_nDGM",
-        "views": 119800,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 119.8,
-        "fetched_at": "2026-10-03T01:09:58Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
         "title": "India VS Pakistan Extended Highlights | Asia Cup Final | Channel 9 Sports",
         "url": "https://www.youtube.com/watch?v=GFj5cfzYoEQ",
         "views": 8610831,
@@ -2200,67 +2145,122 @@
         "score": 130.578,
         "fetched_at": "2026-11-04T03:10:58Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "🔴INDIA VS NEW ZEALAND 1ST ODI LIVE: VIRAT KOHLI NE THOKA, INDIA CRUSHED NEW ZEALAND 🔥 #indvsnz",
+        "url": "https://www.youtube.com/watch?v=t82lWNXs8H0",
+        "views": 723796,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 723.796,
+        "fetched_at": "2026-11-05T01:25:48Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "India vs New Zealand 1st ODI Full Match Highlights 2026",
+        "url": "https://www.youtube.com/watch?v=XbZiKcKDDtk",
+        "views": 532892,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 532.892,
+        "fetched_at": "2026-11-05T01:25:48Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "India vs New Zealand 1st ODI 2026 Full Highlights | Ind vs NZ",
+        "url": "https://www.youtube.com/watch?v=qY4vsEvrkK0",
+        "views": 476443,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 476.443,
+        "fetched_at": "2026-11-05T01:25:48Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "NZ vs IND: Virat Kohli's 74 guides India to five-wicket victory in first ODI vs NewZeland !",
+        "url": "https://www.youtube.com/watch?v=0iXyEUzgm5M",
+        "views": 304386,
+        "upload_date": null,
+        "rank": 0,
+        "source": "youtube",
+        "score": 304.386,
+        "fetched_at": "2026-11-05T01:25:48Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Football World Cup 2026: फुटबॉल वर्ल्ड कप में एक और बड़ा उलटफेर | Breaking news | Sports news",
+        "url": "https://www.youtube.com/watch?v=1qnzvPmrrpE",
+        "views": 233923,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 233.923,
+        "fetched_at": "2026-11-05T01:25:48Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "Full Match Highlights | Afghanistan vs Zimbabwe | Match 3 | T20I Series 2026 | ACB | M9T1T",
-        "url": "https://www.youtube.com/watch?v=S6A5uHIvVpY",
-        "views": 271221,
+        "title": "🔴INDIA VS NEW ZEALAND 1ST ODI LIVE: VIRAT KOHLI NE THOKA, INDIA CRUSHED NEW ZEALAND 🔥 #indvsnz",
+        "url": "https://www.youtube.com/watch?v=t82lWNXs8H0",
+        "views": 723796,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 723.796,
+        "fetched_at": "2026-11-05T01:25:48Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "India vs New Zealand 1st ODI Full Match Highlights 2026",
+        "url": "https://www.youtube.com/watch?v=XbZiKcKDDtk",
+        "views": 532892,
         "upload_date": null,
         "rank": 1,
         "source": "youtube",
-        "score": 271.221,
-        "fetched_at": "2026-11-04T03:10:58Z",
+        "score": 532.892,
+        "fetched_at": "2026-11-05T01:25:48Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "IND Vs NZ, 1st ODI : Free में कहां देखें Live Streaming ? Channel | OTT | Time | Sony | Jiohotstar",
-        "url": "https://www.youtube.com/watch?v=QmhG2oR4Oz4",
-        "views": 172844,
-        "upload_date": null,
-        "rank": 3,
-        "source": "youtube",
-        "score": 172.844,
-        "fetched_at": "2026-11-04T03:10:58Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Breaking : Team India Asia Cup 2026 Squad | Vaibhav Sooryavanshi | Abhishek Sharma | Pakistan Nepal",
-        "url": "https://www.youtube.com/watch?v=KTfsT8j8hdE",
-        "views": 166289,
+        "title": "India vs New Zealand 1st ODI 2026 Full Highlights | Ind vs NZ",
+        "url": "https://www.youtube.com/watch?v=qY4vsEvrkK0",
+        "views": 476443,
         "upload_date": null,
         "rank": 2,
         "source": "youtube",
-        "score": 166.289,
-        "fetched_at": "2026-11-04T03:10:58Z",
+        "score": 476.443,
+        "fetched_at": "2026-11-05T01:25:48Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "IPL 20 RETAIN/RELEASE LIST | 10 BIG PLAYERS CAN BE RELEASED | CSK | MI | RCB | GT | PBKS | DC| RR",
-        "url": "https://www.youtube.com/watch?v=tij7-nhKD9A",
-        "views": 147806,
+        "title": "NZ vs IND: Virat Kohli's 74 guides India to five-wicket victory in first ODI vs NewZeland !",
+        "url": "https://www.youtube.com/watch?v=0iXyEUzgm5M",
+        "views": 304386,
         "upload_date": null,
-        "rank": 9,
+        "rank": 0,
         "source": "youtube",
-        "score": 147.806,
-        "fetched_at": "2026-11-04T03:10:58Z",
+        "score": 304.386,
+        "fetched_at": "2026-11-05T01:25:48Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "IPL 2026 News : RCB & RR Venue Update! | Dhoni at 3 for CSK 🤯 | IPL 2026 Schedule | Cric Point",
-        "url": "https://www.youtube.com/watch?v=DWkhpu0VnYg",
-        "views": 130578,
+        "title": "Football World Cup 2026: फुटबॉल वर्ल्ड कप में एक और बड़ा उलटफेर | Breaking news | Sports news",
+        "url": "https://www.youtube.com/watch?v=1qnzvPmrrpE",
+        "views": 233923,
         "upload_date": null,
-        "rank": 6,
+        "rank": 4,
         "source": "youtube",
-        "score": 130.578,
-        "fetched_at": "2026-11-04T03:10:58Z",
+        "score": 233.923,
+        "fetched_at": "2026-11-05T01:25:48Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-04T03:10:58Z",
+    "updated_at": "2026-11-05T01:25:48Z",
     "source_counts": {
       "youtube": 40,
       "reddit": 10
@@ -2268,61 +2268,6 @@
   },
   "tech-review-bot": {
     "suggested": [
-      {
-        "title": "10 Best New Phones in 2026 [So far]",
-        "url": "https://www.youtube.com/watch?v=CprBLNYCVfQ",
-        "views": 98746,
-        "upload_date": null,
-        "rank": 5,
-        "source": "youtube",
-        "score": 98.746,
-        "fetched_at": "2026-10-02T11:42:34Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "I Tested the Weirdest Amazon Products!",
-        "url": "https://www.youtube.com/watch?v=lQIODgEBssw",
-        "views": 3266387,
-        "upload_date": null,
-        "rank": 5,
-        "source": "youtube",
-        "score": 3266.387,
-        "fetched_at": "2026-10-03T01:10:10Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "300 CLEVER Amazon Gadgets Everyone is BUYING! [Smart Gadgets To Simplify Your Life]",
-        "url": "https://www.youtube.com/watch?v=wg1zXTl0e_s",
-        "views": 1237195,
-        "upload_date": null,
-        "rank": 1,
-        "source": "youtube",
-        "score": 1237.195,
-        "fetched_at": "2026-10-03T01:10:10Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Testing and Ranking 9 Amazon Products UNDER $10!",
-        "url": "https://www.youtube.com/watch?v=t57RfIx5jYw",
-        "views": 537113,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 537.113,
-        "fetched_at": "2026-10-03T01:10:10Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "100 Amazon Products You’ll Wish You Bought Sooner (Updated!)",
-        "url": "https://www.youtube.com/watch?v=waGaMaaUr9s",
-        "views": 480817,
-        "upload_date": null,
-        "rank": 0,
-        "source": "youtube",
-        "score": 480.817,
-        "fetched_at": "2026-10-03T01:10:10Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
       {
         "title": "🤯 This AI Gadget will change the future! Top 15 Amazing gadgets on Flipkart: These 15 Gadgets wil...",
         "url": "https://www.youtube.com/watch?v=HCqUFVr6EPM",
@@ -4467,129 +4412,128 @@
         "score": 207.861,
         "fetched_at": "2026-11-04T03:11:08Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Samsung Galaxy Z Fold 8 / Z Fold 8 Ultra - Unboxing and First Impressions",
+        "url": "https://www.youtube.com/watch?v=_t2pgqHFSvo",
+        "views": 422923,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 422.923,
+        "fetched_at": "2026-11-05T01:25:58Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "iphone duo in star white  unboxing, demo & customization ☆",
+        "url": "https://www.youtube.com/watch?v=QMvDY15m8xY",
+        "views": 241173,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 241.173,
+        "fetched_at": "2026-11-05T01:25:58Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Huawei Mate 100 5G Official Trailer, Specs & Price and review unboxing",
+        "url": "https://www.youtube.com/watch?v=dxM9sfidimo",
+        "views": 230883,
+        "upload_date": null,
+        "rank": 3,
+        "source": "youtube",
+        "score": 230.883,
+        "fetched_at": "2026-11-05T01:25:58Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "How to make money reviewing amazon products | Amazon Influencer Program",
+        "url": "https://www.youtube.com/watch?v=2NOCj6c_0gA",
+        "views": 157155,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 157.155,
+        "fetched_at": "2026-11-05T01:25:58Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Bought 10+ CRAZY Diwali Gadgets from Amazon, Flipkart & Meesho! 🪔 Diwali 2026 Special",
+        "url": "https://www.youtube.com/watch?v=uKzJSW8sKfI",
+        "views": 92431,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 92.431,
+        "fetched_at": "2026-11-05T01:25:58Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "NEVER Trust Amazon Reviews!",
-        "url": "https://www.youtube.com/watch?v=SrYkrsBzbOQ",
-        "views": 3939865,
+        "title": "Samsung Galaxy Z Fold 8 / Z Fold 8 Ultra - Unboxing and First Impressions",
+        "url": "https://www.youtube.com/watch?v=_t2pgqHFSvo",
+        "views": 422923,
         "upload_date": null,
-        "rank": 9,
+        "rank": 4,
         "source": "youtube",
-        "score": 3939.865,
-        "fetched_at": "2026-11-04T03:11:08Z",
+        "score": 422.923,
+        "fetched_at": "2026-11-05T01:25:58Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Samsung Z Fold8 Ultra: The Evolution of Folding Phones",
-        "url": "https://www.youtube.com/watch?v=3EVdxel81Q8",
-        "views": 1139240,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 1139.24,
-        "fetched_at": "2026-11-04T03:11:08Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "I Tested This ₹30,000 Phone - Because of You !",
-        "url": "https://www.youtube.com/watch?v=Jf_Sz27I458",
-        "views": 323819,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 323.819,
-        "fetched_at": "2026-11-04T03:11:08Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "This Compact Phone Will RULE In 2027 🔥",
-        "url": "https://www.youtube.com/watch?v=8Qx502PtmBM",
-        "views": 262733,
-        "upload_date": null,
-        "rank": 5,
-        "source": "youtube",
-        "score": 262.733,
-        "fetched_at": "2026-11-04T03:11:08Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "apple's first foldable! ☆ iphone duo unboxing, demo & customization",
+        "title": "iphone duo in star white  unboxing, demo & customization ☆",
         "url": "https://www.youtube.com/watch?v=QMvDY15m8xY",
-        "views": 207861,
+        "views": 241173,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 241.173,
+        "fetched_at": "2026-11-05T01:25:58Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Huawei Mate 100 5G Official Trailer, Specs & Price and review unboxing",
+        "url": "https://www.youtube.com/watch?v=dxM9sfidimo",
+        "views": 230883,
+        "upload_date": null,
+        "rank": 3,
+        "source": "youtube",
+        "score": 230.883,
+        "fetched_at": "2026-11-05T01:25:58Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "How to make money reviewing amazon products | Amazon Influencer Program",
+        "url": "https://www.youtube.com/watch?v=2NOCj6c_0gA",
+        "views": 157155,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 157.155,
+        "fetched_at": "2026-11-05T01:25:58Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Bought 10+ CRAZY Diwali Gadgets from Amazon, Flipkart & Meesho! 🪔 Diwali 2026 Special",
+        "url": "https://www.youtube.com/watch?v=uKzJSW8sKfI",
+        "views": 92431,
         "upload_date": null,
         "rank": 5,
         "source": "youtube",
-        "score": 207.861,
-        "fetched_at": "2026-11-04T03:11:08Z",
+        "score": 92.431,
+        "fetched_at": "2026-11-05T01:25:58Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-04T03:11:08Z",
+    "updated_at": "2026-11-05T01:25:58Z",
     "source_counts": {
-      "youtube": 40,
-      "reddit": 10
+      "youtube": 40
     }
   },
   "bg-auto-job-bot": {
     "suggested": [
-      {
-        "title": "SSC CGL Exam News: घोटाला या डर? क्यों 6,438 छात्रों ने क्यों छोड़ी परीक्षा?",
-        "url": "https://www.youtube.com/watch?v=VTs5oJZQXAA",
-        "views": 83480,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 83.48,
-        "fetched_at": "2026-10-03T01:10:21Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "My Attempt 7*/100 | क्या SSC CGL 2026 सच में PYQ Based है? 🤔 | 1st Oct 2nd Shift | My Honest Review🔥",
-        "url": "https://www.youtube.com/watch?v=8eHXZFCzcOY",
-        "views": 76457,
-        "upload_date": null,
-        "rank": 3,
-        "source": "youtube",
-        "score": 76.457,
-        "fetched_at": "2026-10-03T01:10:21Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Current Affairs Today | 2 Oct Current Affairs 2026 | Daily Current Affairs by Krati Mam | Testbook",
-        "url": "https://www.youtube.com/watch?v=yDakUx_mxEs",
-        "views": 59166,
-        "upload_date": null,
-        "rank": 1,
-        "source": "youtube",
-        "score": 59.166,
-        "fetched_at": "2026-10-03T01:10:21Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Railway New Vacancy 2026: 4000+ पदों पर भर्ती 🔥| कौन भर सकता है FORM? | RRB New Vacancy 2026",
-        "url": "https://www.youtube.com/watch?v=QFD_wPV2bec",
-        "views": 55891,
-        "upload_date": null,
-        "rank": 8,
-        "source": "youtube",
-        "score": 55.891,
-        "fetched_at": "2026-10-03T01:10:21Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "SSC CGL 2026 Day 1 Exam Analysis  | full Paper Review | What SSC Asked?",
-        "url": "https://www.youtube.com/watch?v=FJt3ByXSTac",
-        "views": 54881,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 54.881,
-        "fetched_at": "2026-10-03T01:10:21Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
       {
         "title": "Jan to Sept Current Affairs 2026 | Last 9 Month Current Affairs | Crazy Gk Trick | by Pankaj sir",
         "url": "https://www.youtube.com/watch?v=mOaP3Lko43k",
@@ -6734,69 +6678,125 @@
         "score": 34.177,
         "fetched_at": "2026-11-04T03:11:18Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC CGL ANSWER KEY OUT ",
+        "url": "https://www.youtube.com/watch?v=KQ0cRp06yl8",
+        "views": 166018,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 166.018,
+        "fetched_at": "2026-11-05T01:26:09Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "🔥 SSC CGL 2026 Tier-1 ANSWER KEY OUT !! Live at 9 pm !! COMMENT YOUR SCORE",
+        "url": "https://www.youtube.com/watch?v=N-ztzCAMG20",
+        "views": 77298,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 77.298,
+        "fetched_at": "2026-11-05T01:26:09Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC CGL Answer Key 2026 | SSC CGL 2026 Answer Key Kaise Dekhe? | SSC CGL Tier 1 Answer Key 2026",
+        "url": "https://www.youtube.com/watch?v=oxBBP1TfUbc",
+        "views": 69105,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 69.105,
+        "fetched_at": "2026-11-05T01:26:09Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Current Affairs Today | 4 November 2026 | Daily Current Affairs | Current Affairs by Krati Ma'am",
+        "url": "https://www.youtube.com/watch?v=yCeDAPji4b0",
+        "views": 51895,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 51.895,
+        "fetched_at": "2026-11-05T01:26:09Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC CGL 2026 Answerkey out ✅️  || Easy vs Hard shifts || live Discussion 😱",
+        "url": "https://www.youtube.com/watch?v=G70uotA8h_w",
+        "views": 51768,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 51.768,
+        "fetched_at": "2026-11-05T01:26:09Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "Bank Exam 2026 | Banking Jobs After Graduation | Salary 150000+ 😱 | Complete Details",
-        "url": "https://www.youtube.com/watch?v=ivsg7Cs3atw",
-        "views": 182122,
-        "upload_date": null,
-        "rank": 7,
-        "source": "youtube",
-        "score": 182.122,
-        "fetched_at": "2026-11-04T03:11:18Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "SUPER TET 2026 🎯| Current Affairs + Static GK | SUPER-30 Questions 🔥 | TGT PGT 2026 | Vikas Sir",
-        "url": "https://www.youtube.com/watch?v=iExzozD0MK4",
-        "views": 38712,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 38.712,
-        "fetched_at": "2026-11-04T03:11:18Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "CWC Recruitment 2026 🔥327 Vacancies | Salary Up to ₹1.40 Lakh | Assistant Manager & Junior Executive",
-        "url": "https://www.youtube.com/watch?v=HimeuJM-eBA",
-        "views": 37067,
+        "title": "SSC CGL ANSWER KEY OUT ",
+        "url": "https://www.youtube.com/watch?v=KQ0cRp06yl8",
+        "views": 166018,
         "upload_date": null,
         "rank": 1,
         "source": "youtube",
-        "score": 37.067,
-        "fetched_at": "2026-11-04T03:11:18Z",
+        "score": 166.018,
+        "fetched_at": "2026-11-05T01:26:09Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Current Affairs Today | 3 November 2026 Current Affairs | Daily Current Affairs by Ashutosh Sir",
-        "url": "https://www.youtube.com/watch?v=PEJ_uaYrsxo",
-        "views": 34438,
+        "title": "🔥 SSC CGL 2026 Tier-1 ANSWER KEY OUT !! Live at 9 pm !! COMMENT YOUR SCORE",
+        "url": "https://www.youtube.com/watch?v=N-ztzCAMG20",
+        "views": 77298,
         "upload_date": null,
-        "rank": 6,
+        "rank": 9,
         "source": "youtube",
-        "score": 34.438,
-        "fetched_at": "2026-11-04T03:11:18Z",
+        "score": 77.298,
+        "fetched_at": "2026-11-05T01:26:09Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Axis Bank Recruitment 2026 | 10th, 12th & Graduate Pass Jobs | Bank Job Vacancy 2026 Tamil",
-        "url": "https://www.youtube.com/watch?v=2glAwDH-Ja8",
-        "views": 34177,
+        "title": "SSC CGL Answer Key 2026 | SSC CGL 2026 Answer Key Kaise Dekhe? | SSC CGL Tier 1 Answer Key 2026",
+        "url": "https://www.youtube.com/watch?v=oxBBP1TfUbc",
+        "views": 69105,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 69.105,
+        "fetched_at": "2026-11-05T01:26:09Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Current Affairs Today | 4 November 2026 | Daily Current Affairs | Current Affairs by Krati Ma'am",
+        "url": "https://www.youtube.com/watch?v=yCeDAPji4b0",
+        "views": 51895,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 51.895,
+        "fetched_at": "2026-11-05T01:26:09Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC CGL 2026 Answerkey out ✅️  || Easy vs Hard shifts || live Discussion 😱",
+        "url": "https://www.youtube.com/watch?v=G70uotA8h_w",
+        "views": 51768,
         "upload_date": null,
         "rank": 4,
         "source": "youtube",
-        "score": 34.177,
-        "fetched_at": "2026-11-04T03:11:18Z",
+        "score": 51.768,
+        "fetched_at": "2026-11-05T01:26:09Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-04T03:11:18Z",
+    "updated_at": "2026-11-05T01:26:09Z",
     "source_counts": {
-      "youtube": 50
+      "youtube": 50,
+      "reddit": 9
     }
   },
   "history-facts-bot": {
@@ -8252,23 +8252,34 @@
         "score": 33.005,
         "fetched_at": "2026-11-04T03:11:26Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "सम्पूर्ण विश्व इतिहास | World History One Shot | Complete World History | AI द्वारा | for All Exams",
+        "url": "https://www.youtube.com/watch?v=-zhiZlUZnt0",
+        "views": 899,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 0.899,
+        "fetched_at": "2026-11-05T01:26:18Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "इतिहास के 15 चौंका देने वाले तथ्य | 15 Mind-Blowing Facts From History | The File",
-        "url": "https://www.youtube.com/watch?v=bp9DaVY3WXI",
-        "views": 33005,
+        "title": "सम्पूर्ण विश्व इतिहास | World History One Shot | Complete World History | AI द्वारा | for All Exams",
+        "url": "https://www.youtube.com/watch?v=-zhiZlUZnt0",
+        "views": 899,
         "upload_date": null,
-        "rank": 4,
+        "rank": 7,
         "source": "youtube",
-        "score": 33.005,
-        "fetched_at": "2026-11-04T03:11:26Z",
+        "score": 0.899,
+        "fetched_at": "2026-11-05T01:26:18Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-04T03:11:26Z",
+    "updated_at": "2026-11-05T01:26:18Z",
     "source_counts": {
       "youtube": 30
     }
@@ -9990,11 +10001,34 @@
         "score": 101.301,
         "fetched_at": "2026-11-04T02:12:03Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "5 Creative Shots for Short Video (Instagram Reels + TikTok)",
+        "url": "https://www.youtube.com/watch?v=rbF4rEEApfM",
+        "views": 477887,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 477.887,
+        "fetched_at": "2026-11-05T01:26:25Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
-    "latest": [],
-    "updated_at": "2026-11-04T03:11:32Z",
+    "latest": [
+      {
+        "title": "5 Creative Shots for Short Video (Instagram Reels + TikTok)",
+        "url": "https://www.youtube.com/watch?v=rbF4rEEApfM",
+        "views": 477887,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 477.887,
+        "fetched_at": "2026-11-05T01:26:25Z",
+        "score_type": "views_or_search_rank_heuristic"
+      }
+    ],
+    "updated_at": "2026-11-05T01:26:25Z",
     "source_counts": {
       "youtube": 30
     }
