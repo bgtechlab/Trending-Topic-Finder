@@ -2,61 +2,6 @@
   "sg-news-automation": {
     "suggested": [
       {
-        "title": "Sports Awards 2026 | खेल पुरस्कार 2026 | PET 2026 Current Affairs | Awards & Winners | Ankit Sir",
-        "url": "https://www.youtube.com/watch?v=YWR1Nd0beHU",
-        "views": 123074,
-        "upload_date": null,
-        "rank": 4,
-        "source": "youtube",
-        "score": 123.074,
-        "fetched_at": "2026-10-03T06:52:47Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "IPL 2027: SHOCKER - Abhishek sharma trade? | CSK support staff update | IPL News Tamil",
-        "url": "https://www.youtube.com/watch?v=t7I76YzT-Ck",
-        "views": 41088,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 41.088,
-        "fetched_at": "2026-10-03T06:52:47Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "🔴IPL RETENTION TWIST, ABHISHEK IN TRADE MARKET. HARDIK, ABHISHEK'S CAPTAINCY HUNT.🔥",
-        "url": "https://www.youtube.com/watch?v=_UmV51cxWFA",
-        "views": 38746,
-        "upload_date": null,
-        "rank": 0,
-        "source": "youtube",
-        "score": 38.746,
-        "fetched_at": "2026-10-03T06:52:47Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Team India की 6 New ODI Series का ऐलान! कई खूंखार टीमों से कब-कहां घमासान? AUS, NZ, SA, Pakistan",
-        "url": "https://www.youtube.com/watch?v=B3YGoKSWmxw",
-        "views": 34122,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 34.122,
-        "fetched_at": "2026-10-03T06:52:47Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Sri Lanka vs Bangladesh Asian Games Match Highlights 2026",
-        "url": "https://www.youtube.com/watch?v=RQ0eePbp1D4",
-        "views": 25146,
-        "upload_date": null,
-        "rank": 5,
-        "source": "youtube",
-        "score": 25.146,
-        "fetched_at": "2026-10-03T06:52:47Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
         "title": "IND vs PAK Final match highlights Asian games 2026",
         "url": "https://www.youtube.com/watch?v=PPbHge0dFLM",
         "views": 1482353,
@@ -2200,67 +2145,122 @@
         "score": 161.313,
         "fetched_at": "2026-11-06T02:21:07Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "🔴IND VS NZ: Abhishek-Vaibhav's devastation, brilliant, explosive, rapid chase, hit the bowlers se...",
+        "url": "https://www.youtube.com/watch?v=yVJYjNn1N3o",
+        "views": 660948,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 660.948,
+        "fetched_at": "2026-11-06T03:37:16Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "CSK's Big Trade Shake-Up! Livingstone & Edwards In, Khaleel & Ellis Traded to SRH | IPL Trade Buzz",
+        "url": "https://www.youtube.com/watch?v=iy9lBHU_NGo",
+        "views": 466202,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 466.202,
+        "fetched_at": "2026-11-06T03:37:16Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "VIKRANT GUPTA MATCH REPORT: The world will tremble at the Abhishek-Vaibhav duo! Team India's new ...",
+        "url": "https://www.youtube.com/watch?v=D9BH-tmgbho",
+        "views": 369186,
+        "upload_date": null,
+        "rank": 3,
+        "source": "youtube",
+        "score": 369.186,
+        "fetched_at": "2026-11-06T03:37:16Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "INDIA Vs NZ, ODI Highlights | Virat Kohli | Shubman | Arshdeep | Gambhir | Rohit | Brar | Kamboj",
+        "url": "https://www.youtube.com/watch?v=ks85ezT6sGM",
+        "views": 180415,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 180.415,
+        "fetched_at": "2026-11-06T03:37:16Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "CSK, SRH complete four-player trade ahead of IPL 2027: Liam Livingstone, Khaleel Ahmed switch teams",
+        "url": "https://www.youtube.com/watch?v=ksDyOYdL8L8",
+        "views": 156161,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 156.161,
+        "fetched_at": "2026-11-06T03:37:16Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "India vs Australia 2011 | World Cup 2011 Quarter-final | Full Match Highlights",
-        "url": "https://www.youtube.com/watch?v=e_XV_47IRkI",
-        "views": 736096,
+        "title": "🔴IND VS NZ: Abhishek-Vaibhav's devastation, brilliant, explosive, rapid chase, hit the bowlers se...",
+        "url": "https://www.youtube.com/watch?v=yVJYjNn1N3o",
+        "views": 660948,
         "upload_date": null,
-        "rank": 8,
+        "rank": 5,
         "source": "youtube",
-        "score": 736.096,
-        "fetched_at": "2026-11-06T02:21:07Z",
+        "score": 660.948,
+        "fetched_at": "2026-11-06T03:37:16Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "NZ vs IND: Virat Kohli's 74 guides India to five-wicket victory in first ODI vs New Zealand!",
-        "url": "https://www.youtube.com/watch?v=0iXyEUzgm5M",
-        "views": 365195,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 365.195,
-        "fetched_at": "2026-11-06T02:21:07Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "क्रिस्टियानो रोनाल्डो ने अंतरराष्ट्रीय फुटबॉल से संन्यास लिया",
-        "url": "https://www.youtube.com/watch?v=1jGbBGwWahs",
-        "views": 352423,
+        "title": "CSK's Big Trade Shake-Up! Livingstone & Edwards In, Khaleel & Ellis Traded to SRH | IPL Trade Buzz",
+        "url": "https://www.youtube.com/watch?v=iy9lBHU_NGo",
+        "views": 466202,
         "upload_date": null,
         "rank": 6,
         "source": "youtube",
-        "score": 352.423,
-        "fetched_at": "2026-11-06T02:21:07Z",
+        "score": 466.202,
+        "fetched_at": "2026-11-06T03:37:16Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Suryakumar Yadav को बनाया गया फिर से कप्तान| जानिए कब किससे मैच? Team India| Mumbai| SKY",
-        "url": "https://www.youtube.com/watch?v=aFMwbYOCp70",
-        "views": 167385,
+        "title": "VIKRANT GUPTA MATCH REPORT: The world will tremble at the Abhishek-Vaibhav duo! Team India's new ...",
+        "url": "https://www.youtube.com/watch?v=D9BH-tmgbho",
+        "views": 369186,
         "upload_date": null,
-        "rank": 4,
+        "rank": 3,
         "source": "youtube",
-        "score": 167.385,
-        "fetched_at": "2026-11-06T02:21:07Z",
+        "score": 369.186,
+        "fetched_at": "2026-11-06T03:37:16Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "West Indies vs Bangladesh 2nd Test Match Day 1 Full Highlight 2026",
-        "url": "https://www.youtube.com/watch?v=yXVZrixjM8I",
-        "views": 161313,
+        "title": "INDIA Vs NZ, ODI Highlights | Virat Kohli | Shubman | Arshdeep | Gambhir | Rohit | Brar | Kamboj",
+        "url": "https://www.youtube.com/watch?v=ks85ezT6sGM",
+        "views": 180415,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 180.415,
+        "fetched_at": "2026-11-06T03:37:16Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "CSK, SRH complete four-player trade ahead of IPL 2027: Liam Livingstone, Khaleel Ahmed switch teams",
+        "url": "https://www.youtube.com/watch?v=ksDyOYdL8L8",
+        "views": 156161,
         "upload_date": null,
         "rank": 1,
         "source": "youtube",
-        "score": 161.313,
-        "fetched_at": "2026-11-06T02:21:07Z",
+        "score": 156.161,
+        "fetched_at": "2026-11-06T03:37:16Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-06T02:21:07Z",
+    "updated_at": "2026-11-06T03:37:16Z",
     "source_counts": {
       "youtube": 40,
       "reddit": 10
@@ -2268,39 +2268,6 @@
   },
   "tech-review-bot": {
     "suggested": [
-      {
-        "title": "Start Getting PAID to Review Products on Amazon | Best Side Hustle Ideas for Moms (2024 and 2025)",
-        "url": "https://www.youtube.com/watch?v=rlNNBv5GYjE",
-        "views": 71680,
-        "upload_date": null,
-        "rank": 0,
-        "source": "youtube",
-        "score": 71.68,
-        "fetched_at": "2026-10-03T05:11:39Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Amazon Reviews: Taco Sleeping Bag, Thanos Bathing Suit | The Tonight Show Starring Jimmy Fallon",
-        "url": "https://www.youtube.com/watch?v=MZsN0MtYn0Y",
-        "views": 215538,
-        "upload_date": null,
-        "rank": 3,
-        "source": "youtube",
-        "score": 215.538,
-        "fetched_at": "2026-10-03T06:52:57Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Top 5 Smartphone to Buy Under ₹20,000 In Flipkart Big Billion Day Sale!",
-        "url": "https://www.youtube.com/watch?v=ROlC8q0mLMg",
-        "views": 142095,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 142.095,
-        "fetched_at": "2026-10-03T06:52:57Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
       {
         "title": "Samsung Galaxy S26 Ultra aesthetic unboxing (pink gold) ✨ *first samsung as an iPhone user*",
         "url": "https://www.youtube.com/watch?v=F-AZwBcMC3Y",
@@ -4467,128 +4434,84 @@
         "score": 207.08,
         "fetched_at": "2026-11-06T02:21:18Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Upcoming Mobiles in October 2026🥳 | Month of next Gen. Camera Flagships! 🤩",
+        "url": "https://www.youtube.com/watch?v=-TT5HAVvfU0",
+        "views": 423976,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 423.976,
+        "fetched_at": "2026-11-06T03:37:26Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "This Crazy Good Phone is Coming to India!",
+        "url": "https://www.youtube.com/watch?v=_KMiatRcfiA",
+        "views": 314605,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 314.605,
+        "fetched_at": "2026-11-06T03:37:26Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Top 6 Midrange Phones Recommendation for Yearend 2026!",
+        "url": "https://www.youtube.com/watch?v=5fWiYdCiBvI",
+        "views": 64731,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 64.731,
+        "fetched_at": "2026-11-06T03:37:26Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "I bought the LAZIEST Tech ever.",
-        "url": "https://www.youtube.com/watch?v=lo4bA4p3MBQ",
-        "views": 13376472,
+        "title": "Upcoming Mobiles in October 2026🥳 | Month of next Gen. Camera Flagships! 🤩",
+        "url": "https://www.youtube.com/watch?v=-TT5HAVvfU0",
+        "views": 423976,
         "upload_date": null,
-        "rank": 8,
+        "rank": 5,
         "source": "youtube",
-        "score": 13376.472,
-        "fetched_at": "2026-11-06T02:21:18Z",
+        "score": 423.976,
+        "fetched_at": "2026-11-06T03:37:26Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "I bought every gadget I saw on Instagram",
-        "url": "https://www.youtube.com/watch?v=HzH-2vPLvqM",
-        "views": 12146780,
+        "title": "This Crazy Good Phone is Coming to India!",
+        "url": "https://www.youtube.com/watch?v=_KMiatRcfiA",
+        "views": 314605,
         "upload_date": null,
-        "rank": 9,
+        "rank": 5,
         "source": "youtube",
-        "score": 12146.78,
-        "fetched_at": "2026-11-06T02:21:18Z",
+        "score": 314.605,
+        "fetched_at": "2026-11-06T03:37:26Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "iPhone 17 (sage green) unboxing + decoration🍏🍀aesthetic iOS customization, accessories, camera test",
-        "url": "https://www.youtube.com/watch?v=-xq8NhB05gE",
-        "views": 845376,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 845.376,
-        "fetched_at": "2026-11-06T02:21:18Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "my cute iphone duo in star white ☆ unboxing, demo & customization ",
-        "url": "https://www.youtube.com/watch?v=QMvDY15m8xY",
-        "views": 267942,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 267.942,
-        "fetched_at": "2026-11-06T02:21:18Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "⚡ CRAZY ALL-ROUNDERS Coming This November! 💥🔥",
-        "url": "https://www.youtube.com/watch?v=vAGRzH_Z0iI",
-        "views": 207080,
+        "title": "Top 6 Midrange Phones Recommendation for Yearend 2026!",
+        "url": "https://www.youtube.com/watch?v=5fWiYdCiBvI",
+        "views": 64731,
         "upload_date": null,
         "rank": 6,
         "source": "youtube",
-        "score": 207.08,
-        "fetched_at": "2026-11-06T02:21:18Z",
+        "score": 64.731,
+        "fetched_at": "2026-11-06T03:37:26Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-06T02:21:18Z",
+    "updated_at": "2026-11-06T03:37:26Z",
     "source_counts": {
       "youtube": 40
     }
   },
   "bg-auto-job-bot": {
     "suggested": [
-      {
-        "title": "Fixing the exam cycle: Watch how UPSC and State commissions are getting a makeover!",
-        "url": "https://www.youtube.com/watch?v=hcJNuW4UAGM",
-        "views": 88243,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 88.243,
-        "fetched_at": "2026-10-03T06:53:07Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Current Affairs Today | 03 Oct Current Affairs 2026 | Daily Current Affairs Update By Aadarsh Sir",
-        "url": "https://www.youtube.com/watch?v=pGqPE6XPhqs",
-        "views": 68670,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 68.67,
-        "fetched_at": "2026-10-03T06:53:07Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "🚨 Canara Bank Apprentice 2026: 3500 Vacancies! ഇനി Job നേടാൻ എന്ത് ചെയ്യണം?",
-        "url": "https://www.youtube.com/watch?v=C0yE68n-FhE",
-        "views": 47713,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 47.713,
-        "fetched_at": "2026-10-03T06:53:07Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "SSC CGL Expected Paper 2026 | SSC CGL GK GS Expected Paper 2026 | SSC CGL Exam Review | Krati Mam",
-        "url": "https://www.youtube.com/watch?v=6adYdMLvMwM",
-        "views": 47656,
-        "upload_date": null,
-        "rank": 8,
-        "source": "youtube",
-        "score": 47.656,
-        "fetched_at": "2026-10-03T06:53:07Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "ICICI Bank Recruitment 2026 | ICICI Bank Fresher Vacancy 2026 | Bank Jobs for Freshers in 2026",
-        "url": "https://www.youtube.com/watch?v=3iQKYz_MYaw",
-        "views": 46229,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 46.229,
-        "fetched_at": "2026-10-03T06:53:07Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
       {
         "title": "28 September 2026 Current Affairs | Episode 2189 | Rajya Darshan - Karnataka | Kumar Gaurav Sir",
         "url": "https://www.youtube.com/watch?v=hTOIEUBES8M",
@@ -6733,67 +6656,122 @@
         "score": 65.361,
         "fetched_at": "2026-11-06T02:21:29Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "6 November 2026 Current Affairs | Episode 2224 | Current Affairs Today | Kumar Gaurav Sir",
+        "url": "https://www.youtube.com/watch?v=fn7Q7wzHYhc",
+        "views": 56990,
+        "upload_date": null,
+        "rank": 0,
+        "source": "youtube",
+        "score": 56.99,
+        "fetched_at": "2026-11-06T03:37:37Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC CGL 2026 | 2.5 Lakh+ data big changes in score | Easy vs Hard Shifts & normalisation |Safe Score",
+        "url": "https://www.youtube.com/watch?v=TL_HBhf_eMo",
+        "views": 52271,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 52.271,
+        "fetched_at": "2026-11-06T03:37:37Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC Exam Update 2026 | SSC CGL Exam Date 2026 | SSC Selection Post Phase 14 Exam Date 2026",
+        "url": "https://www.youtube.com/watch?v=hfBSQa_J5i4",
+        "views": 44375,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 44.375,
+        "fetched_at": "2026-11-06T03:37:37Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC CGL 2026 || 50k+ Data🤯 || Easy vs Hard shift || Normalization का गन्दा खेल 🫨 || CGL Cutoff?",
+        "url": "https://www.youtube.com/watch?v=nWe4tu_uIKE",
+        "views": 41147,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 41.147,
+        "fetched_at": "2026-11-06T03:37:37Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC CGL Exam Date 2026 | SSC New Update 2026🚨 New Advisory Out | SSC CGL 2026 Exam Soon | SSC Wallah",
+        "url": "https://www.youtube.com/watch?v=1lMpAWM3Jv8",
+        "views": 41111,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 41.111,
+        "fetched_at": "2026-11-06T03:37:37Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "Will there be BONUS marks for 22 wrong questions in SSC CGL 2026 Answer Key? SSC's major mistake ...",
-        "url": "https://www.youtube.com/watch?v=3f4T76AJP2Y",
-        "views": 204429,
+        "title": "6 November 2026 Current Affairs | Episode 2224 | Current Affairs Today | Kumar Gaurav Sir",
+        "url": "https://www.youtube.com/watch?v=fn7Q7wzHYhc",
+        "views": 56990,
         "upload_date": null,
         "rank": 0,
         "source": "youtube",
-        "score": 204.429,
-        "fetched_at": "2026-11-06T02:21:29Z",
+        "score": 56.99,
+        "fetched_at": "2026-11-06T03:37:37Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "SSC CGL 2026 || 200K+ लोगों का Data🤯 || Safe Score Category-wise || SSC CGL Cut-off 2026 कितना?",
-        "url": "https://www.youtube.com/watch?v=mbOSrOcs3Mg",
-        "views": 100115,
+        "title": "SSC CGL 2026 | 2.5 Lakh+ data big changes in score | Easy vs Hard Shifts & normalisation |Safe Score",
+        "url": "https://www.youtube.com/watch?v=TL_HBhf_eMo",
+        "views": 52271,
         "upload_date": null,
-        "rank": 5,
+        "rank": 1,
         "source": "youtube",
-        "score": 100.115,
-        "fetched_at": "2026-11-06T02:21:29Z",
+        "score": 52.271,
+        "fetched_at": "2026-11-06T03:37:37Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "RRB ALP 2026 l Safe Score l Expected Cut Off  RRB ALP 2026 CBT 2 Preparation Strategy Rakesh Sir",
-        "url": "https://www.youtube.com/watch?v=2gYnBv2j5Zw",
-        "views": 79018,
+        "title": "SSC Exam Update 2026 | SSC CGL Exam Date 2026 | SSC Selection Post Phase 14 Exam Date 2026",
+        "url": "https://www.youtube.com/watch?v=hfBSQa_J5i4",
+        "views": 44375,
         "upload_date": null,
-        "rank": 3,
+        "rank": 8,
         "source": "youtube",
-        "score": 79.018,
-        "fetched_at": "2026-11-06T02:21:29Z",
+        "score": 44.375,
+        "fetched_at": "2026-11-06T03:37:37Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "SSC CGL Tier 1 Answer Key OUT 🔥😱 | My Score??🙃| Expected Cut Off 2026🔥",
-        "url": "https://www.youtube.com/watch?v=JIuoy67S3lc",
-        "views": 77064,
+        "title": "SSC CGL 2026 || 50k+ Data🤯 || Easy vs Hard shift || Normalization का गन्दा खेल 🫨 || CGL Cutoff?",
+        "url": "https://www.youtube.com/watch?v=nWe4tu_uIKE",
+        "views": 41147,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 41.147,
+        "fetched_at": "2026-11-06T03:37:37Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC CGL Exam Date 2026 | SSC New Update 2026🚨 New Advisory Out | SSC CGL 2026 Exam Soon | SSC Wallah",
+        "url": "https://www.youtube.com/watch?v=1lMpAWM3Jv8",
+        "views": 41111,
         "upload_date": null,
         "rank": 9,
         "source": "youtube",
-        "score": 77.064,
-        "fetched_at": "2026-11-06T02:21:29Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "SSC CGL 2026 Tier -1 Hard to Easy Shift | Safe Score",
-        "url": "https://www.youtube.com/watch?v=-AsnLuj6eWc",
-        "views": 65361,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 65.361,
-        "fetched_at": "2026-11-06T02:21:29Z",
+        "score": 41.111,
+        "fetched_at": "2026-11-06T03:37:37Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-06T02:21:29Z",
+    "updated_at": "2026-11-06T03:37:37Z",
     "source_counts": {
       "youtube": 50
     }
@@ -8266,7 +8244,7 @@
     ],
     "uploaded": [],
     "latest": [],
-    "updated_at": "2026-11-06T02:21:38Z",
+    "updated_at": "2026-11-06T03:37:46Z",
     "source_counts": {
       "youtube": 30
     }
@@ -9999,11 +9977,34 @@
         "score": 477.887,
         "fetched_at": "2026-11-05T01:26:25Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Tried Every VIRAL Kitchen Gadget",
+        "url": "https://www.youtube.com/watch?v=2C5NKMM7DZA",
+        "views": 528094,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 528.094,
+        "fetched_at": "2026-11-06T03:37:51Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
-    "latest": [],
-    "updated_at": "2026-11-06T02:21:44Z",
+    "latest": [
+      {
+        "title": "I Tried Every VIRAL Kitchen Gadget",
+        "url": "https://www.youtube.com/watch?v=2C5NKMM7DZA",
+        "views": 528094,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 528.094,
+        "fetched_at": "2026-11-06T03:37:51Z",
+        "score_type": "views_or_search_rank_heuristic"
+      }
+    ],
+    "updated_at": "2026-11-06T03:37:51Z",
     "source_counts": {
       "youtube": 30
     }
