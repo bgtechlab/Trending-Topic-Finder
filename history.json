@@ -2,61 +2,6 @@
   "sg-news-automation": {
     "suggested": [
       {
-        "title": "IPL 2026 ROAST! (WORST IPL EVER?)",
-        "url": "https://www.youtube.com/watch?v=B-ChqgEzvLU",
-        "views": 920926,
-        "upload_date": null,
-        "rank": 1,
-        "source": "youtube",
-        "score": 920.926,
-        "fetched_at": "2026-10-05T05:29:29Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "🔴VIKRANT GUPTA MATCH REPORT: Unless India plays bowlers who can actually bat, they won't win big ...",
-        "url": "https://www.youtube.com/watch?v=0GE8PPSEpR8",
-        "views": 505777,
-        "upload_date": null,
-        "rank": 4,
-        "source": "youtube",
-        "score": 505.777,
-        "fetched_at": "2026-10-05T05:29:29Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Shoaib Akhtar Praises Shreyas Iyer Kind Gesture With Usman Khan | Ind Vs Pak Highlights | Pak Reacts",
-        "url": "https://www.youtube.com/watch?v=TZs7sDR7vFg",
-        "views": 371959,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 371.959,
-        "fetched_at": "2026-10-05T05:29:29Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "ind vs pak highlights",
-        "url": "https://www.youtube.com/watch?v=7V21SKLYdVw",
-        "views": 281474,
-        "upload_date": null,
-        "rank": 7,
-        "source": "youtube",
-        "score": 281.474,
-        "fetched_at": "2026-10-05T05:29:29Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "IND vs WI 3rd ODI HIGHLIGHTS: 351 बना कर भी शर्मनाक हार! Gambhir की 3 ग़लतियों ने करवाया बंटाधार?",
-        "url": "https://www.youtube.com/watch?v=o_yETkbjNsg",
-        "views": 246090,
-        "upload_date": null,
-        "rank": 8,
-        "source": "youtube",
-        "score": 246.09,
-        "fetched_at": "2026-10-05T05:29:29Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
         "title": "Full Match Highlights🏏| India Champions vs England Champions | Match 4 | WCL 2026 | M9O1T",
         "url": "https://www.youtube.com/watch?v=AT0stutky7Q",
         "views": 340755,
@@ -2200,67 +2145,122 @@
         "score": 319.453,
         "fetched_at": "2026-11-08T02:40:11Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Hamza's Ton Seals the Chase | IND vs PAK | English | Highlights | DP World Men’s U19 Asia Cup 2026",
+        "url": "https://www.youtube.com/watch?v=rYWck-xKATA",
+        "views": 1764098,
+        "upload_date": null,
+        "rank": 0,
+        "source": "youtube",
+        "score": 1764.098,
+        "fetched_at": "2026-11-09T02:56:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Match Highlights | Pakistan U19 v UAE U19 | DP World Men's U19 Asia Cup 2026",
+        "url": "https://www.youtube.com/watch?v=8QLqOHiSk9k",
+        "views": 1037018,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 1037.018,
+        "fetched_at": "2026-11-09T02:56:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Full Match Highlights | Emirates Eagles vs RD Champions | M 2 | Abu Dhabi T10 League 2026 | ZU1K",
+        "url": "https://www.youtube.com/watch?v=bwE5eTfgY54",
+        "views": 529916,
+        "upload_date": null,
+        "rank": 3,
+        "source": "youtube",
+        "score": 529.916,
+        "fetched_at": "2026-11-09T02:56:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Full Match Highlights | UAE Bulls vs United Tigers | Match 5 | Abu Dhabi T10 League 2026 | ZU1K",
+        "url": "https://www.youtube.com/watch?v=S9ydnkVs0A4",
+        "views": 384538,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 384.538,
+        "fetched_at": "2026-11-09T02:56:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "BREAKING : HARDIK PANDYA TRADE DEAL FINAL! 3 शर्त |  CSK | RCB | MI | KKR | PBKS | RR | LSG | DC",
+        "url": "https://www.youtube.com/watch?v=KyiosjAhlXU",
+        "views": 357122,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 357.122,
+        "fetched_at": "2026-11-09T02:56:06Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "Tawhid Hridoy's Greatest Knock Ever 242 Run's Against West Indies || 2nd Test || 1st Innings",
-        "url": "https://www.youtube.com/watch?v=hHE9UkjdmCY",
-        "views": 1130840,
+        "title": "Hamza's Ton Seals the Chase | IND vs PAK | English | Highlights | DP World Men’s U19 Asia Cup 2026",
+        "url": "https://www.youtube.com/watch?v=rYWck-xKATA",
+        "views": 1764098,
+        "upload_date": null,
+        "rank": 0,
+        "source": "youtube",
+        "score": 1764.098,
+        "fetched_at": "2026-11-09T02:56:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Match Highlights | Pakistan U19 v UAE U19 | DP World Men's U19 Asia Cup 2026",
+        "url": "https://www.youtube.com/watch?v=8QLqOHiSk9k",
+        "views": 1037018,
         "upload_date": null,
         "rank": 9,
         "source": "youtube",
-        "score": 1130.84,
-        "fetched_at": "2026-11-08T02:40:11Z",
+        "score": 1037.018,
+        "fetched_at": "2026-11-09T02:56:06Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Live: India vs New Zealand, 2nd ODI Live Match Today 2026 Series Cricket Commentary Score 2nd Inn",
-        "url": "https://www.youtube.com/watch?v=syMrl9Zp5wE",
-        "views": 1034980,
+        "title": "Full Match Highlights | Emirates Eagles vs RD Champions | M 2 | Abu Dhabi T10 League 2026 | ZU1K",
+        "url": "https://www.youtube.com/watch?v=bwE5eTfgY54",
+        "views": 529916,
         "upload_date": null,
-        "rank": 5,
+        "rank": 3,
         "source": "youtube",
-        "score": 1034.98,
-        "fetched_at": "2026-11-08T02:40:11Z",
+        "score": 529.916,
+        "fetched_at": "2026-11-09T02:56:06Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "India Vs New Zealand, ODI Highlights : Rahul | Virat | Rohit | Brar | Nabi | Kamboj | Shubman",
-        "url": "https://www.youtube.com/watch?v=pGawfRbEzF4",
-        "views": 401295,
+        "title": "Full Match Highlights | UAE Bulls vs United Tigers | Match 5 | Abu Dhabi T10 League 2026 | ZU1K",
+        "url": "https://www.youtube.com/watch?v=S9ydnkVs0A4",
+        "views": 384538,
         "upload_date": null,
-        "rank": 1,
+        "rank": 7,
         "source": "youtube",
-        "score": 401.295,
-        "fetched_at": "2026-11-08T02:40:11Z",
+        "score": 384.538,
+        "fetched_at": "2026-11-09T02:56:06Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "India vs New Zealand 2nd ODI Full Match Highlights 2026 | IND VS NZ",
-        "url": "https://www.youtube.com/watch?v=0FcKhkWXdtg",
-        "views": 369217,
+        "title": "BREAKING : HARDIK PANDYA TRADE DEAL FINAL! 3 शर्त |  CSK | RCB | MI | KKR | PBKS | RR | LSG | DC",
+        "url": "https://www.youtube.com/watch?v=KyiosjAhlXU",
+        "views": 357122,
         "upload_date": null,
-        "rank": 1,
+        "rank": 2,
         "source": "youtube",
-        "score": 369.217,
-        "fetched_at": "2026-11-08T02:40:11Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Aaryavir Sehwag's Blazing Fifty | IND vs NEP | English |Highlights |DP World Men’s U19 Asia Cup 2026",
-        "url": "https://www.youtube.com/watch?v=YbAYaGvrCUw",
-        "views": 319453,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 319.453,
-        "fetched_at": "2026-11-08T02:40:11Z",
+        "score": 357.122,
+        "fetched_at": "2026-11-09T02:56:06Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-08T02:40:11Z",
+    "updated_at": "2026-11-09T02:56:06Z",
     "source_counts": {
       "youtube": 40,
       "reddit": 10
@@ -2268,61 +2268,6 @@
   },
   "tech-review-bot": {
     "suggested": [
-      {
-        "title": "I Tried This Banned Phone In India! Huawei Pura X View",
-        "url": "https://www.youtube.com/watch?v=i4gE_YjiTjk",
-        "views": 136747,
-        "upload_date": null,
-        "rank": 0,
-        "source": "youtube",
-        "score": 136.747,
-        "fetched_at": "2026-10-05T01:25:10Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "iPhone 18 Pro Max vs iPhone 17 Pro Max | Don't Choose Wrong! (HINDI)",
-        "url": "https://www.youtube.com/watch?v=Gludm2LhYT4",
-        "views": 92101,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 92.101,
-        "fetched_at": "2026-10-05T01:25:10Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Top 5 Best Phones Under ₹30,000 to Buy in Flipkart Big Billion Days & Amazon Sale 2026",
-        "url": "https://www.youtube.com/watch?v=SAoMW8LoLzk",
-        "views": 91036,
-        "upload_date": null,
-        "rank": 5,
-        "source": "youtube",
-        "score": 91.036,
-        "fetched_at": "2026-10-05T01:25:10Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "iPhone 18 Pro Unboxing and Camera Test + Accessories! - Aesthetic ASMR",
-        "url": "https://www.youtube.com/watch?v=aH72Im1qN6Y",
-        "views": 556234,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 556.234,
-        "fetched_at": "2026-10-05T05:29:41Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "I Tried This Banned Phone In India! *Huawei Pura X View*",
-        "url": "https://www.youtube.com/watch?v=i4gE_YjiTjk",
-        "views": 149797,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 149.797,
-        "fetched_at": "2026-10-05T05:29:41Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
       {
         "title": "Top 5 Smartphones To Buy Under ₹40,000 In Flipkart Big Billion Day Sale!",
         "url": "https://www.youtube.com/watch?v=A_ivWjSl130",
@@ -4467,128 +4412,128 @@
         "score": 75.66,
         "fetched_at": "2026-11-08T02:40:21Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Unboxing the Tesla Electro Phone!",
+        "url": "https://www.youtube.com/watch?v=uPxkrGL0l7U",
+        "views": 18078407,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 18078.407,
+        "fetched_at": "2026-11-09T02:56:18Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Tested the Weirdest Phones on the Internet.",
+        "url": "https://www.youtube.com/watch?v=T_3O1FCxS5Q",
+        "views": 11759071,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 11759.071,
+        "fetched_at": "2026-11-09T02:56:18Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Samsung Galaxy S25 Ultra & Watch7 🍒| Aesthetic ASMR unboxing 🎀📦 & customization",
+        "url": "https://www.youtube.com/watch?v=8c-waPL2tRM",
+        "views": 2569452,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 2569.452,
+        "fetched_at": "2026-11-09T02:56:18Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Bought All The BEST SELLING Amazon Products",
+        "url": "https://www.youtube.com/watch?v=SC0hFvrpxoE",
+        "views": 2004152,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 2004.152,
+        "fetched_at": "2026-11-09T02:56:18Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Samsung Galaxy Z Flip7 🦋 | ✨️ Aesthetic unboxing 📦 & Customization 🩵✨️ (ASMR) ",
+        "url": "https://www.youtube.com/watch?v=lZ599oNwHVM",
+        "views": 545898,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 545.898,
+        "fetched_at": "2026-11-09T02:56:18Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "wait for these phones..",
-        "url": "https://www.youtube.com/watch?v=AmtV_gz3FSE",
-        "views": 460468,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 460.468,
-        "fetched_at": "2026-11-08T02:40:21Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Amazon Reviews: Taco Sleeping Bag, Thanos Bathing Suit | The Tonight Show Starring Jimmy Fallon",
-        "url": "https://www.youtube.com/watch?v=MZsN0MtYn0Y",
-        "views": 215803,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 215.803,
-        "fetched_at": "2026-11-08T02:40:21Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "OnePlus 16 India Launch, OPPO Reno 17 Coming, Galaxy S27 India Launch, India's Own GPU-#TTN1799",
-        "url": "https://www.youtube.com/watch?v=eTC4Up9Ypbo",
-        "views": 155005,
-        "upload_date": null,
-        "rank": 3,
-        "source": "youtube",
-        "score": 155.005,
-        "fetched_at": "2026-11-08T02:40:21Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "20 Coolest Tech Gadget Available On Amazon India & Online | Gadgets Under Rs10000",
-        "url": "https://www.youtube.com/watch?v=sdmBsb6aYkw",
-        "views": 97559,
+        "title": "Unboxing the Tesla Electro Phone!",
+        "url": "https://www.youtube.com/watch?v=uPxkrGL0l7U",
+        "views": 18078407,
         "upload_date": null,
         "rank": 9,
         "source": "youtube",
-        "score": 97.559,
-        "fetched_at": "2026-11-08T02:40:21Z",
+        "score": 18078.407,
+        "fetched_at": "2026-11-09T02:56:18Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Start Getting PAID to Review Products on Amazon | Best Side Hustle Ideas for Moms (2024 and 2025)",
-        "url": "https://www.youtube.com/watch?v=rlNNBv5GYjE",
-        "views": 75660,
+        "title": "I Tested the Weirdest Phones on the Internet.",
+        "url": "https://www.youtube.com/watch?v=T_3O1FCxS5Q",
+        "views": 11759071,
         "upload_date": null,
-        "rank": 0,
+        "rank": 6,
         "source": "youtube",
-        "score": 75.66,
-        "fetched_at": "2026-11-08T02:40:21Z",
+        "score": 11759.071,
+        "fetched_at": "2026-11-09T02:56:18Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Samsung Galaxy S25 Ultra & Watch7 🍒| Aesthetic ASMR unboxing 🎀📦 & customization",
+        "url": "https://www.youtube.com/watch?v=8c-waPL2tRM",
+        "views": 2569452,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 2569.452,
+        "fetched_at": "2026-11-09T02:56:18Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Bought All The BEST SELLING Amazon Products",
+        "url": "https://www.youtube.com/watch?v=SC0hFvrpxoE",
+        "views": 2004152,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 2004.152,
+        "fetched_at": "2026-11-09T02:56:18Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Samsung Galaxy Z Flip7 🦋 | ✨️ Aesthetic unboxing 📦 & Customization 🩵✨️ (ASMR) ",
+        "url": "https://www.youtube.com/watch?v=lZ599oNwHVM",
+        "views": 545898,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 545.898,
+        "fetched_at": "2026-11-09T02:56:18Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-08T02:40:21Z",
+    "updated_at": "2026-11-09T02:56:18Z",
     "source_counts": {
       "youtube": 40
     }
   },
   "bg-auto-job-bot": {
     "suggested": [
-      {
-        "title": "IBPS Clerk 2026 Notification Out 🔥 11,403 Vacancies | SSC Students Can Apply | by Gagan Pratap Sir",
-        "url": "https://www.youtube.com/watch?v=hwlzYfWUstU",
-        "views": 144998,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 144.998,
-        "fetched_at": "2026-10-05T05:29:52Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Big Changes in UPSC: What Every Aspirant Must Know #upsc",
-        "url": "https://www.youtube.com/watch?v=y72961yz-Z8",
-        "views": 55111,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 55.111,
-        "fetched_at": "2026-10-05T05:29:52Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "SSC CGL 2026 Matrix and Coding-Decoding 🔥 | Important for Upcoming Shifts",
-        "url": "https://www.youtube.com/watch?v=0_em32T0RHs",
-        "views": 52478,
-        "upload_date": null,
-        "rank": 4,
-        "source": "youtube",
-        "score": 52.478,
-        "fetched_at": "2026-10-05T05:29:52Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "SBI New Recruitment 2026 | SBI New Vacancy 2026 | SBI Job Vacancy 2026 | Bank Job Vacancy in 2026",
-        "url": "https://www.youtube.com/watch?v=k_6rvXT0t08",
-        "views": 52061,
-        "upload_date": null,
-        "rank": 8,
-        "source": "youtube",
-        "score": 52.061,
-        "fetched_at": "2026-10-05T05:29:52Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "RRB NTPC New Vacancy 2026 | RRB NTPC Best Post, Salary | RRB NTPC Preparation Strategy & Exam Update",
-        "url": "https://www.youtube.com/watch?v=V_iDdGDgPeg",
-        "views": 51029,
-        "upload_date": null,
-        "rank": 7,
-        "source": "youtube",
-        "score": 51.029,
-        "fetched_at": "2026-10-05T05:29:52Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
       {
         "title": "RRB NTPC New Vacancy 2026 | RRB NTPC Strategy 2026 | RRB NTPC Preparation Strategy &Exam Date Update",
         "url": "https://www.youtube.com/watch?v=Xle7cpqwfuA",
@@ -6733,67 +6678,122 @@
         "score": 61.039,
         "fetched_at": "2026-11-08T02:40:32Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC CGL 2026 VACANCY REDUCED | BIG UPDATE",
+        "url": "https://www.youtube.com/watch?v=KQ1Sl_0ghq8",
+        "views": 248770,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 248.77,
+        "fetched_at": "2026-11-09T02:56:29Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC CGL 2026 (Tier - 1) Hardest Shift Cut Off & My Score 📌 Normalization में होगा Game Change 🔥",
+        "url": "https://www.youtube.com/watch?v=thTFwkgd1_s",
+        "views": 92140,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 92.14,
+        "fetched_at": "2026-11-09T02:56:29Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "RRB Station Master New Vacancy 2026 l RRB Station Master Preparation Strategy Safe Zone l Syllabus",
+        "url": "https://www.youtube.com/watch?v=sNIAk5ltXuI",
+        "views": 58944,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 58.944,
+        "fetched_at": "2026-11-09T02:56:29Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Current Affairs Today | 7 November 2026 | Daily Current Affairs | Current Affairs by Krati Ma'am",
+        "url": "https://www.youtube.com/watch?v=D3jCjRu4r_4",
+        "views": 53561,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 53.561,
+        "fetched_at": "2026-11-09T02:56:29Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "UPSC Mains Result 2026 OUT! | UPSC Interview Date & Next Steps | Sudarshan Gurjar",
+        "url": "https://www.youtube.com/watch?v=BJF6XmNlHwY",
+        "views": 45522,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 45.522,
+        "fetched_at": "2026-11-09T02:56:29Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "UPSC Syllabus Will Change? 😱 Shocking Update by UPSC Chairman | UPSC CSE 2027 Syllabus Latest News",
-        "url": "https://www.youtube.com/watch?v=zt43hJSZ_pU",
-        "views": 334156,
+        "title": "SSC CGL 2026 VACANCY REDUCED | BIG UPDATE",
+        "url": "https://www.youtube.com/watch?v=KQ1Sl_0ghq8",
+        "views": 248770,
         "upload_date": null,
-        "rank": 0,
+        "rank": 8,
         "source": "youtube",
-        "score": 334.156,
-        "fetched_at": "2026-11-08T02:40:32Z",
+        "score": 248.77,
+        "fetched_at": "2026-11-09T02:56:29Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "SSC Office से सीधा Update | SSC CGL Exam कब होगा? | SSC CHSL Notification कब आएगा? | SSC Latest News",
-        "url": "https://www.youtube.com/watch?v=UpRcEQLNExo",
-        "views": 128925,
+        "title": "SSC CGL 2026 (Tier - 1) Hardest Shift Cut Off & My Score 📌 Normalization में होगा Game Change 🔥",
+        "url": "https://www.youtube.com/watch?v=thTFwkgd1_s",
+        "views": 92140,
         "upload_date": null,
-        "rank": 7,
+        "rank": 1,
         "source": "youtube",
-        "score": 128.925,
-        "fetched_at": "2026-11-08T02:40:32Z",
+        "score": 92.14,
+        "fetched_at": "2026-11-09T02:56:29Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "RRB NTPC Safe Zone 2026 🔥 Top 5 SAFE & DANGER ZONES | Railway NTPC Latest Data | Total Form Fill Up",
-        "url": "https://www.youtube.com/watch?v=Y8k_CP8i2JY",
-        "views": 79814,
+        "title": "RRB Station Master New Vacancy 2026 l RRB Station Master Preparation Strategy Safe Zone l Syllabus",
+        "url": "https://www.youtube.com/watch?v=sNIAk5ltXuI",
+        "views": 58944,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 58.944,
+        "fetched_at": "2026-11-09T02:56:29Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Current Affairs Today | 7 November 2026 | Daily Current Affairs | Current Affairs by Krati Ma'am",
+        "url": "https://www.youtube.com/watch?v=D3jCjRu4r_4",
+        "views": 53561,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 53.561,
+        "fetched_at": "2026-11-09T02:56:29Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "UPSC Mains Result 2026 OUT! | UPSC Interview Date & Next Steps | Sudarshan Gurjar",
+        "url": "https://www.youtube.com/watch?v=BJF6XmNlHwY",
+        "views": 45522,
         "upload_date": null,
         "rank": 2,
         "source": "youtube",
-        "score": 79.814,
-        "fetched_at": "2026-11-08T02:40:32Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "SSC CGL 2026 🚨 | 23 Questions Wrong? 11 Questions Syllabus से बाहर! | Aditya Ranjan Sir",
-        "url": "https://www.youtube.com/watch?v=OjAz4O1hGMM",
-        "views": 61551,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 61.551,
-        "fetched_at": "2026-11-08T02:40:32Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "SSC CGL 2026 Expected Cut Off 🔥 | Category & Shift Wise Analysis & Safe Score | Rohit Tripathi",
-        "url": "https://www.youtube.com/watch?v=uTlgIQ4bFv0",
-        "views": 61039,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 61.039,
-        "fetched_at": "2026-11-08T02:40:32Z",
+        "score": 45.522,
+        "fetched_at": "2026-11-09T02:56:29Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-08T02:40:32Z",
+    "updated_at": "2026-11-09T02:56:29Z",
     "source_counts": {
       "youtube": 50
     }
@@ -8317,34 +8317,34 @@
         "score": 0.099,
         "fetched_at": "2026-11-08T02:40:41Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "History of Cocaine | The Dark Truth About the World's Most Dangerous Drug",
+        "url": "https://www.youtube.com/watch?v=v4AVcPU6TO0",
+        "views": 3964,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 3.964,
+        "fetched_at": "2026-11-09T02:56:38Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "world history || part-1 || Avadh Ojha",
-        "url": "https://www.youtube.com/watch?v=zE0hy32b5N0",
-        "views": 12526,
+        "title": "History of Cocaine | The Dark Truth About the World's Most Dangerous Drug",
+        "url": "https://www.youtube.com/watch?v=v4AVcPU6TO0",
+        "views": 3964,
         "upload_date": null,
-        "rank": 4,
+        "rank": 1,
         "source": "youtube",
-        "score": 12.526,
-        "fetched_at": "2026-11-08T02:40:41Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "इतिहास से जुड़े रोचक तथ्य जानकर चौंक जाओगे/itihaas se Jude rochak tathya #bharatfacts #historyfact",
-        "url": "https://www.youtube.com/watch?v=7f44MrtoRe8",
-        "views": 99,
-        "upload_date": null,
-        "rank": 8,
-        "source": "youtube",
-        "score": 0.099,
-        "fetched_at": "2026-11-08T02:40:41Z",
+        "score": 3.964,
+        "fetched_at": "2026-11-09T02:56:38Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-08T02:40:41Z",
+    "updated_at": "2026-11-09T02:56:38Z",
     "source_counts": {
       "youtube": 30
     }
@@ -10132,11 +10132,100 @@
         "score": 1.092,
         "fetched_at": "2026-11-07T03:11:12Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Tested Every Science Gadget on Amazon",
+        "url": "https://www.youtube.com/watch?v=VrXIjava968",
+        "views": 7662838,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 7662.838,
+        "fetched_at": "2026-11-09T02:56:46Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "We Bought Shorts From Amazon • Ladylike",
+        "url": "https://www.youtube.com/watch?v=dZdq5HGyQuU",
+        "views": 6423985,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 6423.985,
+        "fetched_at": "2026-11-09T02:56:46Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Tested Clickbait Shorts",
+        "url": "https://www.youtube.com/watch?v=G3BrjbGicbA",
+        "views": 3395758,
+        "upload_date": null,
+        "rank": 3,
+        "source": "youtube",
+        "score": 3395.758,
+        "fetched_at": "2026-11-09T02:56:46Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Tested Clickbait Shorts (Again)",
+        "url": "https://www.youtube.com/watch?v=NfNP6KV1tUM",
+        "views": 1547370,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 1547.37,
+        "fetched_at": "2026-11-09T02:56:46Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
-    "latest": [],
-    "updated_at": "2026-11-08T02:40:48Z",
+    "latest": [
+      {
+        "title": "I Tested Every Science Gadget on Amazon",
+        "url": "https://www.youtube.com/watch?v=VrXIjava968",
+        "views": 7662838,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 7662.838,
+        "fetched_at": "2026-11-09T02:56:46Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "We Bought Shorts From Amazon • Ladylike",
+        "url": "https://www.youtube.com/watch?v=dZdq5HGyQuU",
+        "views": 6423985,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 6423.985,
+        "fetched_at": "2026-11-09T02:56:46Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Tested Clickbait Shorts",
+        "url": "https://www.youtube.com/watch?v=G3BrjbGicbA",
+        "views": 3395758,
+        "upload_date": null,
+        "rank": 3,
+        "source": "youtube",
+        "score": 3395.758,
+        "fetched_at": "2026-11-09T02:56:46Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Tested Clickbait Shorts (Again)",
+        "url": "https://www.youtube.com/watch?v=NfNP6KV1tUM",
+        "views": 1547370,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 1547.37,
+        "fetched_at": "2026-11-09T02:56:46Z",
+        "score_type": "views_or_search_rank_heuristic"
+      }
+    ],
+    "updated_at": "2026-11-09T02:56:46Z",
     "source_counts": {
       "youtube": 30
     }
