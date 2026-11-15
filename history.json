@@ -2,61 +2,6 @@
   "sg-news-automation": {
     "suggested": [
       {
-        "title": "Full Match Highlights | Australia vs Bangladesh | M7 | World Championship of Legends 2026 | M9O1H",
-        "url": "https://www.youtube.com/watch?v=WR43McCuGQk",
-        "views": 918240,
-        "upload_date": null,
-        "rank": 1,
-        "source": "youtube",
-        "score": 918.24,
-        "fetched_at": "2026-10-08T05:55:16Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Yuvraj Singh’s 71 & Kulkarni’s 4-Wicket Haul | Full Highlights | IND vs AUS | WCL 2026 | M9O1J",
-        "url": "https://www.youtube.com/watch?v=RCDpnWD1PnE",
-        "views": 684235,
-        "upload_date": null,
-        "rank": 7,
-        "source": "youtube",
-        "score": 684.235,
-        "fetched_at": "2026-10-08T05:55:16Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "India vs West Indies 1st T20 Full Highlights 2026 | IND VS WINDIES",
-        "url": "https://www.youtube.com/watch?v=pVziJVSFhk0",
-        "views": 572494,
-        "upload_date": null,
-        "rank": 3,
-        "source": "youtube",
-        "score": 572.494,
-        "fetched_at": "2026-10-08T05:55:16Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Bhuvneshwar Kumar RETURNS! 🔥 Harmanpreet Resigns, Ganguly Joins DC - Big Cricket Stories #Aakashvani",
-        "url": "https://www.youtube.com/watch?v=iUnLTKt31j0",
-        "views": 551653,
-        "upload_date": null,
-        "rank": 4,
-        "source": "youtube",
-        "score": 551.653,
-        "fetched_at": "2026-10-08T05:55:16Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "India A vs Australia A 1st ODI Full Match Highlights 2026",
-        "url": "https://www.youtube.com/watch?v=QBxOODvjXRk",
-        "views": 543669,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 543.669,
-        "fetched_at": "2026-10-08T05:55:16Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
         "title": "Asian Games 2026: भारत से मिली हार पर क्या बोले पाकिस्तानी क्रिकेट फ़ैंस?",
         "url": "https://www.youtube.com/watch?v=eZD6XKfBhrU",
         "views": 685683,
@@ -2200,128 +2145,128 @@
         "score": 363.49,
         "fetched_at": "2026-11-14T03:30:33Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Match Highlights | Grand Finale | Pakistan U19 v India U19 | DP World Men's U19 Asia Cup 2026",
+        "url": "https://www.youtube.com/watch?v=cGjyzWYtiBg",
+        "views": 3078839,
+        "upload_date": null,
+        "rank": 0,
+        "source": "youtube",
+        "score": 3078.839,
+        "fetched_at": "2026-11-15T03:00:48Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "India's Dramatic Last Ball Win | IND vs PAK | Hindi | Highlights | DP World Men’s U19 Asia Cup 2026",
+        "url": "https://www.youtube.com/watch?v=aC0Ckc7_IBI",
+        "views": 2717653,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 2717.653,
+        "fetched_at": "2026-11-15T03:00:48Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "India's Championship Winning Moment | DP World Men's U19 Asia Cup 2026",
+        "url": "https://www.youtube.com/watch?v=gvHPxawdemg",
+        "views": 2214357,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 2214.357,
+        "fetched_at": "2026-11-15T03:00:48Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "🔴INDIA VS PAKISTAN U19 ASIA CUP FINAL LIVE: INDIA NE PAKISTAN KO THOKA, PHIR HARA PAKISTAN #indvspak",
+        "url": "https://www.youtube.com/watch?v=DTIX1_2R4fs",
+        "views": 1583081,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 1583.081,
+        "fetched_at": "2026-11-15T03:00:48Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "India's Dramatic Last Ball Win | IND vs PAK |English | Highlights | DP World Men’s U19 Asia Cup 2026",
+        "url": "https://www.youtube.com/watch?v=TiLcDSjuDP8",
+        "views": 1177112,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 1177.112,
+        "fetched_at": "2026-11-15T03:00:48Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "Australia v England 2026-27 | First ODI",
-        "url": "https://www.youtube.com/watch?v=TGxb_x_dnh8",
-        "views": 3619015,
+        "title": "Match Highlights | Grand Finale | Pakistan U19 v India U19 | DP World Men's U19 Asia Cup 2026",
+        "url": "https://www.youtube.com/watch?v=cGjyzWYtiBg",
+        "views": 3078839,
         "upload_date": null,
         "rank": 0,
         "source": "youtube",
-        "score": 3619.015,
-        "fetched_at": "2026-11-14T03:30:33Z",
+        "score": 3078.839,
+        "fetched_at": "2026-11-15T03:00:48Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Ind vs NZ: India 89 All Out, NZ Clinch Stunning Win As Matt Henry Bags 6 | Shubhankar Mishra",
-        "url": "https://www.youtube.com/watch?v=jj2ou-RLDvY",
-        "views": 489447,
-        "upload_date": null,
-        "rank": 0,
-        "source": "youtube",
-        "score": 489.447,
-        "fetched_at": "2026-11-14T03:30:33Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "🔴IND vs NZ 4TH ODI: ROHIT, VIRAT, SHREYAS से लेकर INDIA की पूरी BATTING हुई EXPOSE, 89  पर ALL-OUT",
-        "url": "https://www.youtube.com/watch?v=Uf7Z3ALlcGE",
-        "views": 420353,
+        "title": "India's Dramatic Last Ball Win | IND vs PAK | Hindi | Highlights | DP World Men’s U19 Asia Cup 2026",
+        "url": "https://www.youtube.com/watch?v=aC0Ckc7_IBI",
+        "views": 2717653,
         "upload_date": null,
         "rank": 6,
         "source": "youtube",
-        "score": 420.353,
-        "fetched_at": "2026-11-14T03:30:33Z",
+        "score": 2717.653,
+        "fetched_at": "2026-11-15T03:00:48Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Ind Vs Nz Full Highlights 4th ODI Match 2026 | India Vs New Zealand Highlights",
-        "url": "https://www.youtube.com/watch?v=iiNx4oPqVPE",
-        "views": 403631,
+        "title": "India's Championship Winning Moment | DP World Men's U19 Asia Cup 2026",
+        "url": "https://www.youtube.com/watch?v=gvHPxawdemg",
+        "views": 2214357,
         "upload_date": null,
-        "rank": 2,
+        "rank": 7,
         "source": "youtube",
-        "score": 403.631,
-        "fetched_at": "2026-11-14T03:30:33Z",
+        "score": 2214.357,
+        "fetched_at": "2026-11-15T03:00:48Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "JAISWAL RETAIN!! 💀 KKR 50Cr Purse? 😱👀 Released Players - Part 2 | IPL 2027 Release List | Cric Point",
-        "url": "https://www.youtube.com/watch?v=Xlf5R_8QmzQ",
-        "views": 363490,
+        "title": "🔴INDIA VS PAKISTAN U19 ASIA CUP FINAL LIVE: INDIA NE PAKISTAN KO THOKA, PHIR HARA PAKISTAN #indvspak",
+        "url": "https://www.youtube.com/watch?v=DTIX1_2R4fs",
+        "views": 1583081,
         "upload_date": null,
         "rank": 9,
         "source": "youtube",
-        "score": 363.49,
-        "fetched_at": "2026-11-14T03:30:33Z",
+        "score": 1583.081,
+        "fetched_at": "2026-11-15T03:00:48Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "India's Dramatic Last Ball Win | IND vs PAK |English | Highlights | DP World Men’s U19 Asia Cup 2026",
+        "url": "https://www.youtube.com/watch?v=TiLcDSjuDP8",
+        "views": 1177112,
+        "upload_date": null,
+        "rank": 1,
+        "source": "youtube",
+        "score": 1177.112,
+        "fetched_at": "2026-11-15T03:00:48Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-14T03:30:33Z",
+    "updated_at": "2026-11-15T03:00:48Z",
     "source_counts": {
       "youtube": 40
     }
   },
   "tech-review-bot": {
     "suggested": [
-      {
-        "title": "Flipkart Big Billion Days 2026 - 5 Crazy Smartphone Deals Under ₹15000 🔥 BBD SALE Best Mobile Offers",
-        "url": "https://www.youtube.com/watch?v=g2raGbMwuKc",
-        "views": 20126,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 20.126,
-        "fetched_at": "2026-10-07T05:50:17Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Top 5 Best Upcoming Mobiles Launching in November 2026! 📱 Best Camera + Big Battery #mobile",
-        "url": "https://www.youtube.com/watch?v=merhdczjT8g",
-        "views": 1127,
-        "upload_date": null,
-        "rank": 3,
-        "source": "youtube",
-        "score": 1.127,
-        "fetched_at": "2026-10-07T05:50:17Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "I BOUGHT WORLD'S SMALLEST GADGET",
-        "url": "https://www.youtube.com/watch?v=Mzy5D2RGdio",
-        "views": 2947706,
-        "upload_date": null,
-        "rank": 8,
-        "source": "youtube",
-        "score": 2947.706,
-        "fetched_at": "2026-10-08T05:55:26Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Best Smartphone to Buy - My Clear Suggestion (2026)",
-        "url": "https://www.youtube.com/watch?v=pL3xeFqZxvg",
-        "views": 807067,
-        "upload_date": null,
-        "rank": 0,
-        "source": "youtube",
-        "score": 807.067,
-        "fetched_at": "2026-10-08T05:55:26Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "The Best Phone Under ₹40,000 Right Now!",
-        "url": "https://www.youtube.com/watch?v=MMQA56oN6iM",
-        "views": 105397,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 105.397,
-        "fetched_at": "2026-10-08T05:55:26Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
       {
         "title": "vivo V80 Unboxing Final",
         "url": "https://www.youtube.com/watch?v=nKw-JDy4lv8",
@@ -4466,128 +4411,128 @@
         "score": 86.974,
         "fetched_at": "2026-11-14T03:30:44Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Let My Chat Order Me Amazon Products.",
+        "url": "https://www.youtube.com/watch?v=CWrIkmjZKi0",
+        "views": 4245864,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 4245.864,
+        "fetched_at": "2026-11-15T03:00:56Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "iQOO Neo 12 - Worth the Wait in India?",
+        "url": "https://www.youtube.com/watch?v=6U1TVSVsXXE",
+        "views": 267285,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 267.285,
+        "fetched_at": "2026-11-15T03:00:56Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Price Hike Good News😍Bad News for Indian🥲,iPhone 18 Sad News😭,Redmi Note 18 10,000mAh",
+        "url": "https://www.youtube.com/watch?v=EDD39Z1eNq8",
+        "views": 180403,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 180.403,
+        "fetched_at": "2026-11-15T03:00:56Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Samsung Galaxy S26 Ultra aesthetic unboxing (pink gold) ✨ *first samsung as an iPhone user*",
+        "url": "https://www.youtube.com/watch?v=F-AZwBcMC3Y",
+        "views": 114872,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 114.872,
+        "fetched_at": "2026-11-15T03:00:56Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "7+ Crazy CASIO Watches of 2026🔥",
+        "url": "https://www.youtube.com/watch?v=MG2tfhHCb5g",
+        "views": 67422,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 67.422,
+        "fetched_at": "2026-11-15T03:00:56Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "You Don't Need a Flagship Phone in 2026.",
-        "url": "https://www.youtube.com/watch?v=EJOlzcTP4nQ",
-        "views": 738764,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 738.764,
-        "fetched_at": "2026-11-14T03:30:44Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Xiaomi 18 Pro Max Unboxing!",
-        "url": "https://www.youtube.com/watch?v=QSfmh8RIegU",
-        "views": 184312,
-        "upload_date": null,
-        "rank": 3,
-        "source": "youtube",
-        "score": 184.312,
-        "fetched_at": "2026-11-14T03:30:44Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "India’s Only OnePlus Flagship?",
-        "url": "https://www.youtube.com/watch?v=NMWyxHpA6xM",
-        "views": 149612,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 149.612,
-        "fetched_at": "2026-11-14T03:30:44Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Redmi 14000mAh Phone😲, iQOO 16R confirmed, Poco X9 Pro Max Specs, vivo X500 India launch & more",
-        "url": "https://www.youtube.com/watch?v=11m8XWF5bGM",
-        "views": 132042,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 132.042,
-        "fetched_at": "2026-11-14T03:30:44Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "The ONLY Phone to Buy Under 20K!",
-        "url": "https://www.youtube.com/watch?v=8z02dZC3Lw8",
-        "views": 86974,
+        "title": "I Let My Chat Order Me Amazon Products.",
+        "url": "https://www.youtube.com/watch?v=CWrIkmjZKi0",
+        "views": 4245864,
         "upload_date": null,
         "rank": 7,
         "source": "youtube",
-        "score": 86.974,
-        "fetched_at": "2026-11-14T03:30:44Z",
+        "score": 4245.864,
+        "fetched_at": "2026-11-15T03:00:56Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "iQOO Neo 12 - Worth the Wait in India?",
+        "url": "https://www.youtube.com/watch?v=6U1TVSVsXXE",
+        "views": 267285,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 267.285,
+        "fetched_at": "2026-11-15T03:00:56Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Price Hike Good News😍Bad News for Indian🥲,iPhone 18 Sad News😭,Redmi Note 18 10,000mAh",
+        "url": "https://www.youtube.com/watch?v=EDD39Z1eNq8",
+        "views": 180403,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 180.403,
+        "fetched_at": "2026-11-15T03:00:56Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Samsung Galaxy S26 Ultra aesthetic unboxing (pink gold) ✨ *first samsung as an iPhone user*",
+        "url": "https://www.youtube.com/watch?v=F-AZwBcMC3Y",
+        "views": 114872,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 114.872,
+        "fetched_at": "2026-11-15T03:00:56Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "7+ Crazy CASIO Watches of 2026🔥",
+        "url": "https://www.youtube.com/watch?v=MG2tfhHCb5g",
+        "views": 67422,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 67.422,
+        "fetched_at": "2026-11-15T03:00:56Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-14T03:30:44Z",
+    "updated_at": "2026-11-15T03:00:56Z",
     "source_counts": {
       "youtube": 40
     }
   },
   "bg-auto-job-bot": {
     "suggested": [
-      {
-        "title": "RRB Station Master Vacancy 2026 | बड़ा बदलाव! 70%–30% Exam Pattern | Form Date, Selection Process",
-        "url": "https://www.youtube.com/watch?v=Q5Zx48pPwew",
-        "views": 464355,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 464.355,
-        "fetched_at": "2026-10-08T05:55:36Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "🚨 Railway Station Master Vacancy 2026 | Station Master Paper Pattern & Syllabus | Sahil Sir",
-        "url": "https://www.youtube.com/watch?v=9BBHUiGS5s4",
-        "views": 326177,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 326.177,
-        "fetched_at": "2026-10-08T05:55:36Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "RRB NTPC Notification 2026 | Join @officialrwarailwayexams | RRB NTPC New Vacancy 2026",
-        "url": "https://www.youtube.com/watch?v=o0qkKWg3UN0",
-        "views": 241215,
-        "upload_date": null,
-        "rank": 4,
-        "source": "youtube",
-        "score": 241.215,
-        "fetched_at": "2026-10-08T05:55:36Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "08 October 2026 Current Affairs | Episode 2198 | Rajya Darshan - Tripura | Kumar Gaurav Sir",
-        "url": "https://www.youtube.com/watch?v=6I-0Kd6k58g",
-        "views": 179428,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 179.428,
-        "fetched_at": "2026-10-08T05:55:36Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "UPSC Prelims 2026 Sparks Massive Student Outcry | Aspirants Call Paper Unfair And Lengthy",
-        "url": "https://www.youtube.com/watch?v=ANOA2e3wF1M",
-        "views": 144046,
-        "upload_date": null,
-        "rank": 8,
-        "source": "youtube",
-        "score": 144.046,
-        "fetched_at": "2026-10-08T05:55:36Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
       {
         "title": "Railway Station Master Vacancy 2026 | RRB Station Master Notification 2026 | RRB NTPC Vacancy 2026",
         "url": "https://www.youtube.com/watch?v=Q5Zx48pPwew",
@@ -6732,67 +6677,122 @@
         "score": 44.558,
         "fetched_at": "2026-11-14T03:30:55Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "🚨RRB Group D Result 2026 | Group D All Zone Cut Off 🎯 | Sahil Sir",
+        "url": "https://www.youtube.com/watch?v=JAbiIfkFFiU",
+        "views": 96039,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 96.039,
+        "fetched_at": "2026-11-15T03:01:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "RRB GROUP D 2026 | RRB GROUP D 10TH PASS VACANCY 2026 | RAILWAY GROUP D FORM DATE 2026",
+        "url": "https://www.youtube.com/watch?v=PO-FnFunQw8",
+        "views": 68541,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 68.541,
+        "fetched_at": "2026-11-15T03:01:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Current Affairs Today | 14 November 2026 | Daily Current Affairs | Current Affairs by Krati Ma'am",
+        "url": "https://www.youtube.com/watch?v=r5JHzWfkyuc",
+        "views": 49742,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 49.742,
+        "fetched_at": "2026-11-15T03:01:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Railway Job Vacancy 2026 | ഈ Post ലക്ഷ്യമിടാം! | Apply Date ഉടൻ | Railway Recruitment Update",
+        "url": "https://www.youtube.com/watch?v=-UuIQYRAl2E",
+        "views": 37671,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 37.671,
+        "fetched_at": "2026-11-15T03:01:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "RRB NTPC UG 2026 | Form भरने की Last Date बढ़ी? | Latest Update | By Pawan Sir",
+        "url": "https://www.youtube.com/watch?v=gmZhAyNDS2c",
+        "views": 36115,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 36.115,
+        "fetched_at": "2026-11-15T03:01:06Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "RRB ALP Answer Key 2026 | RRB ALP Expected Cut Off 2026 | RRB ALP CBT 2 Exam Date | RRB ALP Cut Off",
-        "url": "https://www.youtube.com/watch?v=EBL_KkDyb5M",
-        "views": 203560,
+        "title": "🚨RRB Group D Result 2026 | Group D All Zone Cut Off 🎯 | Sahil Sir",
+        "url": "https://www.youtube.com/watch?v=JAbiIfkFFiU",
+        "views": 96039,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 96.039,
+        "fetched_at": "2026-11-15T03:01:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "RRB GROUP D 2026 | RRB GROUP D 10TH PASS VACANCY 2026 | RAILWAY GROUP D FORM DATE 2026",
+        "url": "https://www.youtube.com/watch?v=PO-FnFunQw8",
+        "views": 68541,
         "upload_date": null,
         "rank": 4,
         "source": "youtube",
-        "score": 203.56,
-        "fetched_at": "2026-11-14T03:30:55Z",
+        "score": 68.541,
+        "fetched_at": "2026-11-15T03:01:06Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "RRB Station Master Form Fill Up 2026 Last Date कब? | Station Master Vacancy Top 5 Zone |Full Details",
-        "url": "https://www.youtube.com/watch?v=9wrW1rUxCQg",
-        "views": 78603,
-        "upload_date": null,
-        "rank": 5,
-        "source": "youtube",
-        "score": 78.603,
-        "fetched_at": "2026-11-14T03:30:55Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Railway New Vacancy 2026  | 4000+ पदों पर भर्ती🔥 | 10th Pass Railway Jobs | Syllabus & Eligibility",
-        "url": "https://www.youtube.com/watch?v=GcHP1bSWdh8",
-        "views": 54002,
-        "upload_date": null,
-        "rank": 0,
-        "source": "youtube",
-        "score": 54.002,
-        "fetched_at": "2026-11-14T03:30:55Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Current Affairs Today | 13 November 2026 | Daily Current Affairs | Current Affairs by Krati Ma'am",
-        "url": "https://www.youtube.com/watch?v=NMJmDGiD540",
-        "views": 50644,
+        "title": "Current Affairs Today | 14 November 2026 | Daily Current Affairs | Current Affairs by Krati Ma'am",
+        "url": "https://www.youtube.com/watch?v=r5JHzWfkyuc",
+        "views": 49742,
         "upload_date": null,
         "rank": 7,
         "source": "youtube",
-        "score": 50.644,
-        "fetched_at": "2026-11-14T03:30:55Z",
+        "score": 49.742,
+        "fetched_at": "2026-11-15T03:01:06Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Railway New Vacancy 2026-27 | Railway Vacancy, Selection Process & Form Date? | Complete Details",
-        "url": "https://www.youtube.com/watch?v=Sqo4AjPFuNM",
-        "views": 44558,
+        "title": "Railway Job Vacancy 2026 | ഈ Post ലക്ഷ്യമിടാം! | Apply Date ഉടൻ | Railway Recruitment Update",
+        "url": "https://www.youtube.com/watch?v=-UuIQYRAl2E",
+        "views": 37671,
         "upload_date": null,
         "rank": 9,
         "source": "youtube",
-        "score": 44.558,
-        "fetched_at": "2026-11-14T03:30:55Z",
+        "score": 37.671,
+        "fetched_at": "2026-11-15T03:01:06Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "RRB NTPC UG 2026 | Form भरने की Last Date बढ़ी? | Latest Update | By Pawan Sir",
+        "url": "https://www.youtube.com/watch?v=gmZhAyNDS2c",
+        "views": 36115,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 36.115,
+        "fetched_at": "2026-11-15T03:01:06Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-14T03:30:55Z",
+    "updated_at": "2026-11-15T03:01:06Z",
     "source_counts": {
       "youtube": 50
     }
@@ -8459,67 +8459,34 @@
         "score": 0.07,
         "fetched_at": "2026-11-14T03:31:04Z",
         "score_type": "views_or_search_rank_heuristic"
-      }
-    ],
-    "uploaded": [],
-    "latest": [
-      {
-        "title": "Real & Full History of Australia (इस दुनिया की खोज अचानक हो गई)",
-        "url": "https://www.youtube.com/watch?v=YzTs3ETK__w",
-        "views": 2602726,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 2602.726,
-        "fetched_at": "2026-11-14T03:31:04Z",
-        "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Travel To Papua new guinea | Amazing Facts And Documentary About Papua new guinea Urdu & Hindi ",
-        "url": "https://www.youtube.com/watch?v=BjZ8QgilNmM",
-        "views": 0,
-        "upload_date": null,
-        "rank": 0,
-        "source": "youtube",
-        "score": 0.1,
-        "fetched_at": "2026-11-14T03:31:04Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "THE HISTORY SUGAR || चीनी का इतिहास || Hindi Documentary",
-        "url": "https://www.youtube.com/watch?v=abItivGk5J8",
-        "views": 0,
-        "upload_date": null,
-        "rank": 1,
-        "source": "youtube",
-        "score": 0.09,
-        "fetched_at": "2026-11-14T03:31:04Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "भीड़ गवर्नर हाउस में घुसी और सब लूट लिया #video136  #gandhiji #afterindependencetragedy",
-        "url": "https://www.youtube.com/watch?v=1u1sET5B8ug",
+        "title": "Complete World History for UPSC CSE | Smart Revision through Animation | OnlyIAS",
+        "url": "https://www.youtube.com/watch?v=qVC1Xd2p5rs",
         "views": 0,
         "upload_date": null,
         "rank": 2,
         "source": "youtube",
         "score": 0.08,
-        "fetched_at": "2026-11-14T03:31:04Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Babri Masjid Full History in Hindi | 1528 to 2019 | Complete Story of Ayodhya",
-        "url": "https://www.youtube.com/watch?v=Q1PtgrD4cNM",
-        "views": 0,
-        "upload_date": null,
-        "rank": 3,
-        "source": "youtube",
-        "score": 0.07,
-        "fetched_at": "2026-11-14T03:31:04Z",
+        "fetched_at": "2026-11-15T03:01:14Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-14T03:31:04Z",
+    "uploaded": [],
+    "latest": [
+      {
+        "title": "Complete World History for UPSC CSE | Smart Revision through Animation | OnlyIAS",
+        "url": "https://www.youtube.com/watch?v=qVC1Xd2p5rs",
+        "views": 0,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 0.08,
+        "fetched_at": "2026-11-15T03:01:14Z",
+        "score_type": "views_or_search_rank_heuristic"
+      }
+    ],
+    "updated_at": "2026-11-15T03:01:14Z",
     "source_counts": {
       "youtube": 30
     }
@@ -10494,45 +10461,122 @@
         "score": 0.24,
         "fetched_at": "2026-11-14T03:31:11Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Level 1 to 100 Science Gadgets",
+        "url": "https://www.youtube.com/watch?v=yFRoKxOkNSk",
+        "views": 14993959,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 14993.959,
+        "fetched_at": "2026-11-15T03:01:21Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "School Gadgets That Get You Expelled",
+        "url": "https://www.youtube.com/watch?v=NTFcXY3SJYg",
+        "views": 12898708,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 12898.708,
+        "fetched_at": "2026-11-15T03:01:21Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Science Experiments From Easy to Extreme",
+        "url": "https://www.youtube.com/watch?v=fP8Z5TdMAhc",
+        "views": 7903093,
+        "upload_date": null,
+        "rank": 9,
+        "source": "youtube",
+        "score": 7903.093,
+        "fetched_at": "2026-11-15T03:01:21Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "18 Cool Gadgets You’ll Want in 2026",
+        "url": "https://www.youtube.com/watch?v=mgHgAMTSYK0",
+        "views": 496359,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 496.359,
+        "fetched_at": "2026-11-15T03:01:21Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "17 Coolest Tech Gadgets That Are Totally Worth Buying in 2026!",
+        "url": "https://www.youtube.com/watch?v=4UF9UuuOmhU",
+        "views": 46930,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 46.93,
+        "fetched_at": "2026-11-15T03:01:21Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "Husband hates my Amazon purchase! | #shorts #amazonfinds #funny",
-        "url": "https://www.youtube.com/watch?v=pc4Q4dZBUzw",
-        "views": 829103,
+        "title": "Level 1 to 100 Science Gadgets",
+        "url": "https://www.youtube.com/watch?v=yFRoKxOkNSk",
+        "views": 14993959,
         "upload_date": null,
-        "rank": 6,
+        "rank": 7,
         "source": "youtube",
-        "score": 829.103,
-        "fetched_at": "2026-11-14T03:31:11Z",
+        "score": 14993.959,
+        "fetched_at": "2026-11-15T03:01:21Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Are These the Best Women's Hiking Shorts on Amazon? Hugut Cargo Hiking Shorts",
-        "url": "https://www.youtube.com/watch?v=oWpweuCnc2w",
-        "views": 296,
+        "title": "School Gadgets That Get You Expelled",
+        "url": "https://www.youtube.com/watch?v=NTFcXY3SJYg",
+        "views": 12898708,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 12898.708,
+        "fetched_at": "2026-11-15T03:01:21Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Science Experiments From Easy to Extreme",
+        "url": "https://www.youtube.com/watch?v=fP8Z5TdMAhc",
+        "views": 7903093,
         "upload_date": null,
         "rank": 9,
         "source": "youtube",
-        "score": 0.296,
-        "fetched_at": "2026-11-14T03:31:11Z",
+        "score": 7903.093,
+        "fetched_at": "2026-11-15T03:01:21Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "TOP AMAZON SUMMER FASHION SKIRTS AND SHORTS TRY ON",
-        "url": "https://www.youtube.com/watch?v=W7JZgzeKqd4",
-        "views": 240,
+        "title": "18 Cool Gadgets You’ll Want in 2026",
+        "url": "https://www.youtube.com/watch?v=mgHgAMTSYK0",
+        "views": 496359,
         "upload_date": null,
-        "rank": 2,
+        "rank": 6,
         "source": "youtube",
-        "score": 0.24,
-        "fetched_at": "2026-11-14T03:31:11Z",
+        "score": 496.359,
+        "fetched_at": "2026-11-15T03:01:21Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "17 Coolest Tech Gadgets That Are Totally Worth Buying in 2026!",
+        "url": "https://www.youtube.com/watch?v=4UF9UuuOmhU",
+        "views": 46930,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 46.93,
+        "fetched_at": "2026-11-15T03:01:21Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-14T03:31:11Z",
+    "updated_at": "2026-11-15T03:01:21Z",
     "source_counts": {
       "youtube": 30
     }
