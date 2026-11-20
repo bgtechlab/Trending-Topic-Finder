@@ -2,61 +2,6 @@
   "sg-news-automation": {
     "suggested": [
       {
-        "title": "HIGHLIGHTS | Proteas vs Australia | 1st Test | Day 3",
-        "url": "https://www.youtube.com/watch?v=A3ioyU_0RvE",
-        "views": 951859,
-        "upload_date": null,
-        "rank": 5,
-        "source": "youtube",
-        "score": 951.859,
-        "fetched_at": "2026-10-13T06:42:58Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Full Highlights | Day 4 | Afghanistan vs Bangladesh | One-Off Test | M9Q1J",
-        "url": "https://www.youtube.com/watch?v=Z4VWcwAQr2o",
-        "views": 551327,
-        "upload_date": null,
-        "rank": 8,
-        "source": "youtube",
-        "score": 551.327,
-        "fetched_at": "2026-10-13T06:42:58Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "India vs West Indies 3rd T20 Full Highlights 2026 | IND VS WI",
-        "url": "https://www.youtube.com/watch?v=T6VaOlljZ70",
-        "views": 495609,
-        "upload_date": null,
-        "rank": 7,
-        "source": "youtube",
-        "score": 495.609,
-        "fetched_at": "2026-10-13T06:42:58Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "India Vs West Indies : Abhishek Sharma | Ishan | Arshdeep | Gambhir | Shreyas | Highlights",
-        "url": "https://www.youtube.com/watch?v=yD_9hjxusXA",
-        "views": 238423,
-        "upload_date": null,
-        "rank": 8,
-        "source": "youtube",
-        "score": 238.423,
-        "fetched_at": "2026-10-13T06:42:58Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Khel Samachar में देखिये स्पोर्ट्स हेडलाइंस",
-        "url": "https://www.youtube.com/watch?v=eK6y4Y0PdHo",
-        "views": 221747,
-        "upload_date": null,
-        "rank": 1,
-        "source": "youtube",
-        "score": 221.747,
-        "fetched_at": "2026-10-13T06:42:58Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
         "title": "Full Match Highlights | India Champions vs South Africa Champions | Match 11 | WCL 2026 | M9O1H",
         "url": "https://www.youtube.com/watch?v=41XdAwKNqIc",
         "views": 446771,
@@ -2200,128 +2145,128 @@
         "score": 424.738,
         "fetched_at": "2026-11-19T04:27:36Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "‘THREW UZZIE UNDER THE BUS!’ 😳🔥 | David Warner FIRES BACK at Cummins over Sandpapergate",
+        "url": "https://www.youtube.com/watch?v=Z0rNkH9JDDA",
+        "views": 745918,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 745.918,
+        "fetched_at": "2026-11-20T04:14:14Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "😳 Khawaja & Warner react LIVE to Cricket Australia's Sandpapergate presser | Where to from here?",
+        "url": "https://www.youtube.com/watch?v=RJ_HOaQX8XY",
+        "views": 457242,
+        "upload_date": null,
+        "rank": 3,
+        "source": "youtube",
+        "score": 457.242,
+        "fetched_at": "2026-11-20T04:14:14Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Match Highlights | Bangladesh 'A' v Hong Kong, China | DP World Men's Asia Cup Rising Stars 2026",
+        "url": "https://www.youtube.com/watch?v=DOIULP6hN74",
+        "views": 355866,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 355.866,
+        "fetched_at": "2026-11-20T04:14:14Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "🔴IND VS NZ DAY 1 STUMPS: INDIA SURRENDERS ON DAY ONE? HELPLESS AGAINST NICHOLLS-PHILLIPS, SAVE US...",
+        "url": "https://www.youtube.com/watch?v=6E_37oIoHKg",
+        "views": 355440,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 355.44,
+        "fetched_at": "2026-11-20T04:14:14Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Full Match Highlights | UAE Bulls vs Arabian Aces | Match 28 | Abu Dhabi T10 League 2026 | ZU1K",
+        "url": "https://www.youtube.com/watch?v=MTaVCuYOeBo",
+        "views": 302015,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 302.015,
+        "fetched_at": "2026-11-20T04:14:14Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "Australia v England 2026-27 | Third ODI",
-        "url": "https://www.youtube.com/watch?v=8MXhRmQ4kR0",
-        "views": 3436779,
+        "title": "‘THREW UZZIE UNDER THE BUS!’ 😳🔥 | David Warner FIRES BACK at Cummins over Sandpapergate",
+        "url": "https://www.youtube.com/watch?v=Z0rNkH9JDDA",
+        "views": 745918,
         "upload_date": null,
-        "rank": 1,
+        "rank": 7,
         "source": "youtube",
-        "score": 3436.779,
-        "fetched_at": "2026-11-19T04:27:36Z",
+        "score": 745.918,
+        "fetched_at": "2026-11-20T04:14:14Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Full Highlights | Pakistan vs Sri Lanka | 2nd Test Day 1 | Test Series 2026 | M9V1J",
-        "url": "https://www.youtube.com/watch?v=Gtdbu-QnP2k",
-        "views": 1170582,
+        "title": "😳 Khawaja & Warner react LIVE to Cricket Australia's Sandpapergate presser | Where to from here?",
+        "url": "https://www.youtube.com/watch?v=RJ_HOaQX8XY",
+        "views": 457242,
         "upload_date": null,
-        "rank": 4,
+        "rank": 3,
         "source": "youtube",
-        "score": 1170.582,
-        "fetched_at": "2026-11-19T04:27:36Z",
+        "score": 457.242,
+        "fetched_at": "2026-11-20T04:14:14Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Full Match Highlights | UAE Bulls vs RD Champions | Match 25 | Abu Dhabi T10 League 2026 | ZU1K",
-        "url": "https://www.youtube.com/watch?v=CgnAozPmibc",
-        "views": 849959,
+        "title": "Match Highlights | Bangladesh 'A' v Hong Kong, China | DP World Men's Asia Cup Rising Stars 2026",
+        "url": "https://www.youtube.com/watch?v=DOIULP6hN74",
+        "views": 355866,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 355.866,
+        "fetched_at": "2026-11-20T04:14:14Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "🔴IND VS NZ DAY 1 STUMPS: INDIA SURRENDERS ON DAY ONE? HELPLESS AGAINST NICHOLLS-PHILLIPS, SAVE US...",
+        "url": "https://www.youtube.com/watch?v=6E_37oIoHKg",
+        "views": 355440,
         "upload_date": null,
         "rank": 6,
         "source": "youtube",
-        "score": 849.959,
-        "fetched_at": "2026-11-19T04:27:36Z",
+        "score": 355.44,
+        "fetched_at": "2026-11-20T04:14:14Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "IPL 2027 Retention SHOCKERS! 😱 Which Decision Surprised You Most? #aakashvani #iplretentions #ipl",
-        "url": "https://www.youtube.com/watch?v=vO8cYb6Efq0",
-        "views": 725424,
+        "title": "Full Match Highlights | UAE Bulls vs Arabian Aces | Match 28 | Abu Dhabi T10 League 2026 | ZU1K",
+        "url": "https://www.youtube.com/watch?v=MTaVCuYOeBo",
+        "views": 302015,
         "upload_date": null,
-        "rank": 3,
+        "rank": 2,
         "source": "youtube",
-        "score": 725.424,
-        "fetched_at": "2026-11-19T04:27:36Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Full Match Highlights | UAE Bulls vs United Tigers | Match 26 | Abu Dhabi T10 League 2026 | ZU1K",
-        "url": "https://www.youtube.com/watch?v=pQgTg4zqIGc",
-        "views": 424738,
-        "upload_date": null,
-        "rank": 3,
-        "source": "youtube",
-        "score": 424.738,
-        "fetched_at": "2026-11-19T04:27:36Z",
+        "score": 302.015,
+        "fetched_at": "2026-11-20T04:14:14Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-19T04:27:36Z",
+    "updated_at": "2026-11-20T04:14:14Z",
     "source_counts": {
       "youtube": 40
     }
   },
   "tech-review-bot": {
     "suggested": [
-      {
-        "title": "8 Exciting New Flip Phones Coming in 2026",
-        "url": "https://www.youtube.com/watch?v=yT8BDWmKk1g",
-        "views": 28216,
-        "upload_date": null,
-        "rank": 2,
-        "source": "youtube",
-        "score": 28.216,
-        "fetched_at": "2026-10-12T05:49:08Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "How To Structure Amazon Review Videos",
-        "url": "https://www.youtube.com/watch?v=be8DWzAYk8s",
-        "views": 830,
-        "upload_date": null,
-        "rank": 4,
-        "source": "youtube",
-        "score": 0.83,
-        "fetched_at": "2026-10-12T05:49:08Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Chef Reviews Kitchen Gadgets | S3 E9",
-        "url": "https://www.youtube.com/watch?v=bfAXqZzHsJs",
-        "views": 767660,
-        "upload_date": null,
-        "rank": 3,
-        "source": "youtube",
-        "score": 767.66,
-        "fetched_at": "2026-10-13T06:43:09Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "दिमाग घूम जाएगा इतने CAMPING GADGET देखकर 😱 WINTER RIDE PREPERATION | PRAGO STORE",
-        "url": "https://www.youtube.com/watch?v=FI9j-FuQLNU",
-        "views": 709317,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 709.317,
-        "fetched_at": "2026-10-13T06:43:09Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "I BOUGHT 10+ Car Gadgets From Amazon/Flipkart Under ₹1000 - Are They Really WORTH BUYING??",
-        "url": "https://www.youtube.com/watch?v=5SZdmAo9uPI",
-        "views": 251157,
-        "upload_date": null,
-        "rank": 1,
-        "source": "youtube",
-        "score": 251.157,
-        "fetched_at": "2026-10-13T06:43:09Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
       {
         "title": "Is This the BEST 5G ANDROID Keypad Phone?? 🔥 Unihertz Titan 2 Review!!",
         "url": "https://www.youtube.com/watch?v=RE-r6MyOcZU",
@@ -4466,128 +4411,128 @@
         "score": 181.49,
         "fetched_at": "2026-11-19T04:27:46Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "REAL vs FAKE Tech",
+        "url": "https://www.youtube.com/watch?v=s2OccJMWwkM",
+        "views": 20773942,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 20773.942,
+        "fetched_at": "2026-11-20T04:14:23Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I Tested Every Science Gadget on Amazon",
+        "url": "https://www.youtube.com/watch?v=VrXIjava968",
+        "views": 7782154,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 7782.154,
+        "fetched_at": "2026-11-20T04:14:23Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "A Good Phone with One Big Mistake !",
+        "url": "https://www.youtube.com/watch?v=C5umJxg32Fs",
+        "views": 1350581,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 1350.581,
+        "fetched_at": "2026-11-20T04:14:23Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Best Phones Under Rs. 50,000 – Don't Buy the WRONG One! (Nov 2026)",
+        "url": "https://www.youtube.com/watch?v=t-Ukqwhz-Vs",
+        "views": 250980,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 250.98,
+        "fetched_at": "2026-11-20T04:14:23Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Xiaomi New Product Launch November 2026 | Highlights",
+        "url": "https://www.youtube.com/watch?v=EoLTw6jULJg",
+        "views": 28302,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 28.302,
+        "fetched_at": "2026-11-20T04:14:23Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "I bought the CHEAPEST Tech in India!",
-        "url": "https://www.youtube.com/watch?v=LdlLUogNYMw",
-        "views": 17949643,
-        "upload_date": null,
-        "rank": 1,
-        "source": "youtube",
-        "score": 17949.643,
-        "fetched_at": "2026-11-19T04:27:46Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Testing The Most INSANE Amazon Products",
-        "url": "https://www.youtube.com/watch?v=eIPQKbCpTpI",
-        "views": 2160708,
-        "upload_date": null,
-        "rank": 8,
-        "source": "youtube",
-        "score": 2160.708,
-        "fetched_at": "2026-11-19T04:27:46Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "50 LEGAL Spy Gadgets on Amazon That Feel Illegal to Own",
-        "url": "https://www.youtube.com/watch?v=P5_yz2IehHU",
-        "views": 925993,
+        "title": "REAL vs FAKE Tech",
+        "url": "https://www.youtube.com/watch?v=s2OccJMWwkM",
+        "views": 20773942,
         "upload_date": null,
         "rank": 7,
         "source": "youtube",
-        "score": 925.993,
-        "fetched_at": "2026-11-19T04:27:46Z",
+        "score": 20773.942,
+        "fetched_at": "2026-11-20T04:14:23Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Best Budget Desk Gadgets You Need",
-        "url": "https://www.youtube.com/watch?v=K4huYE1GIHw",
-        "views": 652066,
+        "title": "I Tested Every Science Gadget on Amazon",
+        "url": "https://www.youtube.com/watch?v=VrXIjava968",
+        "views": 7782154,
         "upload_date": null,
-        "rank": 9,
+        "rank": 8,
         "source": "youtube",
-        "score": 652.066,
-        "fetched_at": "2026-11-19T04:27:46Z",
+        "score": 7782.154,
+        "fetched_at": "2026-11-20T04:14:23Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Top 10 Best Upcoming Phones in December 2026 🔥 | iQOO, OnePlus, Xiaomi, OPPO, POCO, Motorola",
-        "url": "https://www.youtube.com/watch?v=UBgeTUER95A",
-        "views": 181490,
+        "title": "A Good Phone with One Big Mistake !",
+        "url": "https://www.youtube.com/watch?v=C5umJxg32Fs",
+        "views": 1350581,
         "upload_date": null,
-        "rank": 9,
+        "rank": 2,
         "source": "youtube",
-        "score": 181.49,
-        "fetched_at": "2026-11-19T04:27:46Z",
+        "score": 1350.581,
+        "fetched_at": "2026-11-20T04:14:23Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Best Phones Under Rs. 50,000 – Don't Buy the WRONG One! (Nov 2026)",
+        "url": "https://www.youtube.com/watch?v=t-Ukqwhz-Vs",
+        "views": 250980,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 250.98,
+        "fetched_at": "2026-11-20T04:14:23Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Xiaomi New Product Launch November 2026 | Highlights",
+        "url": "https://www.youtube.com/watch?v=EoLTw6jULJg",
+        "views": 28302,
+        "upload_date": null,
+        "rank": 8,
+        "source": "youtube",
+        "score": 28.302,
+        "fetched_at": "2026-11-20T04:14:23Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-19T04:27:46Z",
+    "updated_at": "2026-11-20T04:14:23Z",
     "source_counts": {
       "youtube": 40
     }
   },
   "bg-auto-job-bot": {
     "suggested": [
-      {
-        "title": "🚨RRB NTPC 2026 Exam Date Out | NTPC Graduate Exam Date Notification ‼️ | Sahil Sir",
-        "url": "https://www.youtube.com/watch?v=rEazeRWCqik",
-        "views": 310029,
-        "upload_date": null,
-        "rank": 7,
-        "source": "youtube",
-        "score": 310.029,
-        "fetched_at": "2026-10-13T06:43:20Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "RRB NTPC New Vacancy 2026 l RRB NTPC Safe Zone vs Danger Zone l Railway New Vacancy 2026",
-        "url": "https://www.youtube.com/watch?v=HIZSoRyzRBM",
-        "views": 175987,
-        "upload_date": null,
-        "rank": 1,
-        "source": "youtube",
-        "score": 175.987,
-        "fetched_at": "2026-10-13T06:43:20Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "☠️SSC CGL 2026: My Actual Exam Experience 🤯& Honest Paper Review ⚡️| Everything You Need to Know🤫",
-        "url": "https://www.youtube.com/watch?v=_HD1d2w11BU",
-        "views": 154873,
-        "upload_date": null,
-        "rank": 7,
-        "source": "youtube",
-        "score": 154.873,
-        "fetched_at": "2026-10-13T06:43:20Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "SSC CGL 2026 First 26 Shifts Review, Safe Score, mains preparation & other updates| Shubham Sir",
-        "url": "https://www.youtube.com/watch?v=D7jkE_zAcR0",
-        "views": 81765,
-        "upload_date": null,
-        "rank": 4,
-        "source": "youtube",
-        "score": 81.765,
-        "fetched_at": "2026-10-13T06:43:20Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Current Affairs Today | 13 Oct Current Affairs 2026 | Daily Current Affairs Update By Aadarsh Sir",
-        "url": "https://www.youtube.com/watch?v=IqgjwCkLqG0",
-        "views": 72660,
-        "upload_date": null,
-        "rank": 6,
-        "source": "youtube",
-        "score": 72.66,
-        "fetched_at": "2026-10-13T06:43:20Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
       {
         "title": "SuperTET UP Special Current Affairs 2026 | UP Special Current Affairs By Danish sir",
         "url": "https://www.youtube.com/watch?v=f9yYLrpRenM",
@@ -6732,67 +6677,122 @@
         "score": 80.567,
         "fetched_at": "2026-11-19T04:27:55Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC Tablet Exam 2026 | अब Computer पर Exam नहीं होंगे? Pilot Plan Explained | Gagan Pratap Sir",
+        "url": "https://www.youtube.com/watch?v=2nJYylhKFLs",
+        "views": 813332,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 813.332,
+        "fetched_at": "2026-11-20T04:14:32Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC CGL 2026 Expected Cut Off | Category Wise & Shift Wise Cut Off | SSC CGL Safe Score कितना? #cgl",
+        "url": "https://www.youtube.com/watch?v=EzxNQbK11Jg",
+        "views": 279491,
+        "upload_date": null,
+        "rank": 0,
+        "source": "youtube",
+        "score": 279.491,
+        "fetched_at": "2026-11-20T04:14:32Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Railway new vacancy 2026 | RRB NTPC & Station Master | Last 40 Days Roadmap | Gagan Pratap Maths",
+        "url": "https://www.youtube.com/watch?v=fmfuEZRYw68",
+        "views": 194322,
+        "upload_date": null,
+        "rank": 3,
+        "source": "youtube",
+        "score": 194.322,
+        "fetched_at": "2026-11-20T04:14:32Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Last 12 Months Current Affairs 2026 | January 2026 to November 2026 | Imp ssc cgl bpsc ntpc railway",
+        "url": "https://www.youtube.com/watch?v=WyGcgxrsWWE",
+        "views": 96693,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 96.693,
+        "fetched_at": "2026-11-20T04:14:32Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Station Master Vacancy 2026 | RRB Station Master Form Fill UP 2026 | Station Master Safe Zone 2026",
+        "url": "https://www.youtube.com/watch?v=O6l-FxmiFVw",
+        "views": 78250,
+        "upload_date": null,
+        "rank": 7,
+        "source": "youtube",
+        "score": 78.25,
+        "fetched_at": "2026-11-20T04:14:32Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "SSC CGL Expected Cut Off 2026 | SSC CGL Category Wise Cut Off & Analysis | SSC CGL Cut Off 2026 #cgl",
+        "title": "SSC Tablet Exam 2026 | अब Computer पर Exam नहीं होंगे? Pilot Plan Explained | Gagan Pratap Sir",
+        "url": "https://www.youtube.com/watch?v=2nJYylhKFLs",
+        "views": 813332,
+        "upload_date": null,
+        "rank": 6,
+        "source": "youtube",
+        "score": 813.332,
+        "fetched_at": "2026-11-20T04:14:32Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "SSC CGL 2026 Expected Cut Off | Category Wise & Shift Wise Cut Off | SSC CGL Safe Score कितना? #cgl",
         "url": "https://www.youtube.com/watch?v=EzxNQbK11Jg",
-        "views": 196404,
+        "views": 279491,
         "upload_date": null,
         "rank": 0,
         "source": "youtube",
-        "score": 196.404,
-        "fetched_at": "2026-11-19T04:27:55Z",
+        "score": 279.491,
+        "fetched_at": "2026-11-20T04:14:32Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "STATION MASTER VACANCY 2026 | RRB STATION MASTER के लिए 3 बड़ी खुशखबरी 🎉| RAILWAY STATION MASTER",
-        "url": "https://www.youtube.com/watch?v=RQJw9gqbhl0",
-        "views": 169807,
+        "title": "Railway new vacancy 2026 | RRB NTPC & Station Master | Last 40 Days Roadmap | Gagan Pratap Maths",
+        "url": "https://www.youtube.com/watch?v=fmfuEZRYw68",
+        "views": 194322,
         "upload_date": null,
         "rank": 3,
         "source": "youtube",
-        "score": 169.807,
-        "fetched_at": "2026-11-19T04:27:55Z",
+        "score": 194.322,
+        "fetched_at": "2026-11-20T04:14:32Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "SSC New Notice 2026 | Aadhaar Biometric Unlock करना होगा जरूरी? |SSC Biometric Authentication Update",
-        "url": "https://www.youtube.com/watch?v=qB3BYafAWwA",
-        "views": 152278,
+        "title": "Last 12 Months Current Affairs 2026 | January 2026 to November 2026 | Imp ssc cgl bpsc ntpc railway",
+        "url": "https://www.youtube.com/watch?v=WyGcgxrsWWE",
+        "views": 96693,
         "upload_date": null,
-        "rank": 4,
+        "rank": 7,
         "source": "youtube",
-        "score": 152.278,
-        "fetched_at": "2026-11-19T04:27:55Z",
+        "score": 96.693,
+        "fetched_at": "2026-11-20T04:14:32Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "UPSC Mains Result 2026 Out | Total Selection? IAS 2026 Mains Result | Atul Sir, Mains 2026 result",
-        "url": "https://www.youtube.com/watch?v=L_1V-YXfZhg",
-        "views": 122275,
+        "title": "Station Master Vacancy 2026 | RRB Station Master Form Fill UP 2026 | Station Master Safe Zone 2026",
+        "url": "https://www.youtube.com/watch?v=O6l-FxmiFVw",
+        "views": 78250,
         "upload_date": null,
-        "rank": 8,
+        "rank": 7,
         "source": "youtube",
-        "score": 122.275,
-        "fetched_at": "2026-11-19T04:27:55Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Railway new vacancy 2027 🔥 60000+ Vacancies ? 🎯 Railway 2027 Calendar ? Gagan Pratap Maths #rrbntpc",
-        "url": "https://www.youtube.com/watch?v=H_aDjFvUbOs",
-        "views": 80567,
-        "upload_date": null,
-        "rank": 1,
-        "source": "youtube",
-        "score": 80.567,
-        "fetched_at": "2026-11-19T04:27:55Z",
+        "score": 78.25,
+        "fetched_at": "2026-11-20T04:14:32Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-19T04:27:55Z",
+    "updated_at": "2026-11-20T04:14:32Z",
     "source_counts": {
       "youtube": 50
     }
@@ -8547,69 +8547,62 @@
         "score": 0.056,
         "fetched_at": "2026-11-19T04:28:03Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Watch this Video to Understand the Entire HARRY POTTER Universe!",
+        "url": "https://www.youtube.com/watch?v=JO8pTjSAgI4",
+        "views": 864187,
+        "upload_date": null,
+        "rank": 3,
+        "source": "youtube",
+        "score": 864.187,
+        "fetched_at": "2026-11-20T04:14:39Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "HISTORICAL Secrets Of Ravana - Nilesh Oak & Rupa Bhaty On TRS | Ravana's Story",
+        "url": "https://www.youtube.com/watch?v=K0C-ZbeEmUs",
+        "views": 762962,
+        "upload_date": null,
+        "rank": 5,
+        "source": "youtube",
+        "score": 762.962,
+        "fetched_at": "2026-11-20T04:14:39Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "Complete World History (विश्व इतिहास ) for UPSC Mains 2025 | PWOnlyIAS",
-        "url": "https://www.youtube.com/watch?v=m7RlVbvwINs",
-        "views": 89695,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 89.695,
-        "fetched_at": "2026-11-19T04:28:03Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Turkey Travel Vlog 2026  | Turkish Village Life Amazing Facts , History & Documentary | ترکی کے سیر",
-        "url": "https://www.youtube.com/watch?v=fZnL29Wx1RY",
-        "views": 267,
+        "title": "Watch this Video to Understand the Entire HARRY POTTER Universe!",
+        "url": "https://www.youtube.com/watch?v=JO8pTjSAgI4",
+        "views": 864187,
         "upload_date": null,
         "rank": 3,
         "source": "youtube",
-        "score": 0.267,
-        "fetched_at": "2026-11-19T04:28:03Z",
+        "score": 864.187,
+        "fetched_at": "2026-11-20T04:14:39Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Amazing facts in Hindi About History | Interesting facts | General Knowledge |Rochak Tathya #History",
-        "url": "https://www.youtube.com/watch?v=8QYqdsK56N4",
-        "views": 56,
+        "title": "HISTORICAL Secrets Of Ravana - Nilesh Oak & Rupa Bhaty On TRS | Ravana's Story",
+        "url": "https://www.youtube.com/watch?v=K0C-ZbeEmUs",
+        "views": 762962,
         "upload_date": null,
-        "rank": 8,
+        "rank": 5,
         "source": "youtube",
-        "score": 0.056,
-        "fetched_at": "2026-11-19T04:28:03Z",
+        "score": 762.962,
+        "fetched_at": "2026-11-20T04:14:39Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-19T04:28:03Z",
+    "updated_at": "2026-11-20T04:14:39Z",
     "source_counts": {
       "youtube": 30
     }
   },
   "reels-bot": {
     "suggested": [
-      {
-        "title": "USEFUL GADGETS FOR SMART PARENTS",
-        "url": "https://www.youtube.com/watch?v=_7Tl61PViTE",
-        "views": 17406258,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 17406.258
-      },
-      {
-        "title": "I Bought Chat Suggested Amazon Products Again...",
-        "url": "https://www.youtube.com/watch?v=8bdFg1iOWro",
-        "views": 9749836,
-        "upload_date": null,
-        "rank": 1,
-        "source": "youtube",
-        "score": 9749.836
-      },
       {
         "title": "Testing EVERY TikTok Gadget You Tagged Me In | Viral Ventures!",
         "url": "https://www.youtube.com/watch?v=A4rmqRqrzcQ",
@@ -10709,45 +10702,56 @@
         "score": 0.197,
         "fetched_at": "2026-11-19T04:28:09Z",
         "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "Top 50 Amazon Black Friday 2026 Deals (Updated Hourly!! 🔥)",
+        "url": "https://www.youtube.com/watch?v=z-4jDCUL7EI",
+        "views": 484918,
+        "upload_date": null,
+        "rank": 4,
+        "source": "youtube",
+        "score": 484.918,
+        "fetched_at": "2026-11-20T04:14:45Z",
+        "score_type": "views_or_search_rank_heuristic"
+      },
+      {
+        "title": "I tested the most VIRAL TikTok gadgets!",
+        "url": "https://www.youtube.com/watch?v=h359LRmMZMU",
+        "views": 0,
+        "upload_date": null,
+        "rank": 2,
+        "source": "youtube",
+        "score": 0.08,
+        "fetched_at": "2026-11-20T04:14:45Z",
+        "score_type": "views_or_search_rank_heuristic"
       }
     ],
     "uploaded": [],
     "latest": [
       {
-        "title": "60+ Amazon Gadgets That Went Viral In 2026..",
-        "url": "https://www.youtube.com/watch?v=Qd-kTHt--hg",
-        "views": 7841,
+        "title": "Top 50 Amazon Black Friday 2026 Deals (Updated Hourly!! 🔥)",
+        "url": "https://www.youtube.com/watch?v=z-4jDCUL7EI",
+        "views": 484918,
         "upload_date": null,
-        "rank": 7,
+        "rank": 4,
         "source": "youtube",
-        "score": 7.841,
-        "fetched_at": "2026-11-19T04:28:09Z",
+        "score": 484.918,
+        "fetched_at": "2026-11-20T04:14:45Z",
         "score_type": "views_or_search_rank_heuristic"
       },
       {
-        "title": "Most Trendy Shorts for Summers from Amazon | Amazon Finds✨ | Amazon Haul🎀 ",
-        "url": "https://www.youtube.com/watch?v=GtO2qeI72Qc",
-        "views": 5144,
+        "title": "I tested the most VIRAL TikTok gadgets!",
+        "url": "https://www.youtube.com/watch?v=h359LRmMZMU",
+        "views": 0,
         "upload_date": null,
-        "rank": 7,
+        "rank": 2,
         "source": "youtube",
-        "score": 5.144,
-        "fetched_at": "2026-11-19T04:28:09Z",
-        "score_type": "views_or_search_rank_heuristic"
-      },
-      {
-        "title": "Trending instagram Reels Compilation Video  | Trending Song | Trending Reels 2026",
-        "url": "https://www.youtube.com/watch?v=eAL_pjAOgVw",
-        "views": 197,
-        "upload_date": null,
-        "rank": 9,
-        "source": "youtube",
-        "score": 0.197,
-        "fetched_at": "2026-11-19T04:28:09Z",
+        "score": 0.08,
+        "fetched_at": "2026-11-20T04:14:45Z",
         "score_type": "views_or_search_rank_heuristic"
       }
     ],
-    "updated_at": "2026-11-19T04:28:09Z",
+    "updated_at": "2026-11-20T04:14:45Z",
     "source_counts": {
       "youtube": 30
     }
