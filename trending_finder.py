@@ -1,5 +1,5 @@
 """
-Trending Topic Finder — 5 Channels
+Trending Topic Finder — 7 Channels
 ====================================
 Sirf Telegram Bot API + GitHub Actions se chalta hai. Koi paid/official
 YouTube/Google/Reddit API key nahi chahiye — sab public endpoints /
@@ -26,9 +26,11 @@ import time
 import subprocess
 import requests
 from datetime import datetime, timedelta, timezone
+from html import escape
+from urllib.parse import quote_plus
 
 # ---------------------------------------------------------------------
-# CONFIG — 5 channels aur unki niche keywords
+# CONFIG — 7 channels aur unki niche keywords
 # ---------------------------------------------------------------------
 
 CHANNELS = {
@@ -56,6 +58,21 @@ CHANNELS = {
         "label": "BG Reels Bot",
         "keywords": ["trending reel product", "viral gadget shorts", "amazon finds shorts"],
         "competitors": [],
+    },
+    "podcast-summary": {
+        "label": "BG Podcast (Podcast Summary)",
+        "keywords": ["hindi podcast", "raj shamani podcast", "business podcast hindi", "motivational podcast hindi"],
+        "competitors": [],
+        # Podcast bot ko lambi YouTube video ka link chahiye
+        "long_only": True,
+        "min_seconds": 20 * 60,
+    },
+    "documentary": {
+        "label": "BG Documentary",
+        "keywords": ["documentary in hindi", "mystery documentary hindi", "history documentary hindi", "science space documentary hindi"],
+        "competitors": [],
+        "long_only": True,
+        "min_seconds": 5 * 60,
     },
 }
 
@@ -185,6 +202,50 @@ def fetch_google_trends_related(keyword):
     except Exception as e:
         print(f"[google_trends] error: {e}")
         return []
+
+
+def fetch_youtube_long(keyword, min_seconds, limit=15):
+    """Sirf lambi YouTube videos. Pehle 'is hafte + 20 min se lambi' filter
+    wala search, kuch na mile to normal search. Duration check dono par."""
+    search_url = (
+        "https://www.youtube.com/results?search_query="
+        f"{quote_plus(keyword)}&sp=EgQIAxgC"
+    )
+    for query in (search_url, f"ytsearch{limit}:{keyword}"):
+        try:
+            cmd = [
+                "yt-dlp", query, "--flat-playlist", "--dump-json",
+                "--playlist-end", str(limit), "--no-warnings",
+            ]
+            result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
+            if result.returncode != 0:
+                print(f"[youtube-long] non-zero exit for '{keyword}': {result.stderr.strip()[:500]}")
+            videos = []
+            for rank, line in enumerate(result.stdout.strip().split("\n")):
+                if not line:
+                    continue
+                try:
+                    data = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                duration = data.get("duration") or 0
+                if duration < min_seconds or not data.get("id"):
+                    continue
+                videos.append({
+                    "title": data.get("title") or "",
+                    "url": f"https://www.youtube.com/watch?v={data['id']}",
+                    "views": data.get("view_count") or 0,
+                    "upload_date": data.get("upload_date"),
+                    "duration": int(duration),
+                    "rank": rank,
+                    "source": "youtube",
+                })
+            print(f"[youtube-long] '{keyword}' -> {len(videos)} results")
+            if videos:
+                return videos
+        except Exception as e:
+            print(f"[youtube-long] error for '{keyword}': {e}")
+    return []
 
 
 def fetch_all_sources(keywords):
@@ -384,7 +445,8 @@ def build_topic_keyboard(channel_key, topics):
 def format_channel_message(channel_key, label, topics):
     lines = [f"<b>📺 {label}</b> — Top {len(topics)} Trending Topics\n"]
     for i, t in enumerate(topics, 1):
-        lines.append(f"{i}. {t['title']}\n   🔗 {t['url']}  (source: {t['source']})")
+        extra = f", {t['duration'] // 60} min" if t.get("duration") else ""
+        lines.append(f"{i}. {escape(t['title'])}\n   🔗 {escape(t['url'])}  (source: {t['source']}{extra})")
     return "\n".join(lines)
 
 
@@ -401,7 +463,12 @@ def main():
             for e in history.get(channel_key, {}).get("suggested", [])
         }
 
-        raw_topics = fetch_all_sources(cfg["keywords"])
+        if cfg.get("long_only"):
+            raw_topics = []
+            for kw in cfg["keywords"]:
+                raw_topics += fetch_youtube_long(kw, cfg["min_seconds"])
+        else:
+            raw_topics = fetch_all_sources(cfg["keywords"])
         filtered = dedupe_and_filter(raw_topics, used_titles)
         top_topics = rank_topics(filtered, cfg["label"])
         fetched_at = datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
