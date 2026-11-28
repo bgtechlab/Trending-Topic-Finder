@@ -2,52 +2,58 @@ name: Daily Auto Trending Run
 
 on:
   schedule:
-    # Start at 5:10 AM IST (23:40 UTC previous day); wait until 5:57 AM IST.
-    - cron: "40 23 * * *"
-  workflow_dispatch: {} # Manual test; does not wait until 5:57 AM.
+    # Target: 6:00 AM aur 6:00 PM IST.
+    # GitHub ka schedule aksar kai ghante late chalta hai, isliye har slot ke
+    # liye pehle se 3 trigger hain. Job target time tak wait karta hai aur ek
+    # slot ki list sirf ek baar bhejta hai.
+    - cron: "17 17,19,21 * * *" # 6 AM IST slot
+    - cron: "17 5,7,9 * * *"    # 6 PM IST slot
+  workflow_dispatch: {} # Manual run turant chalta hai.
 
 permissions:
   contents: write
 
 concurrency:
-  group: daily-trending
+  group: trending-${{ github.event_name }}
   cancel-in-progress: false
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 360
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }} # latest commit, taaki last_slot.txt taaza mile
+
+      - name: Check slot
+        id: slot
+        env:
+          EVENT: ${{ github.event_name }}
+          CRON: ${{ github.event.schedule }}
+        run: bash slot.sh
 
       - name: Setup Python
+        if: steps.slot.outputs.go == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
+      # Wait ke baad install, taaki yt-dlp sabse naya mile.
+      - name: Wait until send time
+        if: steps.slot.outputs.go == 'true' && steps.slot.outputs.wait != '0'
+        run: sleep "${{ steps.slot.outputs.wait }}"
+
       - name: Install dependencies
+        if: steps.slot.outputs.go == 'true'
         run: |
           python -m pip install --upgrade pip
           pip install requests
           pip install -U yt-dlp
 
-      # Scheduled runs wait until 5:57 AM IST so the update arrives around 6 AM.
-      - name: Wait until 5:57 AM IST
-        if: github.event_name == 'schedule'
-        run: |
-          target=$(TZ=Asia/Kolkata date -d "05:57" +%s)
-          now=$(date +%s)
-          echo "Now (IST): $(TZ=Asia/Kolkata date)"
-          if [ "$now" -lt "$target" ]; then
-            wait_s=$((target - now))
-            echo "Waiting ${wait_s}s ..."
-            sleep "$wait_s"
-          else
-            echo "Already past 5:57 AM IST, running immediately."
-          fi
-
       - name: Run trending finder
+        if: steps.slot.outputs.go == 'true'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -55,9 +61,15 @@ jobs:
         run: python trending_finder.py
 
       - name: Commit updated history
+        if: steps.slot.outputs.go == 'true'
+        env:
+          SLOT: ${{ steps.slot.outputs.id }}
         run: |
           git config user.name "trending-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add history.json || true
-          git diff --cached --quiet || git commit -m "auto: daily history update [skip ci]"
+          if [ -n "$SLOT" ]; then echo "$SLOT" > last_slot.txt; git add last_slot.txt; fi
+          git add history.json
+          git diff --cached --quiet && exit 0
+          git commit -m "auto: daily history update [skip ci]"
+          git pull --rebase -X theirs
           git push
