@@ -83,6 +83,7 @@ RECENCY_DAYS = 3  # kitne purane videos tak consider karna hai
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")  # optional
+GEMINI_MODEL = "gemini-3.6-flash"
 
 TELEGRAM_API = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}"
 
@@ -319,35 +320,60 @@ def heuristic_score(topic):
     return views * recency_bonus
 
 
-def gemini_score(topic, niche_label):
-    """Optional: agar GEMINI_API_KEY set hai to har topic ko 0-10 score de."""
-    if not GEMINI_API_KEY:
-        return None
-    try:
-        url = (
-            "https://generativelanguage.googleapis.com/v1beta/models/"
-            f"gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
-        )
-        prompt = (
-            f"Channel niche: {niche_label}\n"
-            f"Video topic: {topic['title']}\n"
-            "Is topic ka viral potential 0 se 10 ke beech ek number mein "
-            "batao. Sirf number likho, kuch aur nahi."
-        )
-        payload = {"contents": [{"parts": [{"text": prompt}]}]}
-        resp = requests.post(url, json=payload, timeout=20)
-        text = resp.json()["candidates"][0]["content"]["parts"][0]["text"]
-        return float("".join(c for c in text if c.isdigit() or c == "."))
-    except Exception as e:
-        print(f"[gemini] scoring skipped: {e}")
-        return None
+def gemini_scores(topics, niche_label):
+    """Optional: GEMINI_API_KEY set hai to ek channel ke saare topics ko ek
+    hi request mein 0-10 score deta hai. Return: {index: score}.
+    Fail hone par khali dict, tab heuristic scoring chalti hai."""
+    if not GEMINI_API_KEY or not topics:
+        return {}
+    url = (
+        "https://generativelanguage.googleapis.com/v1beta/models/"
+        f"{GEMINI_MODEL}:generateContent"
+    )
+    listing = "\n".join(f"{i}. {t['title']}" for i, t in enumerate(topics))
+    prompt = (
+        f"Channel niche: {niche_label}\n"
+        "Neeche har line ek video topic hai (number. title). Har topic ka viral "
+        "potential is channel ke liye 0 se 10 ke beech do. Niche se bahar wale "
+        "topic ko kam score do.\n"
+        'Sirf JSON do, jaise {"0": 7, "1": 3}\n\n'
+        f"{listing}"
+    )
+    payload = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"responseMimeType": "application/json"},
+    }
+    for attempt in range(3):
+        try:
+            resp = requests.post(
+                url, json=payload, timeout=90,
+                headers={"x-goog-api-key": GEMINI_API_KEY},
+            )
+            if resp.status_code != 200:
+                print(f"[gemini] status {resp.status_code}: {resp.text[:300]}")
+                if resp.status_code not in (429, 500, 502, 503, 504):
+                    return {}
+            else:
+                text = resp.json()["candidates"][0]["content"]["parts"][0]["text"]
+                scores = {
+                    int(k): max(0.0, min(10.0, float(v)))
+                    for k, v in json.loads(text).items()
+                }
+                print(f"[gemini] {niche_label} -> {len(scores)} topics scored")
+                return scores
+        except Exception as e:
+            print(f"[gemini] attempt {attempt + 1} failed: {e}")
+        if attempt < 2:
+            time.sleep(20 * (attempt + 1))
+    return {}
 
 
 def rank_topics(topics, niche_label):
-    for t in topics:
+    ai = gemini_scores(topics, niche_label)
+    for i, t in enumerate(topics):
         h = heuristic_score(t)
-        g = gemini_score(t, niche_label)
-        t["score"] = (h / 1000.0) + (g or 0) * 100  # dono scale ko mila diya
+        t["score"] = (h / 1000.0) + ai.get(i, 0) * 100  # dono scale ko mila diya
+        t["score_type"] = "gemini_plus_heuristic" if i in ai else "views_or_search_rank_heuristic"
     topics.sort(key=lambda x: x["score"], reverse=True)
     return topics[:TOP_N]
 
@@ -478,7 +504,6 @@ def main():
             source_counts[source] = source_counts.get(source, 0) + 1
         for item in top_topics:
             item["fetched_at"] = fetched_at
-            item["score_type"] = "views_or_search_rank_heuristic"
             item["source"] = item.get("source") or "unknown"
 
         # Keep current results separate from long-term duplicate history.
